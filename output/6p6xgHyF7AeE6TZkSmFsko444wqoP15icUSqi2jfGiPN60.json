@@ -9,18 +9,18 @@
             "decimals": 6,
             "name": "OFFICIAL TRUMP",
             "symbol": "TRUMP",
-            "syncedAt": "2025-01-21T15:00:00.000Z",
+            "syncedAt": "2025-01-22T16:00:00.000Z",
             "description": null,
             "isVerifiedSourceCode": null,
             "goplusStats": null,
             "ownerAddress": null,
-            "totalSupply": "999999765043347",
+            "totalSupply": "999999758563935",
             "logo": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw",
             "website": null,
             "deployerAddress": "9k8jWWqfmTTXrc8gmZqYVxSFJhygURvyVRztivJXFTYP",
             "creationBlockNumber": 314587378,
             "creationBlockTimestamp": 1737122459,
-            "holdersCount": "789453",
+            "holdersCount": "798284",
             "version": "1",
             "liquidityPools": {
                 "4CTUHtiHrPHFT4Zc1qNScrposmM7xfupU7EVDWCR7PZw": {
@@ -32,7 +32,7 @@
                     "token0Decimals": 6,
                     "token1Decimals": 9,
                     "protocol": "METEORA_DLMM",
-                    "syncedAt": "2025-01-21T15:00:00.000Z",
+                    "syncedAt": "2025-01-22T15:00:00.000Z",
                     "creationBlockNumber": 314693482,
                     "creationBlockTimestamp": 1737165695,
                     "dex": null,
@@ -44,7 +44,7 @@
                             "baseKey": "11111111111111111111111111111111",
                             "binStep": "125",
                             "creator": "GpQkufRFxppWwSNGbb9tWGPXMAzxVE8742A6dFymVrzz",
-                            "activeId": "409",
+                            "activeId": "406",
                             "bumpSeed": [
                                 255
                             ],
@@ -156,8 +156,8 @@
                                 0
                             ],
                             "protocolFee": {
-                                "amountX": "146926970471",
-                                "amountY": "5105873614815"
+                                "amountX": "147851243545",
+                                "amountY": "5244273436013"
                             },
                             "rewardInfos": [
                                 {
@@ -198,8 +198,8 @@
                                     0,
                                     0
                                 ],
-                                "indexReference": "409",
-                                "lastUpdateTimestamp": "1737470718",
+                                "indexReference": "406",
+                                "lastUpdateTimestamp": "1737561423",
                                 "volatilityReference": "0",
                                 "volatilityAccumulator": "0"
                             },
@@ -233,20 +233,20 @@
                             "preActivationSwapAddress": "11111111111111111111111111111111",
                             "preActivationSlotDuration": "0"
                         },
-                        "price0": "0.1609044449901135509",
-                        "price1": "6.214868707085395",
-                        "reserve0": "423520557230",
-                        "reserve1": "32782858381473",
+                        "price0": "0.15501829146591651389",
+                        "price1": "6.450851641722987",
+                        "reserve0": "428170661382",
+                        "reserve1": "31799076465925",
                         "baseVaultInfo": {
                             "mint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
                             "owner": "4CTUHtiHrPHFT4Zc1qNScrposmM7xfupU7EVDWCR7PZw",
                             "state": "initialized",
                             "isNative": false,
                             "tokenAmount": {
-                                "amount": "423520557230",
+                                "amount": "428170661382",
                                 "decimals": 6,
-                                "uiAmount": 423520.55723,
-                                "uiAmountString": "423520.55723"
+                                "uiAmount": 428170.661382,
+                                "uiAmountString": "428170.661382"
                             }
                         },
                         "token0Address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
@@ -257,10 +257,10 @@
                             "state": "initialized",
                             "isNative": true,
                             "tokenAmount": {
-                                "amount": "32782858381473",
+                                "amount": "31799076465925",
                                 "decimals": 9,
-                                "uiAmount": 32782.858381473,
-                                "uiAmountString": "32782.858381473"
+                                "uiAmount": 31799.076465925,
+                                "uiAmountString": "31799.076465925"
                             },
                             "rentExemptReserve": {
                                 "amount": "2039280",
@@ -277,95 +277,6 @@
                     "initialReserve1": null,
                     "deployerAddress": null
                 },
-                "HKuJrP5tYQLbEUdjKwjgnHs2957QKjR2iWhJKTtMa1xs": {
-                    "chainId": 1399811149,
-                    "pairId": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN_So11111111111111111111111111111111111111112",
-                    "poolAddress": "HKuJrP5tYQLbEUdjKwjgnHs2957QKjR2iWhJKTtMa1xs",
-                    "token0Address": "So11111111111111111111111111111111111111112",
-                    "token1Address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-                    "token0Decimals": 9,
-                    "token1Decimals": 6,
-                    "protocol": "RAYDIUM_CPMM",
-                    "syncedAt": "2025-01-21T15:00:00.000Z",
-                    "creationBlockNumber": 314696188,
-                    "creationBlockTimestamp": 1737166782,
-                    "dex": null,
-                    "protocolData": {
-                        "id": "HKuJrP5tYQLbEUdjKwjgnHs2957QKjR2iWhJKTtMa1xs_1399811149",
-                        "lpInfo": {
-                            "bump": 253,
-                            "mintA": "So11111111111111111111111111111111111111112",
-                            "mintB": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-                            "mintLp": "agALzgtrW9Rronymq3e1R61Q9vSKDFZVTXaiLTzU9VP",
-                            "status": 0,
-                            "vaultA": "7wMM5Tg7igkefH1T2TKqJBpYp5bQKPQjz7yTgvCUZY6Z",
-                            "vaultB": "Gy2JYhV9gAZUBrjq35St78VMrXiufU72Que26pmhMYob",
-                            "configId": "D4FPEruKEHrG5TenZ2mpDGEfu1iUvTiqBxvpU8HLBvC2",
-                            "lpAmount": "1686763150735",
-                            "openTime": "1737166781",
-                            "lpDecimals": 9,
-                            "poolCreator": "4dvg7vU7KKVnY3bp25s9VW6mchh6JZsLqQ3hEMLdbQuz",
-                            "mintDecimalA": 9,
-                            "mintDecimalB": 6,
-                            "mintProgramA": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
-                            "mintProgramB": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
-                            "fundFeesMintA": "37282937",
-                            "fundFeesMintB": "510633",
-                            "observationId": "HSYeHzVCyb2GmVqhug9jP2BgZj5jswgrpU5P8GtfA5M3",
-                            "protocolFeesMintA": "259180481",
-                            "protocolFeesMintB": "2378887"
-                        },
-                        "price0": "6.24368568237418930522",
-                        "price1": "0.16016181000638479714",
-                        "reserve0": "38508060038598",
-                        "reserve1": "240432223119",
-                        "lpMintInfo": {
-                            "supply": "1686763150635",
-                            "decimals": 9,
-                            "isInitialized": true,
-                            "mintAuthority": "GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL",
-                            "freezeAuthority": null
-                        },
-                        "baseVaultInfo": {
-                            "mint": "So11111111111111111111111111111111111111112",
-                            "owner": "GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL",
-                            "state": "initialized",
-                            "isNative": true,
-                            "tokenAmount": {
-                                "amount": "38508060038598",
-                                "decimals": 9,
-                                "uiAmount": 38508.060038598,
-                                "uiAmountString": "38508.060038598"
-                            },
-                            "rentExemptReserve": {
-                                "amount": "2039280",
-                                "decimals": 9,
-                                "uiAmount": 0.00203928,
-                                "uiAmountString": "0.00203928"
-                            }
-                        },
-                        "token0Address": "So11111111111111111111111111111111111111112",
-                        "token1Address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-                        "quoteVaultInfo": {
-                            "mint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-                            "owner": "GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL",
-                            "state": "initialized",
-                            "isNative": false,
-                            "tokenAmount": {
-                                "amount": "240432223119",
-                                "decimals": 6,
-                                "uiAmount": 240432.223119,
-                                "uiAmountString": "240432.223119"
-                            }
-                        }
-                    },
-                    "version": "1",
-                    "suspectedBaseToken": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-                    "factoryAddress": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
-                    "initialReserve0": null,
-                    "initialReserve1": null,
-                    "deployerAddress": null
-                },
                 "GQsPr4RJk9AZkkfWHud7v4MtotcxhaYzZHdsPCg9vNvW": {
                     "chainId": 1399811149,
                     "pairId": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN_So11111111111111111111111111111111111111112",
@@ -375,7 +286,7 @@
                     "token0Decimals": 9,
                     "token1Decimals": 6,
                     "protocol": "RAYDIUM_CLMM",
-                    "syncedAt": "2025-01-21T15:00:00.000Z",
+                    "syncedAt": "2025-01-22T15:00:00.000Z",
                     "creationBlockNumber": 314696438,
                     "creationBlockTimestamp": 1737166882,
                     "dex": null,
@@ -449,7 +360,7 @@
                                 "0"
                             ],
                             "ammConfig": "E64NGkDLLCdQ2yFNPcavaKptrEgmiQaNykUuLC1Qgwyp",
-                            "liquidity": "28820784527417",
+                            "liquidity": "24177403462473",
                             "startTime": "0",
                             "rewardInfos": [
                                 {
@@ -492,14 +403,14 @@
                                     "rewardTotalEmissioned": "0"
                                 }
                             ],
-                            "tickCurrent": "-50776",
+                            "tickCurrent": "-50119",
                             "tickSpacing": "60",
-                            "sqrtPriceX64": "1456776082714997008",
+                            "sqrtPriceX64": "1505480526622688512",
                             "mintDecimalsA": 9,
                             "mintDecimalsB": 6,
                             "observationId": "B39UjYJDygUfufZfwGa2BVbSnLLw9qredg3wDWarMAUx",
-                            "fundFeesTokenA": "129888493",
-                            "fundFeesTokenB": "1597279",
+                            "fundFeesTokenA": "1046875804",
+                            "fundFeesTokenB": "6933704",
                             "tickArrayBitmap": [
                                 "0",
                                 "0",
@@ -508,8 +419,8 @@
                                 "0",
                                 "0",
                                 "2251799813685248",
-                                "8791026408236253248",
-                                "84",
+                                "8935139952413376576",
+                                "524372",
                                 "0",
                                 "0",
                                 "0",
@@ -518,35 +429,35 @@
                                 "0",
                                 "0"
                             ],
-                            "totalFeesTokenA": "19248991551173",
-                            "totalFeesTokenB": "124178308379",
+                            "totalFeesTokenA": "21970275174129",
+                            "totalFeesTokenB": "141038879968",
                             "observationIndex": "0",
-                            "protocolFeesTokenA": "24080792174",
-                            "protocolFeesTokenB": "135653268",
-                            "swapInAmountTokenA": "9166186281559872",
-                            "swapInAmountTokenB": "59132389627223",
-                            "feeGrowthGlobalX64A": "48358329442154735436",
-                            "feeGrowthGlobalX64B": "529041280608826972",
-                            "swapOutAmountTokenA": "9120603428265261",
-                            "swapOutAmountTokenB": "59270118393215",
-                            "totalFeesClaimedTokenA": "18304904218563",
-                            "totalFeesClaimedTokenB": "118446687252",
+                            "protocolFeesTokenA": "794901261",
+                            "protocolFeesTokenB": "9672605",
+                            "swapInAmountTokenA": "10462035603416146",
+                            "swapInAmountTokenB": "67161211886662",
+                            "feeGrowthGlobalX64A": "50034258231794389866",
+                            "feeGrowthGlobalX64B": "539476047549387996",
+                            "swapOutAmountTokenA": "10433723362382223",
+                            "swapOutAmountTokenB": "67151705799983",
+                            "totalFeesClaimedTokenA": "21441441150864",
+                            "totalFeesClaimedTokenB": "137699947276",
                             "observationUpdateDuration": "0"
                         },
-                        "price0": "6.236438",
-                        "price1": "0.16034794220675327",
-                        "reserve0": "51734728577596",
-                        "reserve1": "482670321121",
+                        "price0": "6.65991",
+                        "price1": "0.15015217923365332",
+                        "reserve0": "26890694945300",
+                        "reserve1": "467599212353",
                         "baseVaultInfo": {
                             "mint": "So11111111111111111111111111111111111111112",
                             "owner": "GQsPr4RJk9AZkkfWHud7v4MtotcxhaYzZHdsPCg9vNvW",
                             "state": "initialized",
                             "isNative": true,
                             "tokenAmount": {
-                                "amount": "51734728577596",
+                                "amount": "26890694945300",
                                 "decimals": 9,
-                                "uiAmount": 51734.728577596,
-                                "uiAmountString": "51734.728577596"
+                                "uiAmount": 26890.6949453,
+                                "uiAmountString": "26890.6949453"
                             },
                             "rentExemptReserve": {
                                 "amount": "2039280",
@@ -563,16 +474,105 @@
                             "state": "initialized",
                             "isNative": false,
                             "tokenAmount": {
-                                "amount": "482670321121",
+                                "amount": "467599212353",
                                 "decimals": 6,
-                                "uiAmount": 482670.321121,
-                                "uiAmountString": "482670.321121"
+                                "uiAmount": 467599.212353,
+                                "uiAmountString": "467599.212353"
                             }
                         }
                     },
                     "version": "1",
                     "suspectedBaseToken": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
                     "factoryAddress": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+                    "initialReserve0": null,
+                    "initialReserve1": null,
+                    "deployerAddress": null
+                },
+                "HKuJrP5tYQLbEUdjKwjgnHs2957QKjR2iWhJKTtMa1xs": {
+                    "chainId": 1399811149,
+                    "pairId": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN_So11111111111111111111111111111111111111112",
+                    "poolAddress": "HKuJrP5tYQLbEUdjKwjgnHs2957QKjR2iWhJKTtMa1xs",
+                    "token0Address": "So11111111111111111111111111111111111111112",
+                    "token1Address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+                    "token0Decimals": 9,
+                    "token1Decimals": 6,
+                    "protocol": "RAYDIUM_CPMM",
+                    "syncedAt": "2025-01-22T15:00:00.000Z",
+                    "creationBlockNumber": 314696188,
+                    "creationBlockTimestamp": 1737166782,
+                    "dex": null,
+                    "protocolData": {
+                        "id": "HKuJrP5tYQLbEUdjKwjgnHs2957QKjR2iWhJKTtMa1xs_1399811149",
+                        "lpInfo": {
+                            "bump": 253,
+                            "mintA": "So11111111111111111111111111111111111111112",
+                            "mintB": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+                            "mintLp": "agALzgtrW9Rronymq3e1R61Q9vSKDFZVTXaiLTzU9VP",
+                            "status": 0,
+                            "vaultA": "7wMM5Tg7igkefH1T2TKqJBpYp5bQKPQjz7yTgvCUZY6Z",
+                            "vaultB": "Gy2JYhV9gAZUBrjq35St78VMrXiufU72Que26pmhMYob",
+                            "configId": "D4FPEruKEHrG5TenZ2mpDGEfu1iUvTiqBxvpU8HLBvC2",
+                            "lpAmount": "1756411108941",
+                            "openTime": "1737166781",
+                            "lpDecimals": 9,
+                            "poolCreator": "4dvg7vU7KKVnY3bp25s9VW6mchh6JZsLqQ3hEMLdbQuz",
+                            "mintDecimalA": 9,
+                            "mintDecimalB": 6,
+                            "mintProgramA": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "mintProgramB": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "fundFeesMintA": "41869508",
+                            "fundFeesMintB": "476716",
+                            "observationId": "HSYeHzVCyb2GmVqhug9jP2BgZj5jswgrpU5P8GtfA5M3",
+                            "protocolFeesMintA": "145932004",
+                            "protocolFeesMintB": "1431115"
+                        },
+                        "price0": "6.67977224066217623033",
+                        "price1": "0.14970570312452277650",
+                        "reserve0": "39029046660752",
+                        "reserve1": "260705142464",
+                        "lpMintInfo": {
+                            "supply": "1756411108841",
+                            "decimals": 9,
+                            "isInitialized": true,
+                            "mintAuthority": "GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL",
+                            "freezeAuthority": null
+                        },
+                        "baseVaultInfo": {
+                            "mint": "So11111111111111111111111111111111111111112",
+                            "owner": "GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL",
+                            "state": "initialized",
+                            "isNative": true,
+                            "tokenAmount": {
+                                "amount": "39029046660752",
+                                "decimals": 9,
+                                "uiAmount": 39029.046660752,
+                                "uiAmountString": "39029.046660752"
+                            },
+                            "rentExemptReserve": {
+                                "amount": "2039280",
+                                "decimals": 9,
+                                "uiAmount": 0.00203928,
+                                "uiAmountString": "0.00203928"
+                            }
+                        },
+                        "token0Address": "So11111111111111111111111111111111111111112",
+                        "token1Address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+                        "quoteVaultInfo": {
+                            "mint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+                            "owner": "GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL",
+                            "state": "initialized",
+                            "isNative": false,
+                            "tokenAmount": {
+                                "amount": "260705142464",
+                                "decimals": 6,
+                                "uiAmount": 260705.142464,
+                                "uiAmountString": "260705.142464"
+                            }
+                        }
+                    },
+                    "version": "1",
+                    "suspectedBaseToken": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+                    "factoryAddress": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
                     "initialReserve0": null,
                     "initialReserve1": null,
                     "deployerAddress": null

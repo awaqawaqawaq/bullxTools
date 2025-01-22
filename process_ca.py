@@ -6,15 +6,29 @@ import time
 
 
 def process_ca(client, base, output_dir, start_time, end_time, intervals):
-    json_file = os.path.join(output_dir, f"{base}.json")
-    csv_file = os.path.join(output_dir, f"{base}.csv")
+        
+    """
+    Process a single token and write its chart data to a CSV file and its creation timestamp to a JSON file.
 
+    Args:
+        client (BullxAPIClient): The client to use for fetching data.
+        base (str): The base token address.
+        output_dir (str): The directory to write the CSV and JSON files to.
+        start_time (int): The start time for fetching chart data.
+        end_time (int): The end time for fetching chart data.
+        intervals (int): The interval in seconds to fetch chart data for.
+
+    Returns:
+        None
+    """
+
+    json_file = os.path.join(output_dir, f"{base+str(intervals)}.json")
+    csv_file = os.path.join(output_dir, f"{base+str(intervals)}.csv")
+    
     if os.path.exists(json_file) and os.path.exists(csv_file):
-        print(f"Skipping {base}: JSON and CSV files already exist.")
+        print(f"Skipping {base+intervals}: JSON and CSV files already exist.")
         return
-
-    time.sleep(1)
-
+    
     print(f"Processing: {base}")
     try:
         dataa = client.resolve_tokens(token_addresses=[base])
@@ -72,7 +86,6 @@ def process_ca(client, base, output_dir, start_time, end_time, intervals):
                     print(f"Error fetching kline data for {base} between {current_start_time} and {current_end_time}: {e}")
 
                 current_start_time = current_end_time
-                time.sleep(1)
 
     except Exception as e:
         print(f"Error opening or writing to CSV file for {base}: {e}")
@@ -90,13 +103,18 @@ def process_ca(client, base, output_dir, start_time, end_time, intervals):
         print(f"Kline data written to {csv_file}")
     else:
         print(f"Warning: No kline data to write for {base}.")
-        
+
+      
+      
+
+
+
+  
 #使用示例
 """
 一次返回1000根k线，范围不要过大
-当超出范围，返回最近的1000根k线
+单次超出范围，返回最近的1000根k线
 """
-
 if __name__ == "__main__":
     API_KEY = "AIzaSyCdU8BxOul-NOOJ-e-eCf_-5QCz8ULqIPg"
     REFRESH_TOKEN = f"AMf-vBxlvPNuSBquOXW0C3gh5QoIPVhJuD6lZzB9Pvtkk2Mp4a7MjCa2TTi9SZxuAWyGY70vzudQPZnbFd4Od6AV7dq__rSh6YH5Gny8ojVbMjFK7mtLI_e8rHlUjMQ__WGF-Sn7L2Pb8kW-0hSfluyw2VGqXGN61Y-c33rOts-dXQjFXe7Vvt13n1O_N4wqdgQPiFdHrWsCRnIqaeiXitDnApGDX4KLj-SjpHgH2ROohiAjHXlMhKE"
