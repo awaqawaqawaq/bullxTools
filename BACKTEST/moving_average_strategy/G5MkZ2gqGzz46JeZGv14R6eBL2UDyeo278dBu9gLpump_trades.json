@@ -1,0 +1,55 @@
+{
+    "name": "G5MkZ2gqGzz46JeZGv14R6eBL2UDyeo278dBu9gLpump",
+    "interval": 60,
+    "start_date": 1736542920,
+    "end_date": 1737462780,
+    "opened_count": 2,
+    "closed_count": 1,
+    "win": 0,
+    "lose": 1,
+    "winrate": "0.00%",
+    "initial_balance": 100000,
+    "closed_profit": -11.968998041829366,
+    "realized_profit": -11.968998041829366,
+    "unrealized_profit": 0,
+    "guarantee": 99988.03100195817,
+    "balance": 99988.03100195817,
+    "debug_value": 99988.03100195817,
+    "total_profit/total_bought": "-20.50%",
+    "PNL": "-41.00%",
+    "BALANCE CHANGE %": "-0.01%",
+    "data": [
+        {
+            "key": 0,
+            "timestamp": 1736546940,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 5.83824484027173e-06,
+            "guarantee": 99941.61755159729
+        },
+        {
+            "key": 0,
+            "timestamp": 1736546940,
+            "action": "takeprofit long",
+            "amount": 100,
+            "price": 5.9550097370771645e-06,
+            "guarantee": 99941.61814709826
+        },
+        {
+            "key": 0,
+            "timestamp": 1736547180,
+            "action": "stoploss long",
+            "amount": 100,
+            "price": 5.779862391869013e-06,
+            "guarantee": 99941.6187250845
+        },
+        {
+            "key": 0,
+            "timestamp": 1737462780,
+            "action": "close long",
+            "amount": 9999800,
+            "price": 4.64132051377778e-06,
+            "guarantee": 99988.03100195817
+        }
+    ]
+}

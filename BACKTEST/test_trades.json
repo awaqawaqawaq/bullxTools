@@ -1,4839 +1,2715 @@
-[
-    {
-        "key": 0,
-        "timestamp": 1737357780,
-        "action": "open long",
-        "amount": 100,
-        "price": 60.54186635614688
-    },
-    {
-        "key": 0,
-        "timestamp": 1737357900,
-        "action": "close long",
-        "amount": 100,
-        "price": 60.04810088811617
-    },
-    {
-        "key": 1,
-        "timestamp": 1737358560,
-        "action": "open long",
-        "amount": 100,
-        "price": 61.012578538408434
-    },
-    {
-        "key": 1,
-        "timestamp": 1737358800,
-        "action": "close long",
-        "amount": 100,
-        "price": 59.77900830318653
-    },
-    {
-        "key": 2,
-        "timestamp": 1737358980,
-        "action": "open long",
-        "amount": 100,
-        "price": 59.72637093667986
-    },
-    {
-        "key": 2,
-        "timestamp": 1737359220,
-        "action": "close long",
-        "amount": 100,
-        "price": 59.44323903506272
-    },
-    {
-        "key": 3,
-        "timestamp": 1737359280,
-        "action": "open long",
-        "amount": 100,
-        "price": 59.45311577819546
-    },
-    {
-        "key": 4,
-        "timestamp": 1737359340,
-        "action": "open long",
-        "amount": 100,
-        "price": 58.689239723588734
-    },
-    {
-        "key": 5,
-        "timestamp": 1737359400,
-        "action": "open long",
-        "amount": 100,
-        "price": 58.85391773235292
-    },
-    {
-        "key": 6,
-        "timestamp": 1737359460,
-        "action": "open long",
-        "amount": 100,
-        "price": 58.47543009122744
-    },
-    {
-        "key": 7,
-        "timestamp": 1737359880,
-        "action": "open long",
-        "amount": 100,
-        "price": 59.54741758831036
-    },
-    {
-        "key": 3,
-        "timestamp": 1737360360,
-        "action": "close long",
-        "amount": 100,
-        "price": 58.63275749145844
-    },
-    {
-        "key": 4,
-        "timestamp": 1737360360,
-        "action": "close long",
-        "amount": 100,
-        "price": 58.63275749145844
-    },
-    {
-        "key": 5,
-        "timestamp": 1737360360,
-        "action": "close long",
-        "amount": 100,
-        "price": 58.63275749145844
-    },
-    {
-        "key": 6,
-        "timestamp": 1737360360,
-        "action": "close long",
-        "amount": 100,
-        "price": 58.63275749145844
-    },
-    {
-        "key": 7,
-        "timestamp": 1737360360,
-        "action": "close long",
-        "amount": 100,
-        "price": 58.63275749145844
-    },
-    {
-        "key": 8,
-        "timestamp": 1737360960,
-        "action": "open long",
-        "amount": 100,
-        "price": 58.81890691887808
-    },
-    {
-        "key": 9,
-        "timestamp": 1737361020,
-        "action": "open long",
-        "amount": 100,
-        "price": 58.30157967369867
-    },
-    {
-        "key": 10,
-        "timestamp": 1737361440,
-        "action": "open long",
-        "amount": 100,
-        "price": 58.30920267541072
-    },
-    {
-        "key": 8,
-        "timestamp": 1737361560,
-        "action": "close long",
-        "amount": 100,
-        "price": 58.14684158306692
-    },
-    {
-        "key": 9,
-        "timestamp": 1737361560,
-        "action": "close long",
-        "amount": 100,
-        "price": 58.14684158306692
-    },
-    {
-        "key": 10,
-        "timestamp": 1737361560,
-        "action": "close long",
-        "amount": 100,
-        "price": 58.14684158306692
-    },
-    {
-        "key": 11,
-        "timestamp": 1737361800,
-        "action": "open long",
-        "amount": 100,
-        "price": 55.39992945235751
-    },
-    {
-        "key": 12,
-        "timestamp": 1737361920,
-        "action": "open long",
-        "amount": 100,
-        "price": 56.96439219109173
-    },
-    {
-        "key": 13,
-        "timestamp": 1737362040,
-        "action": "open long",
-        "amount": 100,
-        "price": 57.04657716596557
-    },
-    {
-        "key": 11,
-        "timestamp": 1737362460,
-        "action": "close long",
-        "amount": 100,
-        "price": 57.66158242688784
-    },
-    {
-        "key": 12,
-        "timestamp": 1737362460,
-        "action": "close long",
-        "amount": 100,
-        "price": 57.66158242688784
-    },
-    {
-        "key": 13,
-        "timestamp": 1737362460,
-        "action": "close long",
-        "amount": 100,
-        "price": 57.66158242688784
-    },
-    {
-        "key": 14,
-        "timestamp": 1737362940,
-        "action": "open long",
-        "amount": 100,
-        "price": 57.969909580620495
-    },
-    {
-        "key": 14,
-        "timestamp": 1737363180,
-        "action": "close long",
-        "amount": 100,
-        "price": 58.071567828869625
-    },
-    {
-        "key": 15,
-        "timestamp": 1737363720,
-        "action": "open long",
-        "amount": 100,
-        "price": 58.13652694521788
-    },
-    {
-        "key": 16,
-        "timestamp": 1737363840,
-        "action": "open long",
-        "amount": 100,
-        "price": 57.81851082469972
-    },
-    {
-        "key": 15,
-        "timestamp": 1737363960,
-        "action": "close long",
-        "amount": 100,
-        "price": 57.22353655205994
-    },
-    {
-        "key": 16,
-        "timestamp": 1737363960,
-        "action": "close long",
-        "amount": 100,
-        "price": 57.22353655205994
-    },
-    {
-        "key": 17,
-        "timestamp": 1737364260,
-        "action": "open long",
-        "amount": 100,
-        "price": 57.17249266813581
-    },
-    {
-        "key": 18,
-        "timestamp": 1737364500,
-        "action": "open long",
-        "amount": 100,
-        "price": 57.1027518270611
-    },
-    {
-        "key": 19,
-        "timestamp": 1737364560,
-        "action": "open long",
-        "amount": 100,
-        "price": 56.426357906004704
-    },
-    {
-        "key": 20,
-        "timestamp": 1737364620,
-        "action": "open long",
-        "amount": 100,
-        "price": 55.15973011072988
-    },
-    {
-        "key": 17,
-        "timestamp": 1737364860,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.855892380178
-    },
-    {
-        "key": 18,
-        "timestamp": 1737364860,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.855892380178
-    },
-    {
-        "key": 19,
-        "timestamp": 1737364860,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.855892380178
-    },
-    {
-        "key": 20,
-        "timestamp": 1737364860,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.855892380178
-    },
-    {
-        "key": 21,
-        "timestamp": 1737365040,
-        "action": "open long",
-        "amount": 100,
-        "price": 54.688316115
-    },
-    {
-        "key": 22,
-        "timestamp": 1737365100,
-        "action": "open long",
-        "amount": 100,
-        "price": 54.90729546147473
-    },
-    {
-        "key": 21,
-        "timestamp": 1737365160,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.073789575889606
-    },
-    {
-        "key": 22,
-        "timestamp": 1737365160,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.073789575889606
-    },
-    {
-        "key": 23,
-        "timestamp": 1737365280,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.441531602322
-    },
-    {
-        "key": 23,
-        "timestamp": 1737365580,
-        "action": "close long",
-        "amount": 100,
-        "price": 51.337561160672784
-    },
-    {
-        "key": 24,
-        "timestamp": 1737365700,
-        "action": "open long",
-        "amount": 100,
-        "price": 51.11269538041756
-    },
-    {
-        "key": 24,
-        "timestamp": 1737365820,
-        "action": "close long",
-        "amount": 100,
-        "price": 51.60524063527792
-    },
-    {
-        "key": 25,
-        "timestamp": 1737366060,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.17927933668452
-    },
-    {
-        "key": 26,
-        "timestamp": 1737366720,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.35160880731416
-    },
-    {
-        "key": 25,
-        "timestamp": 1737366780,
-        "action": "close long",
-        "amount": 100,
-        "price": 52.69128874267711
-    },
-    {
-        "key": 26,
-        "timestamp": 1737366780,
-        "action": "close long",
-        "amount": 100,
-        "price": 52.69128874267711
-    },
-    {
-        "key": 27,
-        "timestamp": 1737367020,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.32094982366152
-    },
-    {
-        "key": 27,
-        "timestamp": 1737367380,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.0807374697478
-    },
-    {
-        "key": 28,
-        "timestamp": 1737367680,
-        "action": "open long",
-        "amount": 100,
-        "price": 54.84779030540231
-    },
-    {
-        "key": 28,
-        "timestamp": 1737367740,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.69933449118663
-    },
-    {
-        "key": 29,
-        "timestamp": 1737368880,
-        "action": "open long",
-        "amount": 100,
-        "price": 55.65439551345723
-    },
-    {
-        "key": 30,
-        "timestamp": 1737368940,
-        "action": "open long",
-        "amount": 100,
-        "price": 55.25017496780091
-    },
-    {
-        "key": 29,
-        "timestamp": 1737369180,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.312985436773616
-    },
-    {
-        "key": 30,
-        "timestamp": 1737369180,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.312985436773616
-    },
-    {
-        "key": 31,
-        "timestamp": 1737369240,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.56795705340771
-    },
-    {
-        "key": 32,
-        "timestamp": 1737369300,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.69630011193451
-    },
-    {
-        "key": 31,
-        "timestamp": 1737369360,
-        "action": "close long",
-        "amount": 100,
-        "price": 52.921344222482674
-    },
-    {
-        "key": 32,
-        "timestamp": 1737369360,
-        "action": "close long",
-        "amount": 100,
-        "price": 52.921344222482674
-    },
-    {
-        "key": 33,
-        "timestamp": 1737369660,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.47562133915809
-    },
-    {
-        "key": 33,
-        "timestamp": 1737369900,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.333252715467694
-    },
-    {
-        "key": 34,
-        "timestamp": 1737369960,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.7972617291435
-    },
-    {
-        "key": 35,
-        "timestamp": 1737370200,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.55204088493075
-    },
-    {
-        "key": 34,
-        "timestamp": 1737370260,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.81218138661728
-    },
-    {
-        "key": 35,
-        "timestamp": 1737370260,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.81218138661728
-    },
-    {
-        "key": 36,
-        "timestamp": 1737370440,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.73869957123576
-    },
-    {
-        "key": 36,
-        "timestamp": 1737370560,
-        "action": "close long",
-        "amount": 100,
-        "price": 52.558183058165646
-    },
-    {
-        "key": 37,
-        "timestamp": 1737370860,
-        "action": "open long",
-        "amount": 100,
-        "price": 54.41573809328075
-    },
-    {
-        "key": 38,
-        "timestamp": 1737371100,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.71931858458596
-    },
-    {
-        "key": 39,
-        "timestamp": 1737371160,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.336405085617805
-    },
-    {
-        "key": 40,
-        "timestamp": 1737371220,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.95166122072537
-    },
-    {
-        "key": 41,
-        "timestamp": 1737371640,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.34358928288656
-    },
-    {
-        "key": 37,
-        "timestamp": 1737372300,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.31663810557612
-    },
-    {
-        "key": 38,
-        "timestamp": 1737372300,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.31663810557612
-    },
-    {
-        "key": 39,
-        "timestamp": 1737372300,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.31663810557612
-    },
-    {
-        "key": 40,
-        "timestamp": 1737372300,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.31663810557612
-    },
-    {
-        "key": 41,
-        "timestamp": 1737372300,
-        "action": "close long",
-        "amount": 100,
-        "price": 54.31663810557612
-    },
-    {
-        "key": 42,
-        "timestamp": 1737372900,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.9081247475422
-    },
-    {
-        "key": 42,
-        "timestamp": 1737373380,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.30445685706309
-    },
-    {
-        "key": 43,
-        "timestamp": 1737373620,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.27485431147228
-    },
-    {
-        "key": 44,
-        "timestamp": 1737373680,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.45775975323251
-    },
-    {
-        "key": 43,
-        "timestamp": 1737373740,
-        "action": "close long",
-        "amount": 100,
-        "price": 52.93900413905022
-    },
-    {
-        "key": 44,
-        "timestamp": 1737373740,
-        "action": "close long",
-        "amount": 100,
-        "price": 52.93900413905022
-    },
-    {
-        "key": 45,
-        "timestamp": 1737373920,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.840074579341966
-    },
-    {
-        "key": 45,
-        "timestamp": 1737374280,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.234500124923706
-    },
-    {
-        "key": 46,
-        "timestamp": 1737375660,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.19261886055252
-    },
-    {
-        "key": 46,
-        "timestamp": 1737375780,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.12729531251578
-    },
-    {
-        "key": 47,
-        "timestamp": 1737376260,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.215381168141846
-    },
-    {
-        "key": 48,
-        "timestamp": 1737376860,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.21510389469047
-    },
-    {
-        "key": 49,
-        "timestamp": 1737376980,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.659801306888
-    },
-    {
-        "key": 47,
-        "timestamp": 1737377160,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.06490145643736
-    },
-    {
-        "key": 48,
-        "timestamp": 1737377160,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.06490145643736
-    },
-    {
-        "key": 49,
-        "timestamp": 1737377160,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.06490145643736
-    },
-    {
-        "key": 50,
-        "timestamp": 1737378060,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.83731790119394
-    },
-    {
-        "key": 51,
-        "timestamp": 1737378120,
-        "action": "open long",
-        "amount": 100,
-        "price": 49.31343909799653
-    },
-    {
-        "key": 50,
-        "timestamp": 1737378180,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.674165404037744
-    },
-    {
-        "key": 51,
-        "timestamp": 1737378180,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.674165404037744
-    },
-    {
-        "key": 52,
-        "timestamp": 1737378540,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.91656692705201
-    },
-    {
-        "key": 53,
-        "timestamp": 1737378720,
-        "action": "open long",
-        "amount": 100,
-        "price": 46.79248315206251
-    },
-    {
-        "key": 52,
-        "timestamp": 1737378840,
-        "action": "close long",
-        "amount": 100,
-        "price": 46.94339307605255
-    },
-    {
-        "key": 53,
-        "timestamp": 1737378840,
-        "action": "close long",
-        "amount": 100,
-        "price": 46.94339307605255
-    },
-    {
-        "key": 54,
-        "timestamp": 1737379440,
-        "action": "open long",
-        "amount": 100,
-        "price": 45.90905597342135
-    },
-    {
-        "key": 55,
-        "timestamp": 1737379500,
-        "action": "open long",
-        "amount": 100,
-        "price": 46.088649815048335
-    },
-    {
-        "key": 56,
-        "timestamp": 1737379560,
-        "action": "open long",
-        "amount": 100,
-        "price": 46.00607456190584
-    },
-    {
-        "key": 54,
-        "timestamp": 1737379800,
-        "action": "close long",
-        "amount": 100,
-        "price": 46.96166138608475
-    },
-    {
-        "key": 55,
-        "timestamp": 1737379800,
-        "action": "close long",
-        "amount": 100,
-        "price": 46.96166138608475
-    },
-    {
-        "key": 56,
-        "timestamp": 1737379800,
-        "action": "close long",
-        "amount": 100,
-        "price": 46.96166138608475
-    },
-    {
-        "key": 57,
-        "timestamp": 1737379920,
-        "action": "open long",
-        "amount": 100,
-        "price": 47.42760781520148
-    },
-    {
-        "key": 57,
-        "timestamp": 1737379980,
-        "action": "close long",
-        "amount": 100,
-        "price": 47.38340279341609
-    },
-    {
-        "key": 58,
-        "timestamp": 1737380760,
-        "action": "open long",
-        "amount": 100,
-        "price": 46.16629343475977
-    },
-    {
-        "key": 58,
-        "timestamp": 1737380820,
-        "action": "close long",
-        "amount": 100,
-        "price": 46.40427943169858
-    },
-    {
-        "key": 59,
-        "timestamp": 1737381360,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.950484993795
-    },
-    {
-        "key": 60,
-        "timestamp": 1737381420,
-        "action": "open long",
-        "amount": 100,
-        "price": 49.529995208338704
-    },
-    {
-        "key": 61,
-        "timestamp": 1737381540,
-        "action": "open long",
-        "amount": 100,
-        "price": 49.06849319360996
-    },
-    {
-        "key": 59,
-        "timestamp": 1737381720,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.66985682211672
-    },
-    {
-        "key": 60,
-        "timestamp": 1737381720,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.66985682211672
-    },
-    {
-        "key": 61,
-        "timestamp": 1737381720,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.66985682211672
-    },
-    {
-        "key": 62,
-        "timestamp": 1737381840,
-        "action": "open long",
-        "amount": 100,
-        "price": 49.24608036467509
-    },
-    {
-        "key": 63,
-        "timestamp": 1737382560,
-        "action": "open long",
-        "amount": 100,
-        "price": 50.05053131178291
-    },
-    {
-        "key": 64,
-        "timestamp": 1737382680,
-        "action": "open long",
-        "amount": 100,
-        "price": 51.45643975174402
-    },
-    {
-        "key": 65,
-        "timestamp": 1737382740,
-        "action": "open long",
-        "amount": 100,
-        "price": 51.08516311521613
-    },
-    {
-        "key": 66,
-        "timestamp": 1737382800,
-        "action": "open long",
-        "amount": 100,
-        "price": 50.95951605504378
-    },
-    {
-        "key": 62,
-        "timestamp": 1737382980,
-        "action": "close long",
-        "amount": 100,
-        "price": 51.78066826869046
-    },
-    {
-        "key": 63,
-        "timestamp": 1737382980,
-        "action": "close long",
-        "amount": 100,
-        "price": 51.78066826869046
-    },
-    {
-        "key": 64,
-        "timestamp": 1737382980,
-        "action": "close long",
-        "amount": 100,
-        "price": 51.78066826869046
-    },
-    {
-        "key": 65,
-        "timestamp": 1737382980,
-        "action": "close long",
-        "amount": 100,
-        "price": 51.78066826869046
-    },
-    {
-        "key": 66,
-        "timestamp": 1737382980,
-        "action": "close long",
-        "amount": 100,
-        "price": 51.78066826869046
-    },
-    {
-        "key": 67,
-        "timestamp": 1737383100,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.607529061978624
-    },
-    {
-        "key": 68,
-        "timestamp": 1737383160,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.73321314681634
-    },
-    {
-        "key": 67,
-        "timestamp": 1737383220,
-        "action": "close long",
-        "amount": 100,
-        "price": 52.43493170632016
-    },
-    {
-        "key": 68,
-        "timestamp": 1737383220,
-        "action": "close long",
-        "amount": 100,
-        "price": 52.43493170632016
-    },
-    {
-        "key": 69,
-        "timestamp": 1737383820,
-        "action": "open long",
-        "amount": 100,
-        "price": 51.98540375471974
-    },
-    {
-        "key": 70,
-        "timestamp": 1737384480,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.24905828595569
-    },
-    {
-        "key": 71,
-        "timestamp": 1737384540,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.89522675817992
-    },
-    {
-        "key": 69,
-        "timestamp": 1737384840,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.75206337425878
-    },
-    {
-        "key": 70,
-        "timestamp": 1737384840,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.75206337425878
-    },
-    {
-        "key": 71,
-        "timestamp": 1737384840,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.75206337425878
-    },
-    {
-        "key": 72,
-        "timestamp": 1737385380,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.626182956712974
-    },
-    {
-        "key": 73,
-        "timestamp": 1737385440,
-        "action": "open long",
-        "amount": 100,
-        "price": 53.78245412837924
-    },
-    {
-        "key": 74,
-        "timestamp": 1737385500,
-        "action": "open long",
-        "amount": 100,
-        "price": 54.433561162112696
-    },
-    {
-        "key": 75,
-        "timestamp": 1737385560,
-        "action": "open long",
-        "amount": 100,
-        "price": 54.40877743312954
-    },
-    {
-        "key": 72,
-        "timestamp": 1737385860,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.70670550634681
-    },
-    {
-        "key": 73,
-        "timestamp": 1737385860,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.70670550634681
-    },
-    {
-        "key": 74,
-        "timestamp": 1737385860,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.70670550634681
-    },
-    {
-        "key": 75,
-        "timestamp": 1737385860,
-        "action": "close long",
-        "amount": 100,
-        "price": 53.70670550634681
-    },
-    {
-        "key": 76,
-        "timestamp": 1737386580,
-        "action": "open long",
-        "amount": 100,
-        "price": 51.24818234982702
-    },
-    {
-        "key": 76,
-        "timestamp": 1737386640,
-        "action": "close long",
-        "amount": 100,
-        "price": 51.38430139599986
-    },
-    {
-        "key": 77,
-        "timestamp": 1737387060,
-        "action": "open long",
-        "amount": 100,
-        "price": 52.27544809559333
-    },
-    {
-        "key": 77,
-        "timestamp": 1737387240,
-        "action": "close long",
-        "amount": 100,
-        "price": 51.08055615527601
-    },
-    {
-        "key": 78,
-        "timestamp": 1737387840,
-        "action": "open long",
-        "amount": 100,
-        "price": 50.66576379777482
-    },
-    {
-        "key": 79,
-        "timestamp": 1737388080,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.594518697142
-    },
-    {
-        "key": 80,
-        "timestamp": 1737388140,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.82101871782616
-    },
-    {
-        "key": 81,
-        "timestamp": 1737388200,
-        "action": "open long",
-        "amount": 100,
-        "price": 49.43067670259931
-    },
-    {
-        "key": 78,
-        "timestamp": 1737388440,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.75544490564422
-    },
-    {
-        "key": 79,
-        "timestamp": 1737388440,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.75544490564422
-    },
-    {
-        "key": 80,
-        "timestamp": 1737388440,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.75544490564422
-    },
-    {
-        "key": 81,
-        "timestamp": 1737388440,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.75544490564422
-    },
-    {
-        "key": 82,
-        "timestamp": 1737388500,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.93658597476399
-    },
-    {
-        "key": 83,
-        "timestamp": 1737388560,
-        "action": "open long",
-        "amount": 100,
-        "price": 49.15889604835698
-    },
-    {
-        "key": 84,
-        "timestamp": 1737388800,
-        "action": "open long",
-        "amount": 100,
-        "price": 50.21522494766944
-    },
-    {
-        "key": 85,
-        "timestamp": 1737388860,
-        "action": "open long",
-        "amount": 100,
-        "price": 50.43855306332781
-    },
-    {
-        "key": 86,
-        "timestamp": 1737388920,
-        "action": "open long",
-        "amount": 100,
-        "price": 50.35590616934936
-    },
-    {
-        "key": 87,
-        "timestamp": 1737389280,
-        "action": "open long",
-        "amount": 100,
-        "price": 49.71240314869468
-    },
-    {
-        "key": 82,
-        "timestamp": 1737389460,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.97991407359875
-    },
-    {
-        "key": 83,
-        "timestamp": 1737389460,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.97991407359875
-    },
-    {
-        "key": 84,
-        "timestamp": 1737389460,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.97991407359875
-    },
-    {
-        "key": 85,
-        "timestamp": 1737389460,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.97991407359875
-    },
-    {
-        "key": 86,
-        "timestamp": 1737389460,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.97991407359875
-    },
-    {
-        "key": 87,
-        "timestamp": 1737389460,
-        "action": "close long",
-        "amount": 100,
-        "price": 48.97991407359875
-    },
-    {
-        "key": 88,
-        "timestamp": 1737389940,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.36155931703681
-    },
-    {
-        "key": 89,
-        "timestamp": 1737390180,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.15064244220263
-    },
-    {
-        "key": 88,
-        "timestamp": 1737390240,
-        "action": "close long",
-        "amount": 100,
-        "price": 47.10535152176596
-    },
-    {
-        "key": 89,
-        "timestamp": 1737390240,
-        "action": "close long",
-        "amount": 100,
-        "price": 47.10535152176596
-    },
-    {
-        "key": 90,
-        "timestamp": 1737390480,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.68699510063617
-    },
-    {
-        "key": 91,
-        "timestamp": 1737390660,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.65202519355277
-    },
-    {
-        "key": 92,
-        "timestamp": 1737390720,
-        "action": "open long",
-        "amount": 100,
-        "price": 48.92489055418469
-    },
-    {
-        "key": 90,
-        "timestamp": 1737390840,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.276705766632205
-    },
-    {
-        "key": 91,
-        "timestamp": 1737390840,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.276705766632205
-    },
-    {
-        "key": 92,
-        "timestamp": 1737390840,
-        "action": "close long",
-        "amount": 100,
-        "price": 49.276705766632205
-    },
-    {
-        "key": 93,
-        "timestamp": 1737391440,
-        "action": "open long",
-        "amount": 100,
-        "price": 51.048852756352375
-    },
-    {
-        "key": 94,
-        "timestamp": 1737391500,
-        "action": "open long",
-        "amount": 100,
-        "price": 50.86249412193746
-    },
-    {
-        "key": 95,
-        "timestamp": 1737392040,
-        "action": "open long",
-        "amount": 100,
-        "price": 49.49376728766768
-    },
-    {
-        "key": 93,
-        "timestamp": 1737392640,
-        "action": "close long",
-        "amount": 100,
-        "price": 47.94071943940565
-    },
-    {
-        "key": 94,
-        "timestamp": 1737392640,
-        "action": "close long",
-        "amount": 100,
-        "price": 47.94071943940565
-    },
-    {
-        "key": 95,
-        "timestamp": 1737392640,
-        "action": "close long",
-        "amount": 100,
-        "price": 47.94071943940565
-    },
-    {
-        "key": 96,
-        "timestamp": 1737392880,
-        "action": "open long",
-        "amount": 100,
-        "price": 44.44143717405668
-    },
-    {
-        "key": 96,
-        "timestamp": 1737393300,
-        "action": "close long",
-        "amount": 100,
-        "price": 45.43279558292317
-    },
-    {
-        "key": 97,
-        "timestamp": 1737393420,
-        "action": "open long",
-        "amount": 100,
-        "price": 44.483671857844186
-    },
-    {
-        "key": 98,
-        "timestamp": 1737393540,
-        "action": "open long",
-        "amount": 100,
-        "price": 43.20245035473732
-    },
-    {
-        "key": 97,
-        "timestamp": 1737393660,
-        "action": "close long",
-        "amount": 100,
-        "price": 44.45702531084912
-    },
-    {
-        "key": 98,
-        "timestamp": 1737393660,
-        "action": "close long",
-        "amount": 100,
-        "price": 44.45702531084912
-    },
-    {
-        "key": 99,
-        "timestamp": 1737394380,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.12707181409696
-    },
-    {
-        "key": 100,
-        "timestamp": 1737394620,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.77497654269362
-    },
-    {
-        "key": 99,
-        "timestamp": 1737394740,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.97228548304167
-    },
-    {
-        "key": 100,
-        "timestamp": 1737394740,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.97228548304167
-    },
-    {
-        "key": 101,
-        "timestamp": 1737395640,
-        "action": "open long",
-        "amount": 100,
-        "price": 43.16954256241848
-    },
-    {
-        "key": 101,
-        "timestamp": 1737395880,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.88671939294368
-    },
-    {
-        "key": 102,
-        "timestamp": 1737396180,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.3836265500723
-    },
-    {
-        "key": 102,
-        "timestamp": 1737396480,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.74951733595168
-    },
-    {
-        "key": 103,
-        "timestamp": 1737396900,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.25116427917207
-    },
-    {
-        "key": 103,
-        "timestamp": 1737396960,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.32684370489017
-    },
-    {
-        "key": 104,
-        "timestamp": 1737397380,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.18743811456628
-    },
-    {
-        "key": 105,
-        "timestamp": 1737397560,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.95769233404493
-    },
-    {
-        "key": 106,
-        "timestamp": 1737397680,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.51152657531563
-    },
-    {
-        "key": 107,
-        "timestamp": 1737397800,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.68477431885107
-    },
-    {
-        "key": 108,
-        "timestamp": 1737397920,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.3550214299452
-    },
-    {
-        "key": 109,
-        "timestamp": 1737397980,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.53989884216607
-    },
-    {
-        "key": 104,
-        "timestamp": 1737398160,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.21637493047998
-    },
-    {
-        "key": 105,
-        "timestamp": 1737398160,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.21637493047998
-    },
-    {
-        "key": 106,
-        "timestamp": 1737398160,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.21637493047998
-    },
-    {
-        "key": 107,
-        "timestamp": 1737398160,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.21637493047998
-    },
-    {
-        "key": 108,
-        "timestamp": 1737398160,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.21637493047998
-    },
-    {
-        "key": 109,
-        "timestamp": 1737398160,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.21637493047998
-    },
-    {
-        "key": 110,
-        "timestamp": 1737399000,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.29067169264293
-    },
-    {
-        "key": 111,
-        "timestamp": 1737399180,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.86841140111508
-    },
-    {
-        "key": 112,
-        "timestamp": 1737399240,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.03369170051165
-    },
-    {
-        "key": 113,
-        "timestamp": 1737399480,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.03340623528194
-    },
-    {
-        "key": 114,
-        "timestamp": 1737399600,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.026419228666114
-    },
-    {
-        "key": 110,
-        "timestamp": 1737399780,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.5773125165957
-    },
-    {
-        "key": 111,
-        "timestamp": 1737399780,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.5773125165957
-    },
-    {
-        "key": 112,
-        "timestamp": 1737399780,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.5773125165957
-    },
-    {
-        "key": 113,
-        "timestamp": 1737399780,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.5773125165957
-    },
-    {
-        "key": 114,
-        "timestamp": 1737399780,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.5773125165957
-    },
-    {
-        "key": 115,
-        "timestamp": 1737400680,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.57625306778274
-    },
-    {
-        "key": 116,
-        "timestamp": 1737400740,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.16541457914071
-    },
-    {
-        "key": 117,
-        "timestamp": 1737400860,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.58713083261514
-    },
-    {
-        "key": 118,
-        "timestamp": 1737400980,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.8354467564551
-    },
-    {
-        "key": 119,
-        "timestamp": 1737401040,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.82316099344157
-    },
-    {
-        "key": 115,
-        "timestamp": 1737401340,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.870752105218514
-    },
-    {
-        "key": 116,
-        "timestamp": 1737401340,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.870752105218514
-    },
-    {
-        "key": 117,
-        "timestamp": 1737401340,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.870752105218514
-    },
-    {
-        "key": 118,
-        "timestamp": 1737401340,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.870752105218514
-    },
-    {
-        "key": 119,
-        "timestamp": 1737401340,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.870752105218514
-    },
-    {
-        "key": 120,
-        "timestamp": 1737401700,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.88798738166032
-    },
-    {
-        "key": 121,
-        "timestamp": 1737402000,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.516861818537095
-    },
-    {
-        "key": 122,
-        "timestamp": 1737402060,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.85892968617185
-    },
-    {
-        "key": 123,
-        "timestamp": 1737402240,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.907157150536
-    },
-    {
-        "key": 124,
-        "timestamp": 1737402300,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.42537844023327
-    },
-    {
-        "key": 120,
-        "timestamp": 1737402540,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.08815339918378
-    },
-    {
-        "key": 121,
-        "timestamp": 1737402540,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.08815339918378
-    },
-    {
-        "key": 122,
-        "timestamp": 1737402540,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.08815339918378
-    },
-    {
-        "key": 123,
-        "timestamp": 1737402540,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.08815339918378
-    },
-    {
-        "key": 124,
-        "timestamp": 1737402540,
-        "action": "close long",
-        "amount": 100,
-        "price": 42.08815339918378
-    },
-    {
-        "key": 125,
-        "timestamp": 1737403080,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.396538870376055
-    },
-    {
-        "key": 126,
-        "timestamp": 1737403140,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.46366172238986
-    },
-    {
-        "key": 127,
-        "timestamp": 1737403440,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.67414152382807
-    },
-    {
-        "key": 125,
-        "timestamp": 1737403680,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.783026883000375
-    },
-    {
-        "key": 126,
-        "timestamp": 1737403680,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.783026883000375
-    },
-    {
-        "key": 127,
-        "timestamp": 1737403680,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.783026883000375
-    },
-    {
-        "key": 128,
-        "timestamp": 1737403980,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.99252534505741
-    },
-    {
-        "key": 129,
-        "timestamp": 1737404100,
-        "action": "open long",
-        "amount": 100,
-        "price": 42.06709066210091
-    },
-    {
-        "key": 128,
-        "timestamp": 1737404340,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.75584026719964
-    },
-    {
-        "key": 129,
-        "timestamp": 1737404340,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.75584026719964
-    },
-    {
-        "key": 130,
-        "timestamp": 1737404460,
-        "action": "open long",
-        "amount": 100,
-        "price": 40.33866875772201
-    },
-    {
-        "key": 130,
-        "timestamp": 1737404640,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.91490638357951
-    },
-    {
-        "key": 131,
-        "timestamp": 1737405120,
-        "action": "open long",
-        "amount": 100,
-        "price": 40.969519748519886
-    },
-    {
-        "key": 132,
-        "timestamp": 1737405240,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.35797401371032
-    },
-    {
-        "key": 131,
-        "timestamp": 1737405420,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.49206987221357
-    },
-    {
-        "key": 132,
-        "timestamp": 1737405420,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.49206987221357
-    },
-    {
-        "key": 133,
-        "timestamp": 1737405600,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.610200140917975
-    },
-    {
-        "key": 134,
-        "timestamp": 1737405660,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.44167322156051
-    },
-    {
-        "key": 133,
-        "timestamp": 1737405720,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.434961013454696
-    },
-    {
-        "key": 134,
-        "timestamp": 1737405720,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.434961013454696
-    },
-    {
-        "key": 135,
-        "timestamp": 1737405840,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.07869039302536
-    },
-    {
-        "key": 135,
-        "timestamp": 1737405960,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.892880625561645
-    },
-    {
-        "key": 136,
-        "timestamp": 1737406020,
-        "action": "open long",
-        "amount": 100,
-        "price": 40.69543340559177
-    },
-    {
-        "key": 137,
-        "timestamp": 1737406260,
-        "action": "open long",
-        "amount": 100,
-        "price": 40.54535306648407
-    },
-    {
-        "key": 136,
-        "timestamp": 1737406320,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.529769814969214
-    },
-    {
-        "key": 137,
-        "timestamp": 1737406320,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.529769814969214
-    },
-    {
-        "key": 138,
-        "timestamp": 1737406740,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.93654765528704
-    },
-    {
-        "key": 139,
-        "timestamp": 1737406800,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.72477554233325
-    },
-    {
-        "key": 140,
-        "timestamp": 1737406860,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.7635971790889
-    },
-    {
-        "key": 141,
-        "timestamp": 1737406920,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.95007808492706
-    },
-    {
-        "key": 142,
-        "timestamp": 1737407040,
-        "action": "open long",
-        "amount": 100,
-        "price": 40.058298917930536
-    },
-    {
-        "key": 143,
-        "timestamp": 1737407100,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.57068017717374
-    },
-    {
-        "key": 144,
-        "timestamp": 1737407280,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.56355487462342
-    },
-    {
-        "key": 145,
-        "timestamp": 1737407580,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.86833154866181
-    },
-    {
-        "key": 146,
-        "timestamp": 1737407640,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.7172396110875
-    },
-    {
-        "key": 147,
-        "timestamp": 1737407760,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.00253220537455
-    },
-    {
-        "key": 138,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 139,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 140,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 141,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 142,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 143,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 144,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 145,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 146,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 147,
-        "timestamp": 1737408000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.825402632801634
-    },
-    {
-        "key": 148,
-        "timestamp": 1737409260,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.98341016639933
-    },
-    {
-        "key": 149,
-        "timestamp": 1737409320,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.9323083115375
-    },
-    {
-        "key": 150,
-        "timestamp": 1737409440,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.14759541506976
-    },
-    {
-        "key": 151,
-        "timestamp": 1737409500,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.556653314617485
-    },
-    {
-        "key": 152,
-        "timestamp": 1737409560,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.10198211138224
-    },
-    {
-        "key": 153,
-        "timestamp": 1737409620,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.86092424684129
-    },
-    {
-        "key": 148,
-        "timestamp": 1737409800,
-        "action": "close long",
-        "amount": 100,
-        "price": 36.66759045842437
-    },
-    {
-        "key": 149,
-        "timestamp": 1737409800,
-        "action": "close long",
-        "amount": 100,
-        "price": 36.66759045842437
-    },
-    {
-        "key": 150,
-        "timestamp": 1737409800,
-        "action": "close long",
-        "amount": 100,
-        "price": 36.66759045842437
-    },
-    {
-        "key": 151,
-        "timestamp": 1737409800,
-        "action": "close long",
-        "amount": 100,
-        "price": 36.66759045842437
-    },
-    {
-        "key": 152,
-        "timestamp": 1737409800,
-        "action": "close long",
-        "amount": 100,
-        "price": 36.66759045842437
-    },
-    {
-        "key": 153,
-        "timestamp": 1737409800,
-        "action": "close long",
-        "amount": 100,
-        "price": 36.66759045842437
-    },
-    {
-        "key": 154,
-        "timestamp": 1737410100,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.68040316082813
-    },
-    {
-        "key": 155,
-        "timestamp": 1737410160,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.359578526946684
-    },
-    {
-        "key": 156,
-        "timestamp": 1737410220,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.145345762754665
-    },
-    {
-        "key": 157,
-        "timestamp": 1737410280,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.72831206078783
-    },
-    {
-        "key": 158,
-        "timestamp": 1737410340,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.68149543864624
-    },
-    {
-        "key": 154,
-        "timestamp": 1737410640,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.874919778082656
-    },
-    {
-        "key": 155,
-        "timestamp": 1737410640,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.874919778082656
-    },
-    {
-        "key": 156,
-        "timestamp": 1737410640,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.874919778082656
-    },
-    {
-        "key": 157,
-        "timestamp": 1737410640,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.874919778082656
-    },
-    {
-        "key": 158,
-        "timestamp": 1737410640,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.874919778082656
-    },
-    {
-        "key": 159,
-        "timestamp": 1737410880,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.68596245588841
-    },
-    {
-        "key": 160,
-        "timestamp": 1737411000,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.63392931466475
-    },
-    {
-        "key": 161,
-        "timestamp": 1737411120,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.16745045341072
-    },
-    {
-        "key": 162,
-        "timestamp": 1737411300,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.19922764842902
-    },
-    {
-        "key": 159,
-        "timestamp": 1737411480,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.80851749553341
-    },
-    {
-        "key": 160,
-        "timestamp": 1737411480,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.80851749553341
-    },
-    {
-        "key": 161,
-        "timestamp": 1737411480,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.80851749553341
-    },
-    {
-        "key": 162,
-        "timestamp": 1737411480,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.80851749553341
-    },
-    {
-        "key": 163,
-        "timestamp": 1737412320,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.80397042519058
-    },
-    {
-        "key": 164,
-        "timestamp": 1737412560,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.342164833325
-    },
-    {
-        "key": 165,
-        "timestamp": 1737412620,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.41404062805695
-    },
-    {
-        "key": 166,
-        "timestamp": 1737412680,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.50690913891486
-    },
-    {
-        "key": 163,
-        "timestamp": 1737412800,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.537758751817314
-    },
-    {
-        "key": 164,
-        "timestamp": 1737412800,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.537758751817314
-    },
-    {
-        "key": 165,
-        "timestamp": 1737412800,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.537758751817314
-    },
-    {
-        "key": 166,
-        "timestamp": 1737412800,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.537758751817314
-    },
-    {
-        "key": 167,
-        "timestamp": 1737412980,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.86439827110856
-    },
-    {
-        "key": 168,
-        "timestamp": 1737413100,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.69267169472474
-    },
-    {
-        "key": 167,
-        "timestamp": 1737413400,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.09831832560006
-    },
-    {
-        "key": 168,
-        "timestamp": 1737413400,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.09831832560006
-    },
-    {
-        "key": 169,
-        "timestamp": 1737413520,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.17682009421
-    },
-    {
-        "key": 169,
-        "timestamp": 1737413760,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.47130601489744
-    },
-    {
-        "key": 170,
-        "timestamp": 1737415320,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.86254334485401
-    },
-    {
-        "key": 170,
-        "timestamp": 1737415380,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.0882599628885
-    },
-    {
-        "key": 171,
-        "timestamp": 1737415440,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.25064332292746
-    },
-    {
-        "key": 171,
-        "timestamp": 1737415500,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.27221007325357
-    },
-    {
-        "key": 172,
-        "timestamp": 1737416040,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.95478456288739
-    },
-    {
-        "key": 173,
-        "timestamp": 1737416100,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.97516239410356
-    },
-    {
-        "key": 172,
-        "timestamp": 1737416460,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.914275193055225
-    },
-    {
-        "key": 173,
-        "timestamp": 1737416460,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.914275193055225
-    },
-    {
-        "key": 174,
-        "timestamp": 1737416520,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.98013320448536
-    },
-    {
-        "key": 174,
-        "timestamp": 1737416640,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.80690541778704
-    },
-    {
-        "key": 175,
-        "timestamp": 1737417180,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.81974788588364
-    },
-    {
-        "key": 176,
-        "timestamp": 1737417240,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.67308054504
-    },
-    {
-        "key": 177,
-        "timestamp": 1737417540,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.22633856161676
-    },
-    {
-        "key": 178,
-        "timestamp": 1737417720,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.66557191031716
-    },
-    {
-        "key": 179,
-        "timestamp": 1737417780,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.48984575134784
-    },
-    {
-        "key": 175,
-        "timestamp": 1737417960,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.959619436571266
-    },
-    {
-        "key": 176,
-        "timestamp": 1737417960,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.959619436571266
-    },
-    {
-        "key": 177,
-        "timestamp": 1737417960,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.959619436571266
-    },
-    {
-        "key": 178,
-        "timestamp": 1737417960,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.959619436571266
-    },
-    {
-        "key": 179,
-        "timestamp": 1737417960,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.959619436571266
-    },
-    {
-        "key": 180,
-        "timestamp": 1737418380,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.18882255924411
-    },
-    {
-        "key": 181,
-        "timestamp": 1737418440,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.128465185142346
-    },
-    {
-        "key": 182,
-        "timestamp": 1737418500,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.18562395927868
-    },
-    {
-        "key": 183,
-        "timestamp": 1737418620,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.00954006580643
-    },
-    {
-        "key": 184,
-        "timestamp": 1737418740,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.002026790179166
-    },
-    {
-        "key": 180,
-        "timestamp": 1737418860,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.95126734614578
-    },
-    {
-        "key": 181,
-        "timestamp": 1737418860,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.95126734614578
-    },
-    {
-        "key": 182,
-        "timestamp": 1737418860,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.95126734614578
-    },
-    {
-        "key": 183,
-        "timestamp": 1737418860,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.95126734614578
-    },
-    {
-        "key": 184,
-        "timestamp": 1737418860,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.95126734614578
-    },
-    {
-        "key": 185,
-        "timestamp": 1737419280,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.42833962687665
-    },
-    {
-        "key": 186,
-        "timestamp": 1737419400,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.674639481739675
-    },
-    {
-        "key": 185,
-        "timestamp": 1737419700,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.52438058642009
-    },
-    {
-        "key": 186,
-        "timestamp": 1737419700,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.52438058642009
-    },
-    {
-        "key": 187,
-        "timestamp": 1737420480,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.016572837300025
-    },
-    {
-        "key": 188,
-        "timestamp": 1737420540,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.740592872770314
-    },
-    {
-        "key": 187,
-        "timestamp": 1737420840,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.147144940817775
-    },
-    {
-        "key": 188,
-        "timestamp": 1737420840,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.147144940817775
-    },
-    {
-        "key": 189,
-        "timestamp": 1737421380,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.73854401759924
-    },
-    {
-        "key": 190,
-        "timestamp": 1737421620,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.6636144271586
-    },
-    {
-        "key": 189,
-        "timestamp": 1737422100,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.395376352618804
-    },
-    {
-        "key": 190,
-        "timestamp": 1737422100,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.395376352618804
-    },
-    {
-        "key": 191,
-        "timestamp": 1737422280,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.30841967635372
-    },
-    {
-        "key": 192,
-        "timestamp": 1737422340,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.48613634623455
-    },
-    {
-        "key": 193,
-        "timestamp": 1737422400,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.82861136167487
-    },
-    {
-        "key": 194,
-        "timestamp": 1737422640,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.301838979428425
-    },
-    {
-        "key": 191,
-        "timestamp": 1737422700,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.021491598264014
-    },
-    {
-        "key": 192,
-        "timestamp": 1737422700,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.021491598264014
-    },
-    {
-        "key": 193,
-        "timestamp": 1737422700,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.021491598264014
-    },
-    {
-        "key": 194,
-        "timestamp": 1737422700,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.021491598264014
-    },
-    {
-        "key": 195,
-        "timestamp": 1737423720,
-        "action": "open long",
-        "amount": 100,
-        "price": 31.48813459558746
-    },
-    {
-        "key": 195,
-        "timestamp": 1737423780,
-        "action": "close long",
-        "amount": 100,
-        "price": 31.308260625070144
-    },
-    {
-        "key": 196,
-        "timestamp": 1737424980,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.0815484111394
-    },
-    {
-        "key": 197,
-        "timestamp": 1737425040,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.68906330588655
-    },
-    {
-        "key": 196,
-        "timestamp": 1737425160,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.75639100440303
-    },
-    {
-        "key": 197,
-        "timestamp": 1737425160,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.75639100440303
-    },
-    {
-        "key": 198,
-        "timestamp": 1737425460,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.87828755346808
-    },
-    {
-        "key": 199,
-        "timestamp": 1737425640,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.06521670895251
-    },
-    {
-        "key": 200,
-        "timestamp": 1737425700,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.73618618248887
-    },
-    {
-        "key": 198,
-        "timestamp": 1737425940,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.881802260973835
-    },
-    {
-        "key": 199,
-        "timestamp": 1737425940,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.881802260973835
-    },
-    {
-        "key": 200,
-        "timestamp": 1737425940,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.881802260973835
-    },
-    {
-        "key": 201,
-        "timestamp": 1737426720,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.10007704647948
-    },
-    {
-        "key": 201,
-        "timestamp": 1737427020,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.67923665356129
-    },
-    {
-        "key": 202,
-        "timestamp": 1737427320,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.95207391930825
-    },
-    {
-        "key": 202,
-        "timestamp": 1737427440,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.53566433564076
-    },
-    {
-        "key": 203,
-        "timestamp": 1737427860,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.500929785205976
-    },
-    {
-        "key": 203,
-        "timestamp": 1737427920,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.70849524485211
-    },
-    {
-        "key": 204,
-        "timestamp": 1737428760,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.956455329103385
-    },
-    {
-        "key": 205,
-        "timestamp": 1737429060,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.66710737178599
-    },
-    {
-        "key": 204,
-        "timestamp": 1737429240,
-        "action": "close long",
-        "amount": 100,
-        "price": 36.85493283890667
-    },
-    {
-        "key": 205,
-        "timestamp": 1737429240,
-        "action": "close long",
-        "amount": 100,
-        "price": 36.85493283890667
-    },
-    {
-        "key": 206,
-        "timestamp": 1737430080,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.9524886245136
-    },
-    {
-        "key": 207,
-        "timestamp": 1737430140,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.096463841758734
-    },
-    {
-        "key": 206,
-        "timestamp": 1737430260,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.90463865237419
-    },
-    {
-        "key": 207,
-        "timestamp": 1737430260,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.90463865237419
-    },
-    {
-        "key": 208,
-        "timestamp": 1737430860,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.2124430651342
-    },
-    {
-        "key": 208,
-        "timestamp": 1737431040,
-        "action": "close long",
-        "amount": 100,
-        "price": 36.17652754742032
-    },
-    {
-        "key": 209,
-        "timestamp": 1737431340,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.189653286013424
-    },
-    {
-        "key": 210,
-        "timestamp": 1737431460,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.07426183400913
-    },
-    {
-        "key": 211,
-        "timestamp": 1737431520,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.900209846651585
-    },
-    {
-        "key": 212,
-        "timestamp": 1737431580,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.984839636685855
-    },
-    {
-        "key": 209,
-        "timestamp": 1737431760,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.444392866087256
-    },
-    {
-        "key": 210,
-        "timestamp": 1737431760,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.444392866087256
-    },
-    {
-        "key": 211,
-        "timestamp": 1737431760,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.444392866087256
-    },
-    {
-        "key": 212,
-        "timestamp": 1737431760,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.444392866087256
-    },
-    {
-        "key": 213,
-        "timestamp": 1737432600,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.488872735978546
-    },
-    {
-        "key": 213,
-        "timestamp": 1737432780,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.77293214343451
-    },
-    {
-        "key": 214,
-        "timestamp": 1737433260,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.234090831898875
-    },
-    {
-        "key": 215,
-        "timestamp": 1737433320,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.36177547085698
-    },
-    {
-        "key": 216,
-        "timestamp": 1737433380,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.59436553715376
-    },
-    {
-        "key": 217,
-        "timestamp": 1737433680,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.40755760101989
-    },
-    {
-        "key": 218,
-        "timestamp": 1737433740,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.14941908415785
-    },
-    {
-        "key": 219,
-        "timestamp": 1737433800,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.853688806349616
-    },
-    {
-        "key": 220,
-        "timestamp": 1737433920,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.8152448381197
-    },
-    {
-        "key": 214,
-        "timestamp": 1737434040,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.410373981977074
-    },
-    {
-        "key": 215,
-        "timestamp": 1737434040,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.410373981977074
-    },
-    {
-        "key": 216,
-        "timestamp": 1737434040,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.410373981977074
-    },
-    {
-        "key": 217,
-        "timestamp": 1737434040,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.410373981977074
-    },
-    {
-        "key": 218,
-        "timestamp": 1737434040,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.410373981977074
-    },
-    {
-        "key": 219,
-        "timestamp": 1737434040,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.410373981977074
-    },
-    {
-        "key": 220,
-        "timestamp": 1737434040,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.410373981977074
-    },
-    {
-        "key": 221,
-        "timestamp": 1737434400,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.03298791661042
-    },
-    {
-        "key": 221,
-        "timestamp": 1737434460,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.4018262075492
-    },
-    {
-        "key": 222,
-        "timestamp": 1737434760,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.581855229201295
-    },
-    {
-        "key": 223,
-        "timestamp": 1737434820,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.82069024481637
-    },
-    {
-        "key": 224,
-        "timestamp": 1737434880,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.73359099441524
-    },
-    {
-        "key": 225,
-        "timestamp": 1737435060,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.3512218986201
-    },
-    {
-        "key": 226,
-        "timestamp": 1737435600,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.208555572060824
-    },
-    {
-        "key": 227,
-        "timestamp": 1737435660,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.99231845609741
-    },
-    {
-        "key": 228,
-        "timestamp": 1737435720,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.00052902764143
-    },
-    {
-        "key": 229,
-        "timestamp": 1737435900,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.56668467799231
-    },
-    {
-        "key": 222,
-        "timestamp": 1737435960,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.78406536936856
-    },
-    {
-        "key": 223,
-        "timestamp": 1737435960,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.78406536936856
-    },
-    {
-        "key": 224,
-        "timestamp": 1737435960,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.78406536936856
-    },
-    {
-        "key": 225,
-        "timestamp": 1737435960,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.78406536936856
-    },
-    {
-        "key": 226,
-        "timestamp": 1737435960,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.78406536936856
-    },
-    {
-        "key": 227,
-        "timestamp": 1737435960,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.78406536936856
-    },
-    {
-        "key": 228,
-        "timestamp": 1737435960,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.78406536936856
-    },
-    {
-        "key": 229,
-        "timestamp": 1737435960,
-        "action": "close long",
-        "amount": 100,
-        "price": 32.78406536936856
-    },
-    {
-        "key": 230,
-        "timestamp": 1737436020,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.70725279787076
-    },
-    {
-        "key": 231,
-        "timestamp": 1737436200,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.28971204779073
-    },
-    {
-        "key": 232,
-        "timestamp": 1737436440,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.66675346463689
-    },
-    {
-        "key": 233,
-        "timestamp": 1737436500,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.538663689191445
-    },
-    {
-        "key": 234,
-        "timestamp": 1737436620,
-        "action": "open long",
-        "amount": 100,
-        "price": 32.783508318223014
-    },
-    {
-        "key": 235,
-        "timestamp": 1737436680,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.16647609683596
-    },
-    {
-        "key": 230,
-        "timestamp": 1737437100,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.74584422885
-    },
-    {
-        "key": 231,
-        "timestamp": 1737437100,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.74584422885
-    },
-    {
-        "key": 232,
-        "timestamp": 1737437100,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.74584422885
-    },
-    {
-        "key": 233,
-        "timestamp": 1737437100,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.74584422885
-    },
-    {
-        "key": 234,
-        "timestamp": 1737437100,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.74584422885
-    },
-    {
-        "key": 235,
-        "timestamp": 1737437100,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.74584422885
-    },
-    {
-        "key": 236,
-        "timestamp": 1737437280,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.12781853239535
-    },
-    {
-        "key": 237,
-        "timestamp": 1737437340,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.02357755509401
-    },
-    {
-        "key": 236,
-        "timestamp": 1737437520,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.62398298183149
-    },
-    {
-        "key": 237,
-        "timestamp": 1737437520,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.62398298183149
-    },
-    {
-        "key": 238,
-        "timestamp": 1737437820,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.38605186439634
-    },
-    {
-        "key": 239,
-        "timestamp": 1737438240,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.88028913109664
-    },
-    {
-        "key": 240,
-        "timestamp": 1737438300,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.84869359848072
-    },
-    {
-        "key": 241,
-        "timestamp": 1737438420,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.19439202013853
-    },
-    {
-        "key": 238,
-        "timestamp": 1737438540,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.73456194847
-    },
-    {
-        "key": 239,
-        "timestamp": 1737438540,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.73456194847
-    },
-    {
-        "key": 240,
-        "timestamp": 1737438540,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.73456194847
-    },
-    {
-        "key": 241,
-        "timestamp": 1737438540,
-        "action": "close long",
-        "amount": 100,
-        "price": 33.73456194847
-    },
-    {
-        "key": 242,
-        "timestamp": 1737438600,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.60240105114063
-    },
-    {
-        "key": 243,
-        "timestamp": 1737438720,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.22900542802663
-    },
-    {
-        "key": 244,
-        "timestamp": 1737438780,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.327133660022504
-    },
-    {
-        "key": 245,
-        "timestamp": 1737438840,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.395759388126244
-    },
-    {
-        "key": 246,
-        "timestamp": 1737438900,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.61980012824176
-    },
-    {
-        "key": 247,
-        "timestamp": 1737439080,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.592468779670845
-    },
-    {
-        "key": 248,
-        "timestamp": 1737439140,
-        "action": "open long",
-        "amount": 100,
-        "price": 33.631938471073845
-    },
-    {
-        "key": 242,
-        "timestamp": 1737439380,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.13944085456667
-    },
-    {
-        "key": 243,
-        "timestamp": 1737439380,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.13944085456667
-    },
-    {
-        "key": 244,
-        "timestamp": 1737439380,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.13944085456667
-    },
-    {
-        "key": 245,
-        "timestamp": 1737439380,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.13944085456667
-    },
-    {
-        "key": 246,
-        "timestamp": 1737439380,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.13944085456667
-    },
-    {
-        "key": 247,
-        "timestamp": 1737439380,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.13944085456667
-    },
-    {
-        "key": 248,
-        "timestamp": 1737439380,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.13944085456667
-    },
-    {
-        "key": 249,
-        "timestamp": 1737439620,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.547081484179245
-    },
-    {
-        "key": 250,
-        "timestamp": 1737439740,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.811636046271424
-    },
-    {
-        "key": 251,
-        "timestamp": 1737439860,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.817569972437745
-    },
-    {
-        "key": 249,
-        "timestamp": 1737440280,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.71618297509265
-    },
-    {
-        "key": 250,
-        "timestamp": 1737440280,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.71618297509265
-    },
-    {
-        "key": 251,
-        "timestamp": 1737440280,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.71618297509265
-    },
-    {
-        "key": 252,
-        "timestamp": 1737440340,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.70583426197658
-    },
-    {
-        "key": 253,
-        "timestamp": 1737440460,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.84840072570937
-    },
-    {
-        "key": 252,
-        "timestamp": 1737440640,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.380780477613165
-    },
-    {
-        "key": 253,
-        "timestamp": 1737440640,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.380780477613165
-    },
-    {
-        "key": 254,
-        "timestamp": 1737440760,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.97314123392592
-    },
-    {
-        "key": 255,
-        "timestamp": 1737440820,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.45149329060698
-    },
-    {
-        "key": 256,
-        "timestamp": 1737440880,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.45353533000845
-    },
-    {
-        "key": 257,
-        "timestamp": 1737441000,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.3857957852858
-    },
-    {
-        "key": 258,
-        "timestamp": 1737441060,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.44740921180404
-    },
-    {
-        "key": 254,
-        "timestamp": 1737441420,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.354760916700634
-    },
-    {
-        "key": 255,
-        "timestamp": 1737441420,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.354760916700634
-    },
-    {
-        "key": 256,
-        "timestamp": 1737441420,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.354760916700634
-    },
-    {
-        "key": 257,
-        "timestamp": 1737441420,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.354760916700634
-    },
-    {
-        "key": 258,
-        "timestamp": 1737441420,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.354760916700634
-    },
-    {
-        "key": 259,
-        "timestamp": 1737441840,
-        "action": "open long",
-        "amount": 100,
-        "price": 34.76780191707007
-    },
-    {
-        "key": 260,
-        "timestamp": 1737442080,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.99099440052583
-    },
-    {
-        "key": 259,
-        "timestamp": 1737442260,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.80440311422807
-    },
-    {
-        "key": 260,
-        "timestamp": 1737442260,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.80440311422807
-    },
-    {
-        "key": 261,
-        "timestamp": 1737442680,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.89486678811261
-    },
-    {
-        "key": 262,
-        "timestamp": 1737442800,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.84566243590549
-    },
-    {
-        "key": 263,
-        "timestamp": 1737442860,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.852978425522025
-    },
-    {
-        "key": 264,
-        "timestamp": 1737443340,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.16735589978281
-    },
-    {
-        "key": 261,
-        "timestamp": 1737444000,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.95165516347515
-    },
-    {
-        "key": 262,
-        "timestamp": 1737444000,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.95165516347515
-    },
-    {
-        "key": 263,
-        "timestamp": 1737444000,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.95165516347515
-    },
-    {
-        "key": 264,
-        "timestamp": 1737444000,
-        "action": "close long",
-        "amount": 100,
-        "price": 34.95165516347515
-    },
-    {
-        "key": 265,
-        "timestamp": 1737444120,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.1296547424068
-    },
-    {
-        "key": 266,
-        "timestamp": 1737444240,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.31576836835541
-    },
-    {
-        "key": 265,
-        "timestamp": 1737444480,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.872125494767005
-    },
-    {
-        "key": 266,
-        "timestamp": 1737444480,
-        "action": "close long",
-        "amount": 100,
-        "price": 35.872125494767005
-    },
-    {
-        "key": 267,
-        "timestamp": 1737445500,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.87681862347777
-    },
-    {
-        "key": 268,
-        "timestamp": 1737445620,
-        "action": "open long",
-        "amount": 100,
-        "price": 35.98306482700599
-    },
-    {
-        "key": 269,
-        "timestamp": 1737445680,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.367815801169925
-    },
-    {
-        "key": 270,
-        "timestamp": 1737445740,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.31867002362532
-    },
-    {
-        "key": 271,
-        "timestamp": 1737445800,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.89857176684665
-    },
-    {
-        "key": 272,
-        "timestamp": 1737445860,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.83350295740156
-    },
-    {
-        "key": 273,
-        "timestamp": 1737445920,
-        "action": "open long",
-        "amount": 100,
-        "price": 36.77014602516379
-    },
-    {
-        "key": 267,
-        "timestamp": 1737446040,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.015774130031794
-    },
-    {
-        "key": 268,
-        "timestamp": 1737446040,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.015774130031794
-    },
-    {
-        "key": 269,
-        "timestamp": 1737446040,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.015774130031794
-    },
-    {
-        "key": 270,
-        "timestamp": 1737446040,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.015774130031794
-    },
-    {
-        "key": 271,
-        "timestamp": 1737446040,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.015774130031794
-    },
-    {
-        "key": 272,
-        "timestamp": 1737446040,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.015774130031794
-    },
-    {
-        "key": 273,
-        "timestamp": 1737446040,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.015774130031794
-    },
-    {
-        "key": 274,
-        "timestamp": 1737446220,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.449378697360224
-    },
-    {
-        "key": 275,
-        "timestamp": 1737446340,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.52391949997143
-    },
-    {
-        "key": 274,
-        "timestamp": 1737446400,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.42738947254767
-    },
-    {
-        "key": 275,
-        "timestamp": 1737446400,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.42738947254767
-    },
-    {
-        "key": 276,
-        "timestamp": 1737446520,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.79631850739797
-    },
-    {
-        "key": 276,
-        "timestamp": 1737446580,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.9032695118546
-    },
-    {
-        "key": 277,
-        "timestamp": 1737446640,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.145914155999726
-    },
-    {
-        "key": 278,
-        "timestamp": 1737446700,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.37145414637018
-    },
-    {
-        "key": 279,
-        "timestamp": 1737446880,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.096152920886205
-    },
-    {
-        "key": 280,
-        "timestamp": 1737447000,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.240986622657054
-    },
-    {
-        "key": 281,
-        "timestamp": 1737447240,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.87591510991525
-    },
-    {
-        "key": 277,
-        "timestamp": 1737447300,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.502351777816976
-    },
-    {
-        "key": 278,
-        "timestamp": 1737447300,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.502351777816976
-    },
-    {
-        "key": 279,
-        "timestamp": 1737447300,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.502351777816976
-    },
-    {
-        "key": 280,
-        "timestamp": 1737447300,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.502351777816976
-    },
-    {
-        "key": 281,
-        "timestamp": 1737447300,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.502351777816976
-    },
-    {
-        "key": 282,
-        "timestamp": 1737447480,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.91380645549511
-    },
-    {
-        "key": 282,
-        "timestamp": 1737447660,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.03509323949278
-    },
-    {
-        "key": 283,
-        "timestamp": 1737448140,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.31395524456861
-    },
-    {
-        "key": 284,
-        "timestamp": 1737448200,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.47101356057863
-    },
-    {
-        "key": 283,
-        "timestamp": 1737448440,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.79690469425613
-    },
-    {
-        "key": 284,
-        "timestamp": 1737448440,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.79690469425613
-    },
-    {
-        "key": 285,
-        "timestamp": 1737448620,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.85582101099456
-    },
-    {
-        "key": 285,
-        "timestamp": 1737448800,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.95035663153945
-    },
-    {
-        "key": 286,
-        "timestamp": 1737449520,
-        "action": "open long",
-        "amount": 100,
-        "price": 40.257814452110296
-    },
-    {
-        "key": 287,
-        "timestamp": 1737449700,
-        "action": "open long",
-        "amount": 100,
-        "price": 40.2497847389884
-    },
-    {
-        "key": 288,
-        "timestamp": 1737449820,
-        "action": "open long",
-        "amount": 100,
-        "price": 40.75229499209831
-    },
-    {
-        "key": 286,
-        "timestamp": 1737450060,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.65679322767602
-    },
-    {
-        "key": 287,
-        "timestamp": 1737450060,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.65679322767602
-    },
-    {
-        "key": 288,
-        "timestamp": 1737450060,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.65679322767602
-    },
-    {
-        "key": 289,
-        "timestamp": 1737450120,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.58315460631915
-    },
-    {
-        "key": 289,
-        "timestamp": 1737450240,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.451366861008125
-    },
-    {
-        "key": 290,
-        "timestamp": 1737450720,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.31388531018216
-    },
-    {
-        "key": 291,
-        "timestamp": 1737450780,
-        "action": "open long",
-        "amount": 100,
-        "price": 41.54023958075917
-    },
-    {
-        "key": 290,
-        "timestamp": 1737450960,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.00158913277044
-    },
-    {
-        "key": 291,
-        "timestamp": 1737450960,
-        "action": "close long",
-        "amount": 100,
-        "price": 41.00158913277044
-    },
-    {
-        "key": 292,
-        "timestamp": 1737451380,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.72823582566042
-    },
-    {
-        "key": 293,
-        "timestamp": 1737451500,
-        "action": "open long",
-        "amount": 100,
-        "price": 40.01502588529
-    },
-    {
-        "key": 294,
-        "timestamp": 1737451560,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.61207454724477
-    },
-    {
-        "key": 295,
-        "timestamp": 1737451620,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.42858940759349
-    },
-    {
-        "key": 292,
-        "timestamp": 1737451800,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.225662934939386
-    },
-    {
-        "key": 293,
-        "timestamp": 1737451800,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.225662934939386
-    },
-    {
-        "key": 294,
-        "timestamp": 1737451800,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.225662934939386
-    },
-    {
-        "key": 295,
-        "timestamp": 1737451800,
-        "action": "close long",
-        "amount": 100,
-        "price": 40.225662934939386
-    },
-    {
-        "key": 296,
-        "timestamp": 1737453240,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.07579112714915
-    },
-    {
-        "key": 296,
-        "timestamp": 1737453360,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.28121781797047
-    },
-    {
-        "key": 297,
-        "timestamp": 1737453780,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.56212671448935
-    },
-    {
-        "key": 298,
-        "timestamp": 1737453840,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.61367001221514
-    },
-    {
-        "key": 299,
-        "timestamp": 1737453900,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.96179401197988
-    },
-    {
-        "key": 300,
-        "timestamp": 1737453960,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.65329831243089
-    },
-    {
-        "key": 301,
-        "timestamp": 1737454020,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.51968799125665
-    },
-    {
-        "key": 302,
-        "timestamp": 1737454080,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.54678190832776
-    },
-    {
-        "key": 303,
-        "timestamp": 1737454140,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.6015586686076
-    },
-    {
-        "key": 304,
-        "timestamp": 1737454200,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.56944324474589
-    },
-    {
-        "key": 297,
-        "timestamp": 1737454320,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91117871553031
-    },
-    {
-        "key": 298,
-        "timestamp": 1737454320,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91117871553031
-    },
-    {
-        "key": 299,
-        "timestamp": 1737454320,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91117871553031
-    },
-    {
-        "key": 300,
-        "timestamp": 1737454320,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91117871553031
-    },
-    {
-        "key": 301,
-        "timestamp": 1737454320,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91117871553031
-    },
-    {
-        "key": 302,
-        "timestamp": 1737454320,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91117871553031
-    },
-    {
-        "key": 303,
-        "timestamp": 1737454320,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91117871553031
-    },
-    {
-        "key": 304,
-        "timestamp": 1737454320,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91117871553031
-    },
-    {
-        "key": 305,
-        "timestamp": 1737455580,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.81000082596299
-    },
-    {
-        "key": 306,
-        "timestamp": 1737455880,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.81993310817458
-    },
-    {
-        "key": 307,
-        "timestamp": 1737456000,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.27135703389269
-    },
-    {
-        "key": 308,
-        "timestamp": 1737456060,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.35789115420375
-    },
-    {
-        "key": 309,
-        "timestamp": 1737456120,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.10609357997824
-    },
-    {
-        "key": 310,
-        "timestamp": 1737456180,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.778195995380514
-    },
-    {
-        "key": 311,
-        "timestamp": 1737456240,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.937573169324125
-    },
-    {
-        "key": 312,
-        "timestamp": 1737456300,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.45376964197347
-    },
-    {
-        "key": 313,
-        "timestamp": 1737456360,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.245677348241
-    },
-    {
-        "key": 305,
-        "timestamp": 1737456540,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.979261575913696
-    },
-    {
-        "key": 306,
-        "timestamp": 1737456540,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.979261575913696
-    },
-    {
-        "key": 307,
-        "timestamp": 1737456540,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.979261575913696
-    },
-    {
-        "key": 308,
-        "timestamp": 1737456540,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.979261575913696
-    },
-    {
-        "key": 309,
-        "timestamp": 1737456540,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.979261575913696
-    },
-    {
-        "key": 310,
-        "timestamp": 1737456540,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.979261575913696
-    },
-    {
-        "key": 311,
-        "timestamp": 1737456540,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.979261575913696
-    },
-    {
-        "key": 312,
-        "timestamp": 1737456540,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.979261575913696
-    },
-    {
-        "key": 313,
-        "timestamp": 1737456540,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.979261575913696
-    },
-    {
-        "key": 314,
-        "timestamp": 1737457080,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.83119911916469
-    },
-    {
-        "key": 315,
-        "timestamp": 1737457200,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.92343868188247
-    },
-    {
-        "key": 314,
-        "timestamp": 1737457440,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.3874941039
-    },
-    {
-        "key": 315,
-        "timestamp": 1737457440,
-        "action": "close long",
-        "amount": 100,
-        "price": 39.3874941039
-    },
-    {
-        "key": 316,
-        "timestamp": 1737458340,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.71018665112821
-    },
-    {
-        "key": 317,
-        "timestamp": 1737458640,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.89460421075825
-    },
-    {
-        "key": 318,
-        "timestamp": 1737458700,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.871187522657614
-    },
-    {
-        "key": 316,
-        "timestamp": 1737459000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.78052919277467
-    },
-    {
-        "key": 317,
-        "timestamp": 1737459000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.78052919277467
-    },
-    {
-        "key": 318,
-        "timestamp": 1737459000,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.78052919277467
-    },
-    {
-        "key": 319,
-        "timestamp": 1737460200,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.17023474072596
-    },
-    {
-        "key": 320,
-        "timestamp": 1737460380,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.38796210478706
-    },
-    {
-        "key": 319,
-        "timestamp": 1737460680,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.85438945644687
-    },
-    {
-        "key": 320,
-        "timestamp": 1737460680,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.85438945644687
-    },
-    {
-        "key": 321,
-        "timestamp": 1737460800,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.543672662707
-    },
-    {
-        "key": 321,
-        "timestamp": 1737461040,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.83599055790668
-    },
-    {
-        "key": 322,
-        "timestamp": 1737461100,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.51854806109441
-    },
-    {
-        "key": 323,
-        "timestamp": 1737461280,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.28866821695682
-    },
-    {
-        "key": 322,
-        "timestamp": 1737461340,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.38160160481911
-    },
-    {
-        "key": 323,
-        "timestamp": 1737461340,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.38160160481911
-    },
-    {
-        "key": 324,
-        "timestamp": 1737462120,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.77566959392331
-    },
-    {
-        "key": 325,
-        "timestamp": 1737462480,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.54281253227273
-    },
-    {
-        "key": 326,
-        "timestamp": 1737462600,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.04113588187644
-    },
-    {
-        "key": 327,
-        "timestamp": 1737462720,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.14507004882701
-    },
-    {
-        "key": 328,
-        "timestamp": 1737462840,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.92610591522031
-    },
-    {
-        "key": 329,
-        "timestamp": 1737462960,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.85167066543343
-    },
-    {
-        "key": 324,
-        "timestamp": 1737463080,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91244492839608
-    },
-    {
-        "key": 325,
-        "timestamp": 1737463080,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91244492839608
-    },
-    {
-        "key": 326,
-        "timestamp": 1737463080,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91244492839608
-    },
-    {
-        "key": 327,
-        "timestamp": 1737463080,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91244492839608
-    },
-    {
-        "key": 328,
-        "timestamp": 1737463080,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91244492839608
-    },
-    {
-        "key": 329,
-        "timestamp": 1737463080,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.91244492839608
-    },
-    {
-        "key": 330,
-        "timestamp": 1737463680,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.171902664513134
-    },
-    {
-        "key": 330,
-        "timestamp": 1737463980,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.34527549453603
-    },
-    {
-        "key": 331,
-        "timestamp": 1737464280,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.95690621380891
-    },
-    {
-        "key": 332,
-        "timestamp": 1737464400,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.17769056031431
-    },
-    {
-        "key": 333,
-        "timestamp": 1737464460,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.69192226677922
-    },
-    {
-        "key": 331,
-        "timestamp": 1737464640,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.55418340757294
-    },
-    {
-        "key": 332,
-        "timestamp": 1737464640,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.55418340757294
-    },
-    {
-        "key": 333,
-        "timestamp": 1737464640,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.55418340757294
-    },
-    {
-        "key": 334,
-        "timestamp": 1737465000,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.15415539657298
-    },
-    {
-        "key": 334,
-        "timestamp": 1737465060,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.19622382249132
-    },
-    {
-        "key": 335,
-        "timestamp": 1737465420,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.31313792781988
-    },
-    {
-        "key": 335,
-        "timestamp": 1737465720,
-        "action": "close long",
-        "amount": 100,
-        "price": 38.06580060251114
-    },
-    {
-        "key": 336,
-        "timestamp": 1737467040,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.98724088416654
-    },
-    {
-        "key": 337,
-        "timestamp": 1737467160,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.7732003788085
-    },
-    {
-        "key": 338,
-        "timestamp": 1737467280,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.02869659700633
-    },
-    {
-        "key": 339,
-        "timestamp": 1737467400,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.964395106722094
-    },
-    {
-        "key": 340,
-        "timestamp": 1737467460,
-        "action": "open long",
-        "amount": 100,
-        "price": 38.07023824904205
-    },
-    {
-        "key": 336,
-        "timestamp": 1737467520,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.932558275528216
-    },
-    {
-        "key": 337,
-        "timestamp": 1737467520,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.932558275528216
-    },
-    {
-        "key": 338,
-        "timestamp": 1737467520,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.932558275528216
-    },
-    {
-        "key": 339,
-        "timestamp": 1737467520,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.932558275528216
-    },
-    {
-        "key": 340,
-        "timestamp": 1737467520,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.932558275528216
-    },
-    {
-        "key": 341,
-        "timestamp": 1737468420,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.5304352051301
-    },
-    {
-        "key": 342,
-        "timestamp": 1737468720,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.63014430047036
-    },
-    {
-        "key": 343,
-        "timestamp": 1737468780,
-        "action": "open long",
-        "amount": 100,
-        "price": 37.47486165346861
-    },
-    {
-        "key": 341,
-        "timestamp": 1737468960,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.34555546810901
-    },
-    {
-        "key": 342,
-        "timestamp": 1737468960,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.34555546810901
-    },
-    {
-        "key": 343,
-        "timestamp": 1737468960,
-        "action": "close long",
-        "amount": 100,
-        "price": 37.34555546810901
-    },
-    {
-        "key": 344,
-        "timestamp": 1737471240,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.03048501295792
-    },
-    {
-        "key": 345,
-        "timestamp": 1737471360,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.18827861943795
-    },
-    {
-        "key": 346,
-        "timestamp": 1737471420,
-        "action": "open long",
-        "amount": 100,
-        "price": 39.29196912264696
-    }
-]
+{
+    "name": "test",
+    "interval": 60,
+    "start_date": 1737356160,
+    "end_date": 1737471420,
+    "opened_count": 123,
+    "closed_count": 41,
+    "win": 41,
+    "lose": 0,
+    "winrate": "100.00%",
+    "initial_balance": 100000,
+    "realized_profit": 38266.37844993539,
+    "unrealized_profit": -14756.625425581087,
+    "unrealized_value": -169937.766455448,
+    "guarantee": 1553.3685965072968,
+    "balance": 141977.8842007931,
+    "data": [
+        {
+            "key": 0,
+            "timestamp": 1737357780,
+            "action": "open short",
+            "amount": 100,
+            "price": 60.54186635614688,
+            "guard": 93945.8133643853
+        },
+        {
+            "key": 1,
+            "timestamp": 1737358560,
+            "action": "open short",
+            "amount": 100,
+            "price": 61.012578538408434,
+            "guard": 87844.55551054447
+        },
+        {
+            "key": 2,
+            "timestamp": 1737358980,
+            "action": "open short",
+            "amount": 100,
+            "price": 59.72637093667986,
+            "guard": 81871.91841687648
+        },
+        {
+            "key": 3,
+            "timestamp": 1737359280,
+            "action": "open short",
+            "amount": 100,
+            "price": 59.45311577819546,
+            "guard": 75926.60683905693
+        },
+        {
+            "key": 4,
+            "timestamp": 1737359340,
+            "action": "open short",
+            "amount": 100,
+            "price": 58.689239723588734,
+            "guard": 70057.68286669806
+        },
+        {
+            "key": 5,
+            "timestamp": 1737359400,
+            "action": "open short",
+            "amount": 100,
+            "price": 58.85391773235292,
+            "guard": 64172.291093462765
+        },
+        {
+            "key": 6,
+            "timestamp": 1737359460,
+            "action": "open short",
+            "amount": 100,
+            "price": 58.47543009122744,
+            "guard": 58324.74808434002
+        },
+        {
+            "key": 7,
+            "timestamp": 1737359880,
+            "action": "open short",
+            "amount": 100,
+            "price": 59.54741758831036,
+            "guard": 52370.006325508984
+        },
+        {
+            "key": 8,
+            "timestamp": 1737360960,
+            "action": "open short",
+            "amount": 100,
+            "price": 58.81890691887808,
+            "guard": 46488.11563362118
+        },
+        {
+            "key": 9,
+            "timestamp": 1737361020,
+            "action": "open short",
+            "amount": 100,
+            "price": 58.30157967369867,
+            "guard": 40657.957666251314
+        },
+        {
+            "key": 10,
+            "timestamp": 1737361440,
+            "action": "open short",
+            "amount": 100,
+            "price": 58.30920267541072,
+            "guard": 34827.03739871024
+        },
+        {
+            "key": 11,
+            "timestamp": 1737361800,
+            "action": "open short",
+            "amount": 100,
+            "price": 55.39992945235751,
+            "guard": 29287.044453474493
+        },
+        {
+            "key": 12,
+            "timestamp": 1737361920,
+            "action": "open short",
+            "amount": 100,
+            "price": 56.96439219109173,
+            "guard": 23590.60523436532
+        },
+        {
+            "key": 13,
+            "timestamp": 1737362040,
+            "action": "open short",
+            "amount": 100,
+            "price": 57.04657716596557,
+            "guard": 17885.947517768764
+        },
+        {
+            "key": 14,
+            "timestamp": 1737362940,
+            "action": "open short",
+            "amount": 100,
+            "price": 57.969909580620495,
+            "guard": 12088.956559706714
+        },
+        {
+            "key": 15,
+            "timestamp": 1737363720,
+            "action": "open short",
+            "amount": 100,
+            "price": 58.13652694521788,
+            "guard": 6275.303865184926
+        },
+        {
+            "key": 16,
+            "timestamp": 1737363840,
+            "action": "open short",
+            "amount": 100,
+            "price": 57.81851082469972,
+            "guard": 493.4527827149532
+        },
+        {
+            "key": 0,
+            "timestamp": 1737364680,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 54.4876797205322,
+            "guard": 3823.2554323030317
+        },
+        {
+            "key": 1,
+            "timestamp": 1737364680,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 54.91132068456759,
+            "guard": 7178.947251915495
+        },
+        {
+            "key": 17,
+            "timestamp": 1737365040,
+            "action": "open short",
+            "amount": 100,
+            "price": 54.688316115,
+            "guard": 1710.1156404154954
+        },
+        {
+            "key": 2,
+            "timestamp": 1737365220,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 53.75373384301187,
+            "guard": 4995.066041932887
+        },
+        {
+            "key": 3,
+            "timestamp": 1737365220,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 53.507804200375915,
+            "guard": 8264.987409733638
+        },
+        {
+            "key": 5,
+            "timestamp": 1737365220,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 52.96852595911763,
+            "guard": 11501.952885013048
+        },
+        {
+            "key": 7,
+            "timestamp": 1737365220,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 53.592675829479326,
+            "guard": 14777.060852370118
+        },
+        {
+            "key": 8,
+            "timestamp": 1737365220,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 52.93701622699027,
+            "guard": 18012.10073290841
+        },
+        {
+            "key": 18,
+            "timestamp": 1737365280,
+            "action": "open short",
+            "amount": 100,
+            "price": 52.441531602322,
+            "guard": 12767.94757267621
+        },
+        {
+            "key": 4,
+            "timestamp": 1737365280,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 52.82031575122986,
+            "guard": 15995.85575747359
+        },
+        {
+            "key": 6,
+            "timestamp": 1737365280,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 52.62788708210469,
+            "guard": 19212.0044124911
+        },
+        {
+            "key": 9,
+            "timestamp": 1737365280,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 52.471421706328805,
+            "guard": 22418.591294544527
+        },
+        {
+            "key": 10,
+            "timestamp": 1737365280,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 52.47828240786965,
+            "guard": 25625.597441692116
+        },
+        {
+            "key": 14,
+            "timestamp": 1737365520,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 52.17291862255845,
+            "guard": 28813.942468626243
+        },
+        {
+            "key": 15,
+            "timestamp": 1737365520,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 52.322874250696096,
+            "guard": 32011.451450613225
+        },
+        {
+            "key": 12,
+            "timestamp": 1737365580,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 51.26795297198256,
+            "guard": 35144.49302112327
+        },
+        {
+            "key": 13,
+            "timestamp": 1737365580,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 51.341919449369016,
+            "guard": 38282.05476525138
+        },
+        {
+            "key": 16,
+            "timestamp": 1737365580,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 52.03665974222975,
+            "guard": 41462.072860609864
+        },
+        {
+            "key": 19,
+            "timestamp": 1737365700,
+            "action": "open short",
+            "amount": 100,
+            "price": 51.11269538041756,
+            "guard": 36350.80332256811
+        },
+        {
+            "key": 20,
+            "timestamp": 1737366060,
+            "action": "open short",
+            "amount": 100,
+            "price": 52.17927933668452,
+            "guard": 31132.875388899654
+        },
+        {
+            "key": 21,
+            "timestamp": 1737366720,
+            "action": "open short",
+            "amount": 100,
+            "price": 52.35160880731416,
+            "guard": 25897.71450816824
+        },
+        {
+            "key": 22,
+            "timestamp": 1737367020,
+            "action": "open short",
+            "amount": 100,
+            "price": 53.32094982366152,
+            "guard": 20565.61952580209
+        },
+        {
+            "key": 23,
+            "timestamp": 1737367680,
+            "action": "open short",
+            "amount": 100,
+            "price": 54.84779030540231,
+            "guard": 15080.840495261858
+        },
+        {
+            "key": 24,
+            "timestamp": 1737368880,
+            "action": "open short",
+            "amount": 100,
+            "price": 55.65439551345723,
+            "guard": 9515.400943916135
+        },
+        {
+            "key": 25,
+            "timestamp": 1737368940,
+            "action": "open short",
+            "amount": 100,
+            "price": 55.25017496780091,
+            "guard": 3990.3834471360433
+        },
+        {
+            "key": 11,
+            "timestamp": 1737376800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 49.85993650712176,
+            "guard": 7037.379567015707
+        },
+        {
+            "key": 23,
+            "timestamp": 1737376800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 49.36301127486208,
+            "guard": 10054.008033812834
+        },
+        {
+            "key": 24,
+            "timestamp": 1737376800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 50.08895596211151,
+            "guard": 13114.99978705298
+        },
+        {
+            "key": 25,
+            "timestamp": 1737376800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 49.72515747102082,
+            "guard": 16153.75941028203
+        },
+        {
+            "key": 26,
+            "timestamp": 1737376860,
+            "action": "open short",
+            "amount": 100,
+            "price": 48.21510389469047,
+            "guard": 11332.249020812982
+        },
+        {
+            "key": 0,
+            "timestamp": 1737376860,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 48.43349308491751,
+            "guard": 13148.50501149739
+        },
+        {
+            "key": 1,
+            "timestamp": 1737376860,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 48.81006283072675,
+            "guard": 14978.882367649643
+        },
+        {
+            "key": 17,
+            "timestamp": 1737376860,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 49.2194845035,
+            "guard": 17986.73975397464
+        },
+        {
+            "key": 27,
+            "timestamp": 1737376980,
+            "action": "open short",
+            "amount": 100,
+            "price": 48.659801306888,
+            "guard": 13120.759623285841
+        },
+        {
+            "key": 2,
+            "timestamp": 1737376980,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 47.78109674934389,
+            "guard": 14912.550751386238
+        },
+        {
+            "key": 3,
+            "timestamp": 1737376980,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 47.56249262255637,
+            "guard": 16696.144224732103
+        },
+        {
+            "key": 7,
+            "timestamp": 1737376980,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 47.63793407064829,
+            "guard": 18482.56675238141
+        },
+        {
+            "key": 22,
+            "timestamp": 1737376980,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 47.98885484129537,
+            "guard": 21415.218992682796
+        },
+        {
+            "key": 28,
+            "timestamp": 1737378060,
+            "action": "open short",
+            "amount": 100,
+            "price": 48.83731790119394,
+            "guard": 16531.487202563403
+        },
+        {
+            "key": 29,
+            "timestamp": 1737378120,
+            "action": "open short",
+            "amount": 100,
+            "price": 49.31343909799653,
+            "guard": 11600.14329276375
+        },
+        {
+            "key": 30,
+            "timestamp": 1737378540,
+            "action": "open short",
+            "amount": 100,
+            "price": 48.91656692705201,
+            "guard": 6708.48660005855
+        },
+        {
+            "key": 31,
+            "timestamp": 1737378720,
+            "action": "open short",
+            "amount": 100,
+            "price": 46.79248315206251,
+            "guard": 2029.2382848522993
+        },
+        {
+            "key": 4,
+            "timestamp": 1737378720,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 46.95139177887099,
+            "guard": 3789.9154765599615
+        },
+        {
+            "key": 5,
+            "timestamp": 1737378720,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 47.08313418588234,
+            "guard": 5555.533008530549
+        },
+        {
+            "key": 6,
+            "timestamp": 1737378720,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 46.780344072981954,
+            "guard": 7309.795911267372
+        },
+        {
+            "key": 8,
+            "timestamp": 1737378720,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 47.05512553510246,
+            "guard": 9074.363118833713
+        },
+        {
+            "key": 18,
+            "timestamp": 1737378720,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 47.1973784420898,
+            "guard": 11958.647356961423
+        },
+        {
+            "key": 20,
+            "timestamp": 1737378720,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 46.961351403016074,
+            "guard": 14828.507720479072
+        },
+        {
+            "key": 21,
+            "timestamp": 1737378720,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 47.116447926582744,
+            "guard": 17707.846204881353
+        },
+        {
+            "key": 9,
+            "timestamp": 1737378780,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 46.64126373895894,
+            "guard": 19456.89359509231
+        },
+        {
+            "key": 10,
+            "timestamp": 1737378780,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 46.647362140328575,
+            "guard": 21206.169675354635
+        },
+        {
+            "key": 14,
+            "timestamp": 1737378780,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 46.3759276644964,
+            "guard": 22945.26696277325
+        },
+        {
+            "key": 15,
+            "timestamp": 1737378780,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 46.50922155617431,
+            "guard": 24689.362771129785
+        },
+        {
+            "key": 16,
+            "timestamp": 1737378780,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 46.25480865975978,
+            "guard": 26423.918095870777
+        },
+        {
+            "key": 12,
+            "timestamp": 1737379260,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 45.571513752873386,
+            "guard": 28132.84986160353
+        },
+        {
+            "key": 13,
+            "timestamp": 1737379260,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 45.63726173277246,
+            "guard": 29844.247176582496
+        },
+        {
+            "key": 19,
+            "timestamp": 1737379260,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 46.00142584237581,
+            "guard": 32655.44542250546
+        },
+        {
+            "key": 24,
+            "timestamp": 1737379380,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 44.52351641076579,
+            "guard": 34325.07728790918
+        },
+        {
+            "key": 32,
+            "timestamp": 1737379440,
+            "action": "open short",
+            "amount": 100,
+            "price": 45.90905597342135,
+            "guard": 29734.171690567047
+        },
+        {
+            "key": 33,
+            "timestamp": 1737379500,
+            "action": "open short",
+            "amount": 100,
+            "price": 46.088649815048335,
+            "guard": 25125.306709062213
+        },
+        {
+            "key": 34,
+            "timestamp": 1737379560,
+            "action": "open short",
+            "amount": 100,
+            "price": 46.00607456190584,
+            "guard": 20524.69925287163
+        },
+        {
+            "key": 35,
+            "timestamp": 1737379920,
+            "action": "open short",
+            "amount": 100,
+            "price": 47.42760781520148,
+            "guard": 15781.938471351481
+        },
+        {
+            "key": 36,
+            "timestamp": 1737380760,
+            "action": "open short",
+            "amount": 100,
+            "price": 46.16629343475977,
+            "guard": 11165.309127875504
+        },
+        {
+            "key": 37,
+            "timestamp": 1737381360,
+            "action": "open short",
+            "amount": 100,
+            "price": 48.950484993795,
+            "guard": 6270.260628496004
+        },
+        {
+            "key": 38,
+            "timestamp": 1737381420,
+            "action": "open short",
+            "amount": 100,
+            "price": 49.529995208338704,
+            "guard": 1317.2611076621333
+        },
+        {
+            "key": 38,
+            "timestamp": 1737392760,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 44.576995687504834,
+            "guard": 4041.4108441207622
+        },
+        {
+            "key": 11,
+            "timestamp": 1737392820,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 44.319943561886014,
+            "guard": 5703.408727691487
+        },
+        {
+            "key": 17,
+            "timestamp": 1737392820,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 43.750652892000005,
+            "guard": 7344.058211141487
+        },
+        {
+            "key": 23,
+            "timestamp": 1737392820,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 43.87823224432185,
+            "guard": 8989.491920303557
+        },
+        {
+            "key": 25,
+            "timestamp": 1737392820,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 44.20013997424073,
+            "guard": 10646.997169337585
+        },
+        {
+            "key": 27,
+            "timestamp": 1737392820,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 43.7938211761992,
+            "guard": 13323.286241216425
+        },
+        {
+            "key": 28,
+            "timestamp": 1737392820,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 43.95358611107455,
+            "guard": 16009.33872578209
+        },
+        {
+            "key": 29,
+            "timestamp": 1737392820,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 44.38209518819688,
+            "guard": 18721.577876171898
+        },
+        {
+            "key": 30,
+            "timestamp": 1737392820,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 44.02491023434681,
+            "guard": 21411.989057159757
+        },
+        {
+            "key": 37,
+            "timestamp": 1737392820,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 44.0554364944155,
+            "guard": 24104.265731818483
+        },
+        {
+            "key": 39,
+            "timestamp": 1737392880,
+            "action": "open short",
+            "amount": 100,
+            "price": 44.44143717405668,
+            "guard": 19660.122014412816
+        },
+        {
+            "key": 26,
+            "timestamp": 1737392880,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 43.393593505221425,
+            "guard": 22311.952728620792
+        },
+        {
+            "key": 0,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 42.37930644930282,
+            "guard": 24279.563385195564
+        },
+        {
+            "key": 1,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 42.7088049768859,
+            "guard": 26262.47218769384
+        },
+        {
+            "key": 2,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 41.8084596556759,
+            "guard": 28203.579243135933
+        },
+        {
+            "key": 3,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 41.61718104473682,
+            "guard": 30135.805505927285
+        },
+        {
+            "key": 7,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 41.68319231181725,
+            "guard": 32071.09657754737
+        },
+        {
+            "key": 18,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 41.953225281857605,
+            "guard": 33644.34252561703
+        },
+        {
+            "key": 20,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 41.74342346934762,
+            "guard": 35209.720905717564
+        },
+        {
+            "key": 21,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 41.88128704585133,
+            "guard": 36780.26916993699
+        },
+        {
+            "key": 22,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 42.65675985892922,
+            "guard": 38379.897664646836
+        },
+        {
+            "key": 31,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 42.11323483685626,
+            "guard": 40953.48423801027
+        },
+        {
+            "key": 33,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 41.479784833543505,
+            "guard": 43488.35997783793
+        },
+        {
+            "key": 35,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 42.684847033681336,
+            "guard": 46096.87840767401
+        },
+        {
+            "key": 36,
+            "timestamp": 1737392940,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 41.549664091283795,
+            "guard": 48636.0245465858
+        },
+        {
+            "key": 40,
+            "timestamp": 1737393420,
+            "action": "open short",
+            "amount": 100,
+            "price": 44.483671857844186,
+            "guard": 44187.657360801386
+        },
+        {
+            "key": 41,
+            "timestamp": 1737393540,
+            "action": "open short",
+            "amount": 100,
+            "price": 43.20245035473732,
+            "guard": 39867.412325327656
+        },
+        {
+            "key": 42,
+            "timestamp": 1737394380,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.12707181409696,
+            "guard": 35654.70514391796
+        },
+        {
+            "key": 4,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 41.08246780651211,
+            "guard": 37562.105434934594
+        },
+        {
+            "key": 5,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 41.19774241264704,
+            "guard": 39474.85776123607
+        },
+        {
+            "key": 6,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 40.9328010638592,
+            "guard": 41375.30923920096
+        },
+        {
+            "key": 8,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 41.17323484321465,
+            "guard": 43286.92371406449
+        },
+        {
+            "key": 9,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 40.81110577158906,
+            "guard": 45181.7250534597
+        },
+        {
+            "key": 10,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 40.8164418727875,
+            "guard": 47076.77414041055
+        },
+        {
+            "key": 14,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 40.57893670643434,
+            "guard": 48960.796201780715
+        },
+        {
+            "key": 15,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 40.69556886165251,
+            "guard": 50850.2333275003
+        },
+        {
+            "key": 16,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 40.472957577289804,
+            "guard": 52729.33492930304
+        },
+        {
+            "key": 19,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 40.890156304334056,
+            "guard": 54262.71579071557
+        },
+        {
+            "key": 32,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 41.31815037607922,
+            "guard": 56787.71386925375
+        },
+        {
+            "key": 34,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 41.40546710571526,
+            "guard": 59318.04797015857
+        },
+        {
+            "key": 40,
+            "timestamp": 1737394440,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 40.035304672059766,
+            "guard": 61764.64992234
+        },
+        {
+            "key": 12,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 39.87507453376421,
+            "guard": 63615.99266855048
+        },
+        {
+            "key": 13,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 39.9326040161759,
+            "guard": 65470.006426444364
+        },
+        {
+            "key": 24,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 38.95807685942006,
+            "guard": 67278.77428063173
+        },
+        {
+            "key": 27,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 38.927841045510405,
+            "guard": 68738.56831983836
+        },
+        {
+            "key": 28,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 39.06985432095516,
+            "guard": 70203.68785687418
+        },
+        {
+            "key": 29,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 39.45075127839723,
+            "guard": 71683.09102981408
+        },
+        {
+            "key": 30,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 39.13325354164161,
+            "guard": 73150.58803762564
+        },
+        {
+            "key": 37,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 39.160387995036004,
+            "guard": 74619.10258743948
+        },
+        {
+            "key": 38,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 39.62399616667096,
+            "guard": 76105.00244368965
+        },
+        {
+            "key": 39,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 39.997293456651015,
+            "guard": 78549.28148826277
+        },
+        {
+            "key": 41,
+            "timestamp": 1737394500,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.88220531926359,
+            "guard": 80925.41625777332
+        },
+        {
+            "key": 43,
+            "timestamp": 1737394620,
+            "action": "open short",
+            "amount": 100,
+            "price": 38.77497654269362,
+            "guard": 77047.91860350396
+        },
+        {
+            "key": 11,
+            "timestamp": 1737394620,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 38.779950616650254,
+            "guard": 78848.41631070558
+        },
+        {
+            "key": 25,
+            "timestamp": 1737394620,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 38.67512247746063,
+            "guard": 80644.04699715911
+        },
+        {
+            "key": 26,
+            "timestamp": 1737394620,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 38.57208311575238,
+            "guard": 82090.50011399982
+        },
+        {
+            "key": 17,
+            "timestamp": 1737394680,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 38.2818212805,
+            "guard": 83867.87038773732
+        },
+        {
+            "key": 23,
+            "timestamp": 1737394680,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 38.39345321378162,
+            "guard": 85650.4235726629
+        },
+        {
+            "key": 22,
+            "timestamp": 1737394740,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 37.32466487656306,
+            "guard": 87383.3544419319
+        },
+        {
+            "key": 31,
+            "timestamp": 1737394740,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 37.433986521650006,
+            "guard": 88787.12893649377
+        },
+        {
+            "key": 33,
+            "timestamp": 1737394740,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 36.87091985203867,
+            "guard": 90169.78843094522
+        },
+        {
+            "key": 34,
+            "timestamp": 1737394740,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 36.80485964952467,
+            "guard": 91549.9706678024
+        },
+        {
+            "key": 35,
+            "timestamp": 1737394740,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 37.94208625216119,
+            "guard": 92972.79890225844
+        },
+        {
+            "key": 36,
+            "timestamp": 1737394740,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 36.93303474780782,
+            "guard": 94357.78770530123
+        },
+        {
+            "key": 42,
+            "timestamp": 1737394740,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.91436463268726,
+            "guard": 96674.77665507657
+        },
+        {
+            "key": 18,
+            "timestamp": 1737394800,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 36.7090721216254,
+            "guard": 98379.12643215203
+        },
+        {
+            "key": 19,
+            "timestamp": 1737394800,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 35.77888676629229,
+            "guard": 100040.2890320156
+        },
+        {
+            "key": 20,
+            "timestamp": 1737394800,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 36.52549553567916,
+            "guard": 101736.11561045784
+        },
+        {
+            "key": 21,
+            "timestamp": 1737394800,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 36.64612616511991,
+            "guard": 103437.54289669555
+        },
+        {
+            "key": 32,
+            "timestamp": 1737394800,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 36.72724477873708,
+            "guard": 104814.8145758982
+        },
+        {
+            "key": 39,
+            "timestamp": 1737394800,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 35.55314973924535,
+            "guard": 106148.0576911199
+        },
+        {
+            "key": 40,
+            "timestamp": 1737394800,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 35.58693748627535,
+            "guard": 107482.56784685522
+        },
+        {
+            "key": 43,
+            "timestamp": 1737394920,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 34.89747888842426,
+            "guard": 109615.19155670337
+        },
+        {
+            "key": 29,
+            "timestamp": 1737394980,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.51940736859757,
+            "guard": 111217.87832738826
+        },
+        {
+            "key": 38,
+            "timestamp": 1737394980,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.67099664583709,
+            "guard": 112827.60317165927
+        },
+        {
+            "key": 41,
+            "timestamp": 1737394980,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.56196028378986,
+            "guard": 114123.67668230139
+        },
+        {
+            "key": 44,
+            "timestamp": 1737395640,
+            "action": "open short",
+            "amount": 100,
+            "price": 43.16954256241848,
+            "guard": 109806.72242605954
+        },
+        {
+            "key": 45,
+            "timestamp": 1737396180,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.3836265500723,
+            "guard": 105568.3597710523
+        },
+        {
+            "key": 46,
+            "timestamp": 1737396900,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.25116427917207,
+            "guard": 101443.2433431351
+        },
+        {
+            "key": 47,
+            "timestamp": 1737397380,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.18743811456628,
+            "guard": 97224.49953167846
+        },
+        {
+            "key": 48,
+            "timestamp": 1737397560,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.95769233404493,
+            "guard": 92928.73029827396
+        },
+        {
+            "key": 49,
+            "timestamp": 1737397680,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.51152657531563,
+            "guard": 88677.5776407424
+        },
+        {
+            "key": 50,
+            "timestamp": 1737397800,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.68477431885107,
+            "guard": 84409.10020885729
+        },
+        {
+            "key": 51,
+            "timestamp": 1737397920,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.3550214299452,
+            "guard": 80173.59806586277
+        },
+        {
+            "key": 52,
+            "timestamp": 1737397980,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.53989884216607,
+            "guard": 76019.60818164617
+        },
+        {
+            "key": 53,
+            "timestamp": 1737399000,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.29067169264293,
+            "guard": 71790.54101238187
+        },
+        {
+            "key": 54,
+            "timestamp": 1737399180,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.86841140111508,
+            "guard": 67603.69987227037
+        },
+        {
+            "key": 55,
+            "timestamp": 1737399240,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.03369170051165,
+            "guard": 63400.33070221921
+        },
+        {
+            "key": 56,
+            "timestamp": 1737399480,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.03340623528194,
+            "guard": 59296.990078691015
+        },
+        {
+            "key": 57,
+            "timestamp": 1737399600,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.026419228666114,
+            "guard": 55194.3481558244
+        },
+        {
+            "key": 44,
+            "timestamp": 1737399960,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.85258830617663,
+            "guard": 57568.67299675742
+        },
+        {
+            "key": 48,
+            "timestamp": 1737399960,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.661923100640436,
+            "guard": 59931.34607512989
+        },
+        {
+            "key": 50,
+            "timestamp": 1737399960,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.41629688696597,
+            "guard": 62279.0086626667
+        },
+        {
+            "key": 58,
+            "timestamp": 1737400680,
+            "action": "open short",
+            "amount": 100,
+            "price": 39.57625306778274,
+            "guard": 58321.38335588843
+        },
+        {
+            "key": 59,
+            "timestamp": 1737400740,
+            "action": "open short",
+            "amount": 100,
+            "price": 39.16541457914071,
+            "guard": 54404.84189797436
+        },
+        {
+            "key": 45,
+            "timestamp": 1737400800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.14526389506507,
+            "guard": 56735.94135822834
+        },
+        {
+            "key": 47,
+            "timestamp": 1737400800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.96869430310965,
+            "guard": 59056.25045452948
+        },
+        {
+            "key": 49,
+            "timestamp": 1737400800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.260373917784065,
+            "guard": 61394.38441617184
+        },
+        {
+            "key": 51,
+            "timestamp": 1737400800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.11951928695068,
+            "guard": 63723.91059481882
+        },
+        {
+            "key": 53,
+            "timestamp": 1737400800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.06160452337864,
+            "guard": 66049.89753791418
+        },
+        {
+            "key": 60,
+            "timestamp": 1737400860,
+            "action": "open short",
+            "amount": 100,
+            "price": 37.58713083261514,
+            "guard": 62291.18445465266
+        },
+        {
+            "key": 54,
+            "timestamp": 1737400860,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.68157026100358,
+            "guard": 64593.947081713995
+        },
+        {
+            "key": 55,
+            "timestamp": 1737400860,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.83032253046049,
+            "guard": 66905.80012524214
+        },
+        {
+            "key": 61,
+            "timestamp": 1737400980,
+            "action": "open short",
+            "amount": 100,
+            "price": 37.8354467564551,
+            "guard": 63122.255449596625
+        },
+        {
+            "key": 62,
+            "timestamp": 1737401040,
+            "action": "open short",
+            "amount": 100,
+            "price": 37.82316099344157,
+            "guard": 59339.93935025247
+        },
+        {
+            "key": 52,
+            "timestamp": 1737401520,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.38590895794946,
+            "guard": 61624.633786571605
+        },
+        {
+            "key": 63,
+            "timestamp": 1737401700,
+            "action": "open short",
+            "amount": 100,
+            "price": 39.88798738166032,
+            "guard": 57635.83504840557
+        },
+        {
+            "key": 64,
+            "timestamp": 1737402000,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.516861818537095,
+            "guard": 53484.14886655186
+        },
+        {
+            "key": 65,
+            "timestamp": 1737402060,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.85892968617185,
+            "guard": 49298.25589793468
+        },
+        {
+            "key": 66,
+            "timestamp": 1737402240,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.907157150536,
+            "guard": 45107.54018288108
+        },
+        {
+            "key": 67,
+            "timestamp": 1737402300,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.42537844023327,
+            "guard": 40865.002338857754
+        },
+        {
+            "key": 68,
+            "timestamp": 1737403080,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.396538870376055,
+            "guard": 36625.34845182015
+        },
+        {
+            "key": 69,
+            "timestamp": 1737403140,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.46366172238986,
+            "guard": 32378.982279581163
+        },
+        {
+            "key": 70,
+            "timestamp": 1737403440,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.67414152382807,
+            "guard": 28211.568127198356
+        },
+        {
+            "key": 71,
+            "timestamp": 1737403980,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.99252534505741,
+            "guard": 24012.315592692616
+        },
+        {
+            "key": 72,
+            "timestamp": 1737404100,
+            "action": "open short",
+            "amount": 100,
+            "price": 42.06709066210091,
+            "guard": 19805.606526482523
+        },
+        {
+            "key": 73,
+            "timestamp": 1737404460,
+            "action": "open short",
+            "amount": 100,
+            "price": 40.33866875772201,
+            "guard": 15771.739650710322
+        },
+        {
+            "key": 74,
+            "timestamp": 1737405120,
+            "action": "open short",
+            "amount": 100,
+            "price": 40.969519748519886,
+            "guard": 11674.787675858333
+        },
+        {
+            "key": 75,
+            "timestamp": 1737405240,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.35797401371032,
+            "guard": 7538.990274487302
+        },
+        {
+            "key": 76,
+            "timestamp": 1737405600,
+            "action": "open short",
+            "amount": 100,
+            "price": 41.610200140917975,
+            "guard": 3377.970260395504
+        },
+        {
+            "key": 67,
+            "timestamp": 1737408240,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.18284059620994,
+            "guard": 5711.366074608333
+        },
+        {
+            "key": 68,
+            "timestamp": 1737408240,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.15688498333845,
+            "guard": 8043.1757124790165
+        },
+        {
+            "key": 69,
+            "timestamp": 1737408240,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 38.21729555015087,
+            "guard": 10378.677107210458
+        },
+        {
+            "key": 72,
+            "timestamp": 1737408840,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.86038159589082,
+            "guard": 12692.367093626008
+        },
+        {
+            "key": 71,
+            "timestamp": 1737408900,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.79327281055167,
+            "guard": 15001.955987604166
+        },
+        {
+            "key": 46,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.12604785125487,
+            "guard": 17270.77002295863
+        },
+        {
+            "key": 56,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 36.93006561175375,
+            "guard": 19527.607365899137
+        },
+        {
+            "key": 57,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 36.923777305799504,
+            "guard": 21784.060423475774
+        },
+        {
+            "key": 64,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.36517563668339,
+            "guard": 24067.487823495314
+        },
+        {
+            "key": 65,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.673036717554666,
+            "guard": 26369.728956234765
+        },
+        {
+            "key": 66,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.7164414354824,
+            "guard": 28674.622599514245
+        },
+        {
+            "key": 70,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.506727371445265,
+            "guard": 30966.700383324787
+        },
+        {
+            "key": 74,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 36.872567773667896,
+            "guard": 33220.023969493384
+        },
+        {
+            "key": 75,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.22217661233929,
+            "guard": 35494.71254024745
+        },
+        {
+            "key": 76,
+            "timestamp": 1737409020,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 37.44918012682618,
+            "guard": 37783.27354799794
+        },
+        {
+            "key": 77,
+            "timestamp": 1737409260,
+            "action": "open short",
+            "amount": 100,
+            "price": 35.98341016639933,
+            "guard": 34184.932531358005
+        },
+        {
+            "key": 63,
+            "timestamp": 1737409260,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 35.899188643494284,
+            "guard": 36378.77183734932
+        },
+        {
+            "key": 73,
+            "timestamp": 1737409260,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 36.304801881949814,
+            "guard": 38597.39861902403
+        },
+        {
+            "key": 78,
+            "timestamp": 1737409320,
+            "action": "open short",
+            "amount": 100,
+            "price": 35.9323083115375,
+            "guard": 35004.16778787028
+        },
+        {
+            "key": 58,
+            "timestamp": 1737409320,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 35.61862776100446,
+            "guard": 37180.861706598334
+        },
+        {
+            "key": 79,
+            "timestamp": 1737409440,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.14759541506976,
+            "guard": 33566.10216509136
+        },
+        {
+            "key": 80,
+            "timestamp": 1737409500,
+            "action": "open short",
+            "amount": 100,
+            "price": 37.556653314617485,
+            "guard": 29810.436833629614
+        },
+        {
+            "key": 81,
+            "timestamp": 1737409560,
+            "action": "open short",
+            "amount": 100,
+            "price": 37.10198211138224,
+            "guard": 26100.23862249139
+        },
+        {
+            "key": 82,
+            "timestamp": 1737409620,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.86092424684129,
+            "guard": 22414.146197807262
+        },
+        {
+            "key": 83,
+            "timestamp": 1737410100,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.68040316082813,
+            "guard": 18746.10588172445
+        },
+        {
+            "key": 84,
+            "timestamp": 1737410160,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.359578526946684,
+            "guard": 15110.14802902978
+        },
+        {
+            "key": 85,
+            "timestamp": 1737410220,
+            "action": "open short",
+            "amount": 100,
+            "price": 37.145345762754665,
+            "guard": 11395.613452754314
+        },
+        {
+            "key": 86,
+            "timestamp": 1737410280,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.72831206078783,
+            "guard": 7722.7822466755315
+        },
+        {
+            "key": 87,
+            "timestamp": 1737410340,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.68149543864624,
+            "guard": 4054.6327028109076
+        },
+        {
+            "key": 59,
+            "timestamp": 1737410460,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 35.24887312122664,
+            "guard": 6208.730504663647
+        },
+        {
+            "key": 44,
+            "timestamp": 1737410640,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.535634049934785,
+            "guard": 7503.816781536201
+        },
+        {
+            "key": 88,
+            "timestamp": 1737410880,
+            "action": "open short",
+            "amount": 100,
+            "price": 37.68596245588841,
+            "guard": 3735.2205359473605
+        },
+        {
+            "key": 89,
+            "timestamp": 1737417180,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.81974788588364,
+            "guard": 53.24574735899614
+        },
+        {
+            "key": 48,
+            "timestamp": 1737419160,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.366153867235944,
+            "guard": 1341.976517380344
+        },
+        {
+            "key": 30,
+            "timestamp": 1737419280,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.2415968489364,
+            "guard": 2931.764942509534
+        },
+        {
+            "key": 37,
+            "timestamp": 1737419280,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.2653394956565,
+            "guard": 4522.655704807872
+        },
+        {
+            "key": 90,
+            "timestamp": 1737419400,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.674639481739675,
+            "guard": 1055.1917566339048
+        },
+        {
+            "key": 28,
+            "timestamp": 1737419400,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.18612253083575,
+            "guard": 2642.404588422708
+        },
+        {
+            "key": 50,
+            "timestamp": 1737419400,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.14781945508086,
+            "guard": 3922.94781798824
+        },
+        {
+            "key": 26,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.75057272628333,
+            "guard": 5489.938694565681
+        },
+        {
+            "key": 27,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.061860914821594,
+            "guard": 7071.382237039541
+        },
+        {
+            "key": 42,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.70165745127757,
+            "guard": 8335.19439146245
+        },
+        {
+            "key": 45,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.90690124005784,
+            "guard": 9606.703187964618
+        },
+        {
+            "key": 47,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.749950491653024,
+            "guard": 10872.326331401606
+        },
+        {
+            "key": 49,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 34.0092212602525,
+            "guard": 12147.672128661074
+        },
+        {
+            "key": 51,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.88401714395616,
+            "guard": 13418.32277155943
+        },
+        {
+            "key": 53,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.83253735411434,
+            "guard": 14687.042922338718
+        },
+        {
+            "key": 60,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.828417749353626,
+            "guard": 16754.33511813255
+        },
+        {
+            "key": 61,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 34.05190208080959,
+            "guard": 18835.28468973758
+        },
+        {
+            "key": 62,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 34.04084489409741,
+            "guard": 20915.558544376865
+        },
+        {
+            "key": 67,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.94030275218662,
+            "guard": 22188.319897583864
+        },
+        {
+            "key": 68,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.917231096300846,
+            "guard": 23460.216063695145
+        },
+        {
+            "key": 69,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.97092937791189,
+            "guard": 24734.12591536684
+        },
+        {
+            "key": 72,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.653672529680726,
+            "guard": 25996.13863522987
+        },
+        {
+            "key": 80,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.800987983155736,
+            "guard": 28061.75456753383
+        },
+        {
+            "key": 88,
+            "timestamp": 1737420240,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.91736621029957,
+            "guard": 30134.48250260769
+        },
+        {
+            "key": 35,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.199325470641035,
+            "guard": 31675.87975660174
+        },
+        {
+            "key": 52,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.231919073732854,
+            "guard": 32922.07672186672
+        },
+        {
+            "key": 54,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.49472912089207,
+            "guard": 34178.12906390017
+        },
+        {
+            "key": 55,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.626953360409324,
+            "guard": 35439.139814915514
+        },
+        {
+            "key": 64,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.21348945482968,
+            "guard": 36684.645669471625
+        },
+        {
+            "key": 65,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.48714374893748,
+            "guard": 37940.41356005678
+        },
+        {
+            "key": 66,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.5257257204288,
+            "guard": 39197.62827457286
+        },
+        {
+            "key": 70,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.339313219062454,
+            "guard": 40447.8525202877
+        },
+        {
+            "key": 71,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.59402027604593,
+            "guard": 41707.62828063942
+        },
+        {
+            "key": 76,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.28816011273438,
+            "guard": 42955.93428486696
+        },
+        {
+            "key": 81,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.39178390024402,
+            "guard": 44996.543300992984
+        },
+        {
+            "key": 85,
+            "timestamp": 1737420300,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.4308111864792,
+            "guard": 47039.53731794449
+        },
+        {
+            "key": 46,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.00093142333766,
+            "guard": 48277.07224631965
+        },
+        {
+            "key": 56,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 32.82672498822555,
+            "guard": 49508.07443337811
+        },
+        {
+            "key": 57,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 32.821135382932894,
+            "guard": 50738.86701023809
+        },
+        {
+            "key": 74,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 32.77561579881591,
+            "guard": 51967.95260269369
+        },
+        {
+            "key": 75,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 33.08637921096825,
+            "guard": 53208.691823105
+        },
+        {
+            "key": 82,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.17483182215717,
+            "guard": 55236.04265668127
+        },
+        {
+            "key": 83,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.01236284474532,
+            "guard": 57253.46483052681
+        },
+        {
+            "key": 86,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.055480854709046,
+            "guard": 59273.52199387014
+        },
+        {
+            "key": 87,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.013345894781615,
+            "guard": 61291.00424299568
+        },
+        {
+            "key": 89,
+            "timestamp": 1737420420,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.13777309729528,
+            "guard": 63316.09037671928
+        },
+        {
+            "key": 91,
+            "timestamp": 1737420480,
+            "action": "open short",
+            "amount": 100,
+            "price": 33.016572837300025,
+            "guard": 60014.433092989275
+        },
+        {
+            "key": 31,
+            "timestamp": 1737420480,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 32.754738206443754,
+            "guard": 61535.188795431306
+        },
+        {
+            "key": 79,
+            "timestamp": 1737420480,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 32.53283587356278,
+            "guard": 63523.30654326014
+        },
+        {
+            "key": 84,
+            "timestamp": 1737420480,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 32.72362067425202,
+            "guard": 65523.083362242214
+        },
+        {
+            "key": 92,
+            "timestamp": 1737420540,
+            "action": "open short",
+            "amount": 100,
+            "price": 32.740592872770314,
+            "guard": 62249.024074965186
+        },
+        {
+            "key": 32,
+            "timestamp": 1737420600,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 32.136339181394945,
+            "guard": 63741.06839410138
+        },
+        {
+            "key": 33,
+            "timestamp": 1737420600,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 32.26205487053383,
+            "guard": 65238.94951309045
+        },
+        {
+            "key": 34,
+            "timestamp": 1737420600,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 32.204252193334085,
+            "guard": 66734.1469363524
+        },
+        {
+            "key": 36,
+            "timestamp": 1737420600,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 32.31640540433184,
+            "guard": 68234.55147298209
+        },
+        {
+            "key": 58,
+            "timestamp": 1737420600,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 31.661002454226193,
+            "guard": 69421.83906501556
+        },
+        {
+            "key": 63,
+            "timestamp": 1737420600,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 31.910389905328255,
+            "guard": 70618.47868646537
+        },
+        {
+            "key": 73,
+            "timestamp": 1737420600,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 32.27093500617761,
+            "guard": 71828.63874919704
+        },
+        {
+            "key": 77,
+            "timestamp": 1737420600,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 32.385069149759396,
+            "guard": 73807.726308349
+        },
+        {
+            "key": 78,
+            "timestamp": 1737420600,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 32.33907748038375,
+            "guard": 75784.00326548355
+        },
+        {
+            "key": 59,
+            "timestamp": 1737420720,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 31.33233166331257,
+            "guard": 76958.96570285778
+        },
+        {
+            "key": 39,
+            "timestamp": 1737421140,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 31.109006021839676,
+            "guard": 78403.31241101462
+        },
+        {
+            "key": 40,
+            "timestamp": 1737421140,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 31.13857030049093,
+            "guard": 79849.03174639455
+        },
+        {
+            "key": 90,
+            "timestamp": 1737421140,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 31.207175533565707,
+            "guard": 81756.13691789024
+        },
+        {
+            "key": 93,
+            "timestamp": 1737421380,
+            "action": "open short",
+            "amount": 100,
+            "price": 32.73854401759924,
+            "guard": 78482.28251613032
+        },
+        {
+            "key": 94,
+            "timestamp": 1737421620,
+            "action": "open short",
+            "amount": 100,
+            "price": 32.6636144271586,
+            "guard": 75215.92107341446
+        },
+        {
+            "key": 95,
+            "timestamp": 1737422280,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.30841967635372,
+            "guard": 71785.07910577909
+        },
+        {
+            "key": 96,
+            "timestamp": 1737422340,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.48613634623455,
+            "guard": 68336.46547115564
+        },
+        {
+            "key": 97,
+            "timestamp": 1737422400,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.82861136167487,
+            "guard": 64853.60433498815
+        },
+        {
+            "key": 98,
+            "timestamp": 1737422640,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.301838979428425,
+            "guard": 61423.42043704531
+        },
+        {
+            "key": 43,
+            "timestamp": 1737423000,
+            "action": "takeprofit short",
+            "amount": 25,
+            "price": 31.019981234154898,
+            "guard": 62586.66973332612
+        },
+        {
+            "key": 95,
+            "timestamp": 1737423000,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 30.877577708718352,
+            "guard": 64473.632815525576
+        },
+        {
+            "key": 96,
+            "timestamp": 1737423000,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 31.037522711611096,
+            "guard": 66370.37031456847
+        },
+        {
+            "key": 97,
+            "timestamp": 1737423000,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 31.34575022550738,
+            "guard": 68285.94393946059
+        },
+        {
+            "key": 98,
+            "timestamp": 1737423000,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 30.87165508148558,
+            "guard": 70172.54508332915
+        },
+        {
+            "key": 99,
+            "timestamp": 1737423720,
+            "action": "open short",
+            "amount": 100,
+            "price": 31.48813459558746,
+            "guard": 67023.7316237704
+        },
+        {
+            "key": 100,
+            "timestamp": 1737424980,
+            "action": "open short",
+            "amount": 100,
+            "price": 32.0815484111394,
+            "guard": 63815.57678265647
+        },
+        {
+            "key": 101,
+            "timestamp": 1737425040,
+            "action": "open short",
+            "amount": 100,
+            "price": 32.68906330588655,
+            "guard": 60546.67045206782
+        },
+        {
+            "key": 102,
+            "timestamp": 1737425460,
+            "action": "open short",
+            "amount": 100,
+            "price": 33.87828755346808,
+            "guard": 57158.84169672101
+        },
+        {
+            "key": 103,
+            "timestamp": 1737425640,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.06521670895251,
+            "guard": 53752.32002582576
+        },
+        {
+            "key": 104,
+            "timestamp": 1737425700,
+            "action": "open short",
+            "amount": 100,
+            "price": 33.73618618248887,
+            "guard": 50378.70140757687
+        },
+        {
+            "key": 105,
+            "timestamp": 1737426720,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.10007704647948,
+            "guard": 46968.69370292892
+        },
+        {
+            "key": 106,
+            "timestamp": 1737427320,
+            "action": "open short",
+            "amount": 100,
+            "price": 33.95207391930825,
+            "guard": 43573.486310998094
+        },
+        {
+            "key": 107,
+            "timestamp": 1737427860,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.500929785205976,
+            "guard": 40123.3933324775
+        },
+        {
+            "key": 108,
+            "timestamp": 1737428760,
+            "action": "open short",
+            "amount": 100,
+            "price": 35.956455329103385,
+            "guard": 36527.74779956716
+        },
+        {
+            "key": 109,
+            "timestamp": 1737429060,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.66710737178599,
+            "guard": 32861.03706238856
+        },
+        {
+            "key": 110,
+            "timestamp": 1737430080,
+            "action": "open short",
+            "amount": 100,
+            "price": 35.9524886245136,
+            "guard": 29265.7881999372
+        },
+        {
+            "key": 111,
+            "timestamp": 1737430140,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.096463841758734,
+            "guard": 25656.141815761326
+        },
+        {
+            "key": 112,
+            "timestamp": 1737430860,
+            "action": "open short",
+            "amount": 100,
+            "price": 36.2124430651342,
+            "guard": 22034.897509247905
+        },
+        {
+            "key": 113,
+            "timestamp": 1737431340,
+            "action": "open short",
+            "amount": 100,
+            "price": 35.189653286013424,
+            "guard": 18515.932180646563
+        },
+        {
+            "key": 114,
+            "timestamp": 1737431460,
+            "action": "open short",
+            "amount": 100,
+            "price": 35.07426183400913,
+            "guard": 15008.505997245651
+        },
+        {
+            "key": 115,
+            "timestamp": 1737431520,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.900209846651585,
+            "guard": 11518.485012580493
+        },
+        {
+            "key": 116,
+            "timestamp": 1737431580,
+            "action": "open short",
+            "amount": 100,
+            "price": 34.984839636685855,
+            "guard": 8020.001048911908
+        },
+        {
+            "key": 117,
+            "timestamp": 1737432600,
+            "action": "open short",
+            "amount": 100,
+            "price": 33.488872735978546,
+            "guard": 4671.113775314053
+        },
+        {
+            "key": 118,
+            "timestamp": 1737433260,
+            "action": "open short",
+            "amount": 100,
+            "price": 33.234090831898875,
+            "guard": 1347.7046921241654
+        },
+        {
+            "key": 109,
+            "timestamp": 1737433800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 33.00039663460739,
+            "guard": 3364.3955975723948
+        },
+        {
+            "key": 112,
+            "timestamp": 1737433800,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 32.591198758620784,
+            "guard": 5356.079966154775
+        },
+        {
+            "key": 111,
+            "timestamp": 1737433860,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 32.48681745758286,
+            "guard": 7341.385477451506
+        },
+        {
+            "key": 119,
+            "timestamp": 1737433920,
+            "action": "open short",
+            "amount": 100,
+            "price": 32.8152448381197,
+            "guard": 4059.8609936395355
+        },
+        {
+            "key": 108,
+            "timestamp": 1737433920,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 32.360809796193045,
+            "guard": 6037.466036740221
+        },
+        {
+            "key": 110,
+            "timestamp": 1737434040,
+            "action": "takeprofit short",
+            "amount": 50,
+            "price": 32.35723976206224,
+            "guard": 8014.852911088469
+        },
+        {
+            "key": 120,
+            "timestamp": 1737434400,
+            "action": "open short",
+            "amount": 100,
+            "price": 32.03298791661042,
+            "guard": 4811.5541194274265
+        },
+        {
+            "key": 121,
+            "timestamp": 1737434760,
+            "action": "open short",
+            "amount": 100,
+            "price": 32.581855229201295,
+            "guard": 1553.3685965072968
+        }
+    ]
+}

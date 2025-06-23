@@ -1,0 +1,35 @@
+{
+    "name": "G5MkZ2gqGzz46JeZGv14R6eBL2UDyeo278dBu9gLpump",
+    "interval": 60,
+    "start_date": 1736542920,
+    "end_date": 1737462780,
+    "opened_count": 2,
+    "closed_count": 1,
+    "win": 0,
+    "lose": 1,
+    "winrate": "0.00%",
+    "initial_balance": 100000,
+    "closed_profit": -11.968998041829366,
+    "realized_profit": -11.968998041829366,
+    "unrealized_profit": 0,
+    "guarantee": 99988.03100195817,
+    "balance": 99988.03100195817,
+    "debug_value": 99988.03100195817,
+    "total_profit/total_bought": "-20.50%",
+    "PNL": "-41.00%",
+    "BALANCE CHANGE %": "-0.01%",
+    "data": [
+        {
+            "key": 0,
+            "entry_time": 1736546940,
+            "exit_time": 1737462780,
+            "hold_time": 915840,
+            "entry_price": 5.83824484027173e-06,
+            "entry_value": 58.3824484027173,
+            "exit_price": 4.64132051377778e-06,
+            "amount": 10000000,
+            "final_profit": -11.968998041829366,
+            "PNL": "-20.501%"
+        }
+    ]
+}

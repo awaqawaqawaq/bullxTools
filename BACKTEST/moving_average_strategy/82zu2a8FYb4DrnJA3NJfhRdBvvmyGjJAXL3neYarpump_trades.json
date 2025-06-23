@@ -1,0 +1,263 @@
+{
+    "name": "82zu2a8FYb4DrnJA3NJfhRdBvvmyGjJAXL3neYarpump",
+    "interval": 360,
+    "start_date": 1736650080,
+    "end_date": 1737610080,
+    "opened_count": 10,
+    "closed_count": 8,
+    "win": 2,
+    "lose": 6,
+    "winrate": "25.00%",
+    "initial_balance": 100000,
+    "closed_profit": -823.2048655469993,
+    "realized_profit": -823.2048585902847,
+    "unrealized_profit": -3.6354185196820175,
+    "guarantee": 99107.22938584005,
+    "balance": 99173.15972289004,
+    "debug_value": 99173.15971593332,
+    "total_profit/total_bought": "-15.87%",
+    "PNL": "-158.68%",
+    "BALANCE CHANGE %": "-0.83%",
+    "data": [
+        {
+            "key": 0,
+            "timestamp": 1736654460,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 0.0001206028414793,
+            "guarantee": 98793.971585207
+        },
+        {
+            "key": 0,
+            "timestamp": 1736655360,
+            "action": "takeprofit long",
+            "amount": 100,
+            "price": 0.000123014898308886,
+            "guarantee": 98793.98388669682
+        },
+        {
+            "key": 0,
+            "timestamp": 1736657400,
+            "action": "close long",
+            "amount": 9999900,
+            "price": 0.0001335928671547,
+            "guarantee": 100129.89919895711
+        },
+        {
+            "key": 1,
+            "timestamp": 1736659680,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 0.000113950032793,
+            "guarantee": 98990.39887102711
+        },
+        {
+            "key": 1,
+            "timestamp": 1736659680,
+            "action": "takeprofit long",
+            "amount": 100,
+            "price": 0.00011622903344886,
+            "guarantee": 98990.41049393045
+        },
+        {
+            "key": 1,
+            "timestamp": 1736659740,
+            "action": "stoploss long",
+            "amount": 100,
+            "price": 0.00011281053246507,
+            "guarantee": 98990.4217749837
+        },
+        {
+            "key": 1,
+            "timestamp": 1736663880,
+            "action": "close long",
+            "amount": 9999800,
+            "price": 9.39507504639792e-05,
+            "guarantee": 99929.91048947339
+        },
+        {
+            "key": 2,
+            "timestamp": 1736667300,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 9.832581637958528e-05,
+            "guarantee": 98946.65232567754
+        },
+        {
+            "key": 2,
+            "timestamp": 1736667720,
+            "action": "takeprofit long",
+            "amount": 100,
+            "price": 0.00010029233270717699,
+            "guarantee": 98946.6623549108
+        },
+        {
+            "key": 2,
+            "timestamp": 1736667720,
+            "action": "stoploss long",
+            "amount": 100,
+            "price": 9.734255821578942e-05,
+            "guarantee": 98946.67208916662
+        },
+        {
+            "key": 2,
+            "timestamp": 1736673960,
+            "action": "close long",
+            "amount": 9999800,
+            "price": 9.360339753700896e-05,
+            "guarantee": 99882.68734385721
+        },
+        {
+            "key": 3,
+            "timestamp": 1736677080,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 8.954444218216736e-05,
+            "guarantee": 98987.24292203554
+        },
+        {
+            "key": 3,
+            "timestamp": 1736677560,
+            "action": "stoploss long",
+            "amount": 100,
+            "price": 8.864899776034568e-05,
+            "guarantee": 98987.25178693532
+        },
+        {
+            "key": 3,
+            "timestamp": 1736687880,
+            "action": "close long",
+            "amount": 9999900,
+            "price": 6.187158423753764e-05,
+            "guarantee": 99605.96144215227
+        },
+        {
+            "key": 4,
+            "timestamp": 1736688480,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 4.779103878939827e-05,
+            "guarantee": 99128.05105425829
+        },
+        {
+            "key": 4,
+            "timestamp": 1736688600,
+            "action": "stoploss long",
+            "amount": 100,
+            "price": 4.7313128401504286e-05,
+            "guarantee": 99128.05578557114
+        },
+        {
+            "key": 4,
+            "timestamp": 1736707980,
+            "action": "close long",
+            "amount": 9999900,
+            "price": 1.673911266775085e-05,
+            "guarantee": 99295.44523833739
+        },
+        {
+            "key": 5,
+            "timestamp": 1736735040,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 2.232265830606052e-05,
+            "guarantee": 99072.21865527678
+        },
+        {
+            "key": 5,
+            "timestamp": 1736735040,
+            "action": "takeprofit long",
+            "amount": 100,
+            "price": 2.276911147218173e-05,
+            "guarantee": 99072.22093218793
+        },
+        {
+            "key": 5,
+            "timestamp": 1736736480,
+            "action": "stoploss long",
+            "amount": 100,
+            "price": 2.2099431722999916e-05,
+            "guarantee": 99072.2231421311
+        },
+        {
+            "key": 5,
+            "timestamp": 1736763420,
+            "action": "close long",
+            "amount": 9999800,
+            "price": 1.879194653351035e-05,
+            "guarantee": 99260.1388490769
+        },
+        {
+            "key": 6,
+            "timestamp": 1736771160,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 1.530058359310154e-05,
+            "guarantee": 99107.13301314588
+        },
+        {
+            "key": 6,
+            "timestamp": 1736771880,
+            "action": "stoploss long",
+            "amount": 100,
+            "price": 1.5147577757170525e-05,
+            "guarantee": 99107.13452790366
+        },
+        {
+            "key": 6,
+            "timestamp": 1736773920,
+            "action": "takeprofit long",
+            "amount": 100,
+            "price": 1.560659526496357e-05,
+            "guarantee": 99107.13608856319
+        },
+        {
+            "key": 6,
+            "timestamp": 1736981760,
+            "action": "close long",
+            "amount": 9999800,
+            "price": 6.57876603012607e-06,
+            "guarantee": 99172.92243311125
+        },
+        {
+            "key": 7,
+            "timestamp": 1737025500,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 6.28042491901542e-06,
+            "guarantee": 99110.11818392109
+        },
+        {
+            "key": 7,
+            "timestamp": 1737033000,
+            "action": "close long",
+            "amount": 10000000,
+            "price": 6.66769505319202e-06,
+            "guarantee": 99176.79513445302
+        },
+        {
+            "key": 8,
+            "timestamp": 1737452400,
+            "action": "open long",
+            "amount": 10000000,
+            "price": 6.95671469126291e-06,
+            "guarantee": 99107.22798754039
+        },
+        {
+            "key": 8,
+            "timestamp": 1737452400,
+            "action": "stoploss long",
+            "amount": 100,
+            "price": 6.887147544350281e-06,
+            "guarantee": 99107.22867625515
+        },
+        {
+            "key": 8,
+            "timestamp": 1737493080,
+            "action": "takeprofit long",
+            "amount": 100,
+            "price": 7.0958489850881685e-06,
+            "guarantee": 99107.22938584005
+        }
+    ]
+}

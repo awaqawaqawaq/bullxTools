@@ -1,0 +1,22 @@
+{
+    "name": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+    "interval": 60,
+    "start_date": 1737528960,
+    "end_date": 1737644220,
+    "opened_count": 1,
+    "closed_count": 0,
+    "win": 0,
+    "lose": 0,
+    "winrate": "N/A",
+    "initial_balance": 100000,
+    "closed_profit": 0,
+    "realized_profit": 0,
+    "unrealized_profit": 0,
+    "guarantee": 100000,
+    "balance": 100000,
+    "debug_value": 100000,
+    "total_profit/total_bought": "0.00%",
+    "PNL": "0.00%",
+    "BALANCE CHANGE %": "0.00%",
+    "data": []
+}

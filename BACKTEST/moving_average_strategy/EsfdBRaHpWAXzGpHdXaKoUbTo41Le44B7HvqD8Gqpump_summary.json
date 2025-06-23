@@ -1,0 +1,71 @@
+{
+    "name": "EsfdBRaHpWAXzGpHdXaKoUbTo41Le44B7HvqD8Gqpump",
+    "interval": 60,
+    "start_date": 1736532660,
+    "end_date": 1737572640,
+    "opened_count": 5,
+    "closed_count": 4,
+    "win": 0,
+    "lose": 4,
+    "winrate": "0.00%",
+    "initial_balance": 100000,
+    "closed_profit": -265.4091802586994,
+    "realized_profit": -265.4091802586994,
+    "unrealized_profit": 0,
+    "guarantee": 99734.59081974132,
+    "balance": 99734.5908197413,
+    "debug_value": 99734.5908197413,
+    "total_profit/total_bought": "-28.90%",
+    "PNL": "-144.49%",
+    "BALANCE CHANGE %": "-0.27%",
+    "data": [
+        {
+            "key": 0,
+            "entry_time": 1736535720,
+            "exit_time": 1736541240,
+            "hold_time": 5520,
+            "entry_price": 4.948099386937533e-05,
+            "entry_value": 494.8099386937533,
+            "exit_price": 3.501485486514063e-05,
+            "amount": 10000000,
+            "final_profit": -144.65844733355226,
+            "PNL": "-29.235%"
+        },
+        {
+            "key": 1,
+            "entry_time": 1736542200,
+            "exit_time": 1736546760,
+            "hold_time": 4560,
+            "entry_price": 2.136403366042631e-05,
+            "entry_value": 213.64033660426313,
+            "exit_price": 1.402380105013995e-05,
+            "amount": 10000000,
+            "final_profit": -73.4008366923079,
+            "PNL": "-34.357%"
+        },
+        {
+            "key": 2,
+            "entry_time": 1736549100,
+            "exit_time": 1736566320,
+            "hold_time": 17220,
+            "entry_price": 1.204122974979056e-05,
+            "entry_value": 120.4122974979056,
+            "exit_price": 1.001094074446301e-05,
+            "amount": 10000000,
+            "final_profit": -20.302699065604706,
+            "PNL": "-16.861%"
+        },
+        {
+            "key": 3,
+            "entry_time": 1736570280,
+            "exit_time": 1737056520,
+            "hold_time": 486240,
+            "entry_price": 8.95759429689406e-06,
+            "entry_value": 89.5759429689406,
+            "exit_price": 6.25281958891702e-06,
+            "amount": 10000000,
+            "final_profit": -27.047197167234504,
+            "PNL": "-30.195%"
+        }
+    ]
+}

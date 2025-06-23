@@ -1,0 +1,2079 @@
+{
+    "name": "",
+    "interval": 60,
+    "start_date": 1737356160,
+    "end_date": 1737471420,
+    "opened_count": 130,
+    "closed_count": 128,
+    "win": 65,
+    "lose": 63,
+    "winrate": "50.78%",
+    "initial_balance": 100000,
+    "closed_profit": -1092.3039666831132,
+    "realized_profit": -1092.3039666831132,
+    "unrealized_profit": 26.1484109689043,
+    "guarantee": 95004.64753202104,
+    "balance": 98933.84444428577,
+    "debug_value": 98933.84444428579,
+    "total_profit/total_bought": "-0.19%",
+    "PNL": "-25.12%",
+    "BALANCE CHANGE %": "-1.07%",
+    "data": [
+        {
+            "key": 0,
+            "timestamp": 1737357780,
+            "action": "open long",
+            "amount": 100,
+            "price": 60.54186635614688,
+            "guarantee": 93945.8133643853
+        },
+        {
+            "key": 0,
+            "timestamp": 1737357900,
+            "action": "close long",
+            "amount": 100,
+            "price": 60.04810088811617,
+            "guarantee": 99950.62345319692
+        },
+        {
+            "key": 1,
+            "timestamp": 1737358560,
+            "action": "open long",
+            "amount": 100,
+            "price": 61.012578538408434,
+            "guarantee": 93849.36559935608
+        },
+        {
+            "key": 1,
+            "timestamp": 1737358800,
+            "action": "close long",
+            "amount": 100,
+            "price": 59.77900830318653,
+            "guarantee": 99827.26642967474
+        },
+        {
+            "key": 2,
+            "timestamp": 1737358980,
+            "action": "open long",
+            "amount": 100,
+            "price": 59.72637093667986,
+            "guarantee": 93854.62933600675
+        },
+        {
+            "key": 2,
+            "timestamp": 1737359220,
+            "action": "close long",
+            "amount": 100,
+            "price": 59.44323903506272,
+            "guarantee": 99798.95323951302
+        },
+        {
+            "key": 3,
+            "timestamp": 1737359280,
+            "action": "open long",
+            "amount": 100,
+            "price": 59.45311577819546,
+            "guarantee": 93853.64166169347
+        },
+        {
+            "key": 3,
+            "timestamp": 1737360360,
+            "action": "close long",
+            "amount": 100,
+            "price": 58.63275749145844,
+            "guarantee": 99716.91741083932
+        },
+        {
+            "key": 4,
+            "timestamp": 1737360960,
+            "action": "open long",
+            "amount": 100,
+            "price": 58.81890691887808,
+            "guarantee": 93835.02671895151
+        },
+        {
+            "key": 4,
+            "timestamp": 1737361560,
+            "action": "close long",
+            "amount": 100,
+            "price": 58.14684158306692,
+            "guarantee": 99649.7108772582
+        },
+        {
+            "key": 5,
+            "timestamp": 1737361800,
+            "action": "open long",
+            "amount": 100,
+            "price": 55.39992945235751,
+            "guarantee": 94109.71793202245
+        },
+        {
+            "key": 5,
+            "timestamp": 1737362460,
+            "action": "close long",
+            "amount": 100,
+            "price": 57.66158242688784,
+            "guarantee": 99875.87617471124
+        },
+        {
+            "key": 6,
+            "timestamp": 1737362940,
+            "action": "open long",
+            "amount": 100,
+            "price": 57.969909580620495,
+            "guarantee": 94078.8852166492
+        },
+        {
+            "key": 6,
+            "timestamp": 1737363180,
+            "action": "close long",
+            "amount": 100,
+            "price": 58.071567828869625,
+            "guarantee": 99886.04199953616
+        },
+        {
+            "key": 7,
+            "timestamp": 1737363720,
+            "action": "open long",
+            "amount": 100,
+            "price": 58.13652694521788,
+            "guarantee": 94072.38930501437
+        },
+        {
+            "key": 7,
+            "timestamp": 1737363960,
+            "action": "close long",
+            "amount": 100,
+            "price": 57.22353655205994,
+            "guarantee": 99794.74296022036
+        },
+        {
+            "key": 8,
+            "timestamp": 1737364260,
+            "action": "open long",
+            "amount": 100,
+            "price": 57.17249266813581,
+            "guarantee": 94077.49369340678
+        },
+        {
+            "key": 8,
+            "timestamp": 1737364860,
+            "action": "close long",
+            "amount": 100,
+            "price": 54.855892380178,
+            "guarantee": 99563.08293142458
+        },
+        {
+            "key": 9,
+            "timestamp": 1737365040,
+            "action": "open long",
+            "amount": 100,
+            "price": 54.688316115,
+            "guarantee": 94094.25131992457
+        },
+        {
+            "key": 9,
+            "timestamp": 1737365160,
+            "action": "close long",
+            "amount": 100,
+            "price": 54.073789575889606,
+            "guarantee": 99501.63027751353
+        },
+        {
+            "key": 10,
+            "timestamp": 1737365280,
+            "action": "open long",
+            "amount": 100,
+            "price": 52.441531602322,
+            "guarantee": 94257.47711728132
+        },
+        {
+            "key": 10,
+            "timestamp": 1737365580,
+            "action": "close long",
+            "amount": 100,
+            "price": 51.337561160672784,
+            "guarantee": 99391.2332333486
+        },
+        {
+            "key": 11,
+            "timestamp": 1737365700,
+            "action": "open long",
+            "amount": 100,
+            "price": 51.11269538041756,
+            "guarantee": 94279.96369530684
+        },
+        {
+            "key": 11,
+            "timestamp": 1737365820,
+            "action": "close long",
+            "amount": 100,
+            "price": 51.60524063527792,
+            "guarantee": 99440.48775883463
+        },
+        {
+            "key": 12,
+            "timestamp": 1737366060,
+            "action": "open long",
+            "amount": 100,
+            "price": 52.17927933668452,
+            "guarantee": 94222.55982516617
+        },
+        {
+            "key": 12,
+            "timestamp": 1737366780,
+            "action": "close long",
+            "amount": 100,
+            "price": 52.69128874267711,
+            "guarantee": 99491.68869943389
+        },
+        {
+            "key": 13,
+            "timestamp": 1737367020,
+            "action": "open long",
+            "amount": 100,
+            "price": 53.32094982366152,
+            "guarantee": 94159.59371706774
+        },
+        {
+            "key": 13,
+            "timestamp": 1737367380,
+            "action": "close long",
+            "amount": 100,
+            "price": 54.0807374697478,
+            "guarantee": 99567.66746404252
+        },
+        {
+            "key": 14,
+            "timestamp": 1737367680,
+            "action": "open long",
+            "amount": 100,
+            "price": 54.84779030540231,
+            "guarantee": 94082.88843350229
+        },
+        {
+            "key": 14,
+            "timestamp": 1737367740,
+            "action": "close long",
+            "amount": 100,
+            "price": 54.69933449118663,
+            "guarantee": 99552.82188262095
+        },
+        {
+            "key": 15,
+            "timestamp": 1737368880,
+            "action": "open long",
+            "amount": 100,
+            "price": 55.65439551345723,
+            "guarantee": 93987.38233127522
+        },
+        {
+            "key": 15,
+            "timestamp": 1737369180,
+            "action": "close long",
+            "amount": 100,
+            "price": 54.312985436773616,
+            "guarantee": 99418.68087495258
+        },
+        {
+            "key": 16,
+            "timestamp": 1737369240,
+            "action": "open long",
+            "amount": 100,
+            "price": 53.56795705340771,
+            "guarantee": 94061.8851696118
+        },
+        {
+            "key": 16,
+            "timestamp": 1737369360,
+            "action": "close long",
+            "amount": 100,
+            "price": 52.921344222482674,
+            "guarantee": 99354.01959186008
+        },
+        {
+            "key": 17,
+            "timestamp": 1737369660,
+            "action": "open long",
+            "amount": 100,
+            "price": 53.47562133915809,
+            "guarantee": 94006.45745794427
+        },
+        {
+            "key": 17,
+            "timestamp": 1737369900,
+            "action": "close long",
+            "amount": 100,
+            "price": 53.333252715467694,
+            "guarantee": 99339.78272949104
+        },
+        {
+            "key": 18,
+            "timestamp": 1737369960,
+            "action": "open long",
+            "amount": 100,
+            "price": 53.7972617291435,
+            "guarantee": 93960.05655657669
+        },
+        {
+            "key": 18,
+            "timestamp": 1737370260,
+            "action": "close long",
+            "amount": 100,
+            "price": 53.81218138661728,
+            "guarantee": 99341.27469523842
+        },
+        {
+            "key": 19,
+            "timestamp": 1737370440,
+            "action": "open long",
+            "amount": 100,
+            "price": 52.73869957123576,
+            "guarantee": 94067.40473811484
+        },
+        {
+            "key": 19,
+            "timestamp": 1737370560,
+            "action": "close long",
+            "amount": 100,
+            "price": 52.558183058165646,
+            "guarantee": 99323.2230439314
+        },
+        {
+            "key": 20,
+            "timestamp": 1737370860,
+            "action": "open long",
+            "amount": 100,
+            "price": 54.41573809328075,
+            "guarantee": 93881.64923460332
+        },
+        {
+            "key": 20,
+            "timestamp": 1737372300,
+            "action": "close long",
+            "amount": 100,
+            "price": 54.31663810557612,
+            "guarantee": 99313.31304516093
+        },
+        {
+            "key": 21,
+            "timestamp": 1737372900,
+            "action": "open long",
+            "amount": 100,
+            "price": 53.9081247475422,
+            "guarantee": 93922.50057040672
+        },
+        {
+            "key": 21,
+            "timestamp": 1737373380,
+            "action": "close long",
+            "amount": 100,
+            "price": 53.30445685706309,
+            "guarantee": 99252.94625611302
+        },
+        {
+            "key": 22,
+            "timestamp": 1737373620,
+            "action": "open long",
+            "amount": 100,
+            "price": 53.27485431147228,
+            "guarantee": 93925.46082496579
+        },
+        {
+            "key": 22,
+            "timestamp": 1737373740,
+            "action": "close long",
+            "amount": 100,
+            "price": 52.93900413905022,
+            "guarantee": 99219.36123887081
+        },
+        {
+            "key": 23,
+            "timestamp": 1737373920,
+            "action": "open long",
+            "amount": 100,
+            "price": 52.840074579341966,
+            "guarantee": 93935.35378093662
+        },
+        {
+            "key": 23,
+            "timestamp": 1737374280,
+            "action": "close long",
+            "amount": 100,
+            "price": 53.234500124923706,
+            "guarantee": 99258.80379342899
+        },
+        {
+            "key": 24,
+            "timestamp": 1737375660,
+            "action": "open long",
+            "amount": 100,
+            "price": 53.19261886055252,
+            "guarantee": 93939.54190737374
+        },
+        {
+            "key": 24,
+            "timestamp": 1737375780,
+            "action": "close long",
+            "amount": 100,
+            "price": 53.12729531251578,
+            "guarantee": 99252.27143862532
+        },
+        {
+            "key": 25,
+            "timestamp": 1737376260,
+            "action": "open long",
+            "amount": 100,
+            "price": 53.215381168141846,
+            "guarantee": 93930.73332181113
+        },
+        {
+            "key": 25,
+            "timestamp": 1737377160,
+            "action": "close long",
+            "amount": 100,
+            "price": 49.06490145643736,
+            "guarantee": 98837.22346745487
+        },
+        {
+            "key": 26,
+            "timestamp": 1737378060,
+            "action": "open long",
+            "amount": 100,
+            "price": 48.83731790119394,
+            "guarantee": 93953.49167733548
+        },
+        {
+            "key": 26,
+            "timestamp": 1737378180,
+            "action": "close long",
+            "amount": 100,
+            "price": 49.674165404037744,
+            "guarantee": 98920.90821773926
+        },
+        {
+            "key": 27,
+            "timestamp": 1737378540,
+            "action": "open long",
+            "amount": 100,
+            "price": 48.91656692705201,
+            "guarantee": 94029.25152503405
+        },
+        {
+            "key": 27,
+            "timestamp": 1737378840,
+            "action": "close long",
+            "amount": 100,
+            "price": 46.94339307605255,
+            "guarantee": 98723.59083263931
+        },
+        {
+            "key": 28,
+            "timestamp": 1737379440,
+            "action": "open long",
+            "amount": 100,
+            "price": 45.90905597342135,
+            "guarantee": 94132.68523529718
+        },
+        {
+            "key": 28,
+            "timestamp": 1737379800,
+            "action": "close long",
+            "amount": 100,
+            "price": 46.96166138608475,
+            "guarantee": 98828.85137390565
+        },
+        {
+            "key": 29,
+            "timestamp": 1737379920,
+            "action": "open long",
+            "amount": 100,
+            "price": 47.42760781520148,
+            "guarantee": 94086.0905923855
+        },
+        {
+            "key": 29,
+            "timestamp": 1737379980,
+            "action": "close long",
+            "amount": 100,
+            "price": 47.38340279341609,
+            "guarantee": 98824.4308717271
+        },
+        {
+            "key": 30,
+            "timestamp": 1737380760,
+            "action": "open long",
+            "amount": 100,
+            "price": 46.16629343475977,
+            "guarantee": 94207.80152825113
+        },
+        {
+            "key": 30,
+            "timestamp": 1737380820,
+            "action": "close long",
+            "amount": 100,
+            "price": 46.40427943169858,
+            "guarantee": 98848.22947142099
+        },
+        {
+            "key": 31,
+            "timestamp": 1737381360,
+            "action": "open long",
+            "amount": 100,
+            "price": 48.950484993795,
+            "guarantee": 93953.18097204149
+        },
+        {
+            "key": 31,
+            "timestamp": 1737381720,
+            "action": "close long",
+            "amount": 100,
+            "price": 49.66985682211672,
+            "guarantee": 98920.16665425316
+        },
+        {
+            "key": 32,
+            "timestamp": 1737381840,
+            "action": "open long",
+            "amount": 100,
+            "price": 49.24608036467509,
+            "guarantee": 93995.55861778565
+        },
+        {
+            "key": 32,
+            "timestamp": 1737382980,
+            "action": "close long",
+            "amount": 100,
+            "price": 51.78066826869046,
+            "guarantee": 99173.6254446547
+        },
+        {
+            "key": 33,
+            "timestamp": 1737383100,
+            "action": "open long",
+            "amount": 100,
+            "price": 52.607529061978624,
+            "guarantee": 93912.87253845684
+        },
+        {
+            "key": 33,
+            "timestamp": 1737383220,
+            "action": "close long",
+            "amount": 100,
+            "price": 52.43493170632016,
+            "guarantee": 99156.36570908886
+        },
+        {
+            "key": 34,
+            "timestamp": 1737383820,
+            "action": "open long",
+            "amount": 100,
+            "price": 51.98540375471974,
+            "guarantee": 93957.82533361689
+        },
+        {
+            "key": 34,
+            "timestamp": 1737384840,
+            "action": "close long",
+            "amount": 100,
+            "price": 53.75206337425878,
+            "guarantee": 99333.03167104276
+        },
+        {
+            "key": 35,
+            "timestamp": 1737385380,
+            "action": "open long",
+            "amount": 100,
+            "price": 53.626182956712974,
+            "guarantee": 93970.41337537146
+        },
+        {
+            "key": 35,
+            "timestamp": 1737385860,
+            "action": "close long",
+            "amount": 100,
+            "price": 53.70670550634681,
+            "guarantee": 99341.08392600613
+        },
+        {
+            "key": 36,
+            "timestamp": 1737386580,
+            "action": "open long",
+            "amount": 100,
+            "price": 51.24818234982702,
+            "guarantee": 94216.26569102344
+        },
+        {
+            "key": 36,
+            "timestamp": 1737386640,
+            "action": "close long",
+            "amount": 100,
+            "price": 51.38430139599986,
+            "guarantee": 99354.69583062342
+        },
+        {
+            "key": 37,
+            "timestamp": 1737387060,
+            "action": "open long",
+            "amount": 100,
+            "price": 52.27544809559333,
+            "guarantee": 94127.15102106408
+        },
+        {
+            "key": 37,
+            "timestamp": 1737387240,
+            "action": "close long",
+            "amount": 100,
+            "price": 51.08055615527601,
+            "guarantee": 99235.20663659168
+        },
+        {
+            "key": 38,
+            "timestamp": 1737387840,
+            "action": "open long",
+            "amount": 100,
+            "price": 50.66576379777482,
+            "guarantee": 94168.6302568142
+        },
+        {
+            "key": 38,
+            "timestamp": 1737388440,
+            "action": "close long",
+            "amount": 100,
+            "price": 48.75544490564422,
+            "guarantee": 99044.17474737862
+        },
+        {
+            "key": 39,
+            "timestamp": 1737388500,
+            "action": "open long",
+            "amount": 100,
+            "price": 48.93658597476399,
+            "guarantee": 94150.51614990222
+        },
+        {
+            "key": 39,
+            "timestamp": 1737389460,
+            "action": "close long",
+            "amount": 100,
+            "price": 48.97991407359875,
+            "guarantee": 99048.5075572621
+        },
+        {
+            "key": 40,
+            "timestamp": 1737389940,
+            "action": "open long",
+            "amount": 100,
+            "price": 48.36155931703681,
+            "guarantee": 94212.35162555843
+        },
+        {
+            "key": 40,
+            "timestamp": 1737390240,
+            "action": "close long",
+            "amount": 100,
+            "price": 47.10535152176596,
+            "guarantee": 98922.88677773502
+        },
+        {
+            "key": 41,
+            "timestamp": 1737390480,
+            "action": "open long",
+            "amount": 100,
+            "price": 48.68699510063617,
+            "guarantee": 94054.18726767141
+        },
+        {
+            "key": 41,
+            "timestamp": 1737390840,
+            "action": "close long",
+            "amount": 100,
+            "price": 49.276705766632205,
+            "guarantee": 98981.85784433463
+        },
+        {
+            "key": 42,
+            "timestamp": 1737391440,
+            "action": "open long",
+            "amount": 100,
+            "price": 51.048852756352375,
+            "guarantee": 93876.97256869939
+        },
+        {
+            "key": 42,
+            "timestamp": 1737392640,
+            "action": "close long",
+            "amount": 100,
+            "price": 47.94071943940565,
+            "guarantee": 98671.04451263996
+        },
+        {
+            "key": 43,
+            "timestamp": 1737392880,
+            "action": "open long",
+            "amount": 100,
+            "price": 44.44143717405668,
+            "guarantee": 94226.9007952343
+        },
+        {
+            "key": 43,
+            "timestamp": 1737393300,
+            "action": "close long",
+            "amount": 100,
+            "price": 45.43279558292317,
+            "guarantee": 98770.18035352661
+        },
+        {
+            "key": 44,
+            "timestamp": 1737393420,
+            "action": "open long",
+            "amount": 100,
+            "price": 44.483671857844186,
+            "guarantee": 94321.81316774219
+        },
+        {
+            "key": 44,
+            "timestamp": 1737393660,
+            "action": "close long",
+            "amount": 100,
+            "price": 44.45702531084912,
+            "guarantee": 98767.5156988271
+        },
+        {
+            "key": 45,
+            "timestamp": 1737394380,
+            "action": "open long",
+            "amount": 100,
+            "price": 42.12707181409696,
+            "guarantee": 94554.8085174174
+        },
+        {
+            "key": 45,
+            "timestamp": 1737394740,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.97228548304167,
+            "guarantee": 98352.03706572157
+        },
+        {
+            "key": 46,
+            "timestamp": 1737395640,
+            "action": "open long",
+            "amount": 100,
+            "price": 43.16954256241848,
+            "guarantee": 94035.08280947972
+        },
+        {
+            "key": 46,
+            "timestamp": 1737395880,
+            "action": "close long",
+            "amount": 100,
+            "price": 40.88671939294368,
+            "guarantee": 98123.75474877408
+        },
+        {
+            "key": 47,
+            "timestamp": 1737396180,
+            "action": "open long",
+            "amount": 100,
+            "price": 42.3836265500723,
+            "guarantee": 93885.39209376684
+        },
+        {
+            "key": 47,
+            "timestamp": 1737396480,
+            "action": "close long",
+            "amount": 100,
+            "price": 40.74951733595168,
+            "guarantee": 97960.34382736201
+        },
+        {
+            "key": 48,
+            "timestamp": 1737396900,
+            "action": "open long",
+            "amount": 100,
+            "price": 41.25116427917207,
+            "guarantee": 93835.2273994448
+        },
+        {
+            "key": 48,
+            "timestamp": 1737396960,
+            "action": "close long",
+            "amount": 100,
+            "price": 41.32684370489017,
+            "guarantee": 97967.91176993382
+        },
+        {
+            "key": 49,
+            "timestamp": 1737397380,
+            "action": "open long",
+            "amount": 100,
+            "price": 42.18743811456628,
+            "guarantee": 93749.16795847719
+        },
+        {
+            "key": 49,
+            "timestamp": 1737398160,
+            "action": "close long",
+            "amount": 100,
+            "price": 42.21637493047998,
+            "guarantee": 97970.80545152519
+        },
+        {
+            "key": 50,
+            "timestamp": 1737399000,
+            "action": "open long",
+            "amount": 100,
+            "price": 42.29067169264293,
+            "guarantee": 93741.73828226089
+        },
+        {
+            "key": 50,
+            "timestamp": 1737399780,
+            "action": "close long",
+            "amount": 100,
+            "price": 40.5773125165957,
+            "guarantee": 97799.46953392046
+        },
+        {
+            "key": 51,
+            "timestamp": 1737400680,
+            "action": "open long",
+            "amount": 100,
+            "price": 39.57625306778274,
+            "guarantee": 93841.8442271422
+        },
+        {
+            "key": 51,
+            "timestamp": 1737401340,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.870752105218514,
+            "guarantee": 97728.91943766405
+        },
+        {
+            "key": 52,
+            "timestamp": 1737401700,
+            "action": "open long",
+            "amount": 100,
+            "price": 39.88798738166032,
+            "guarantee": 93740.12069949802
+        },
+        {
+            "key": 52,
+            "timestamp": 1737401820,
+            "action": "takeprofit long",
+            "amount": 100,
+            "price": 41.882386750743336,
+            "guarantee": 97928.35937457235
+        },
+        {
+            "key": 53,
+            "timestamp": 1737402000,
+            "action": "open long",
+            "amount": 100,
+            "price": 41.516861818537095,
+            "guarantee": 93776.67319271863
+        },
+        {
+            "key": 53,
+            "timestamp": 1737402540,
+            "action": "close long",
+            "amount": 100,
+            "price": 42.08815339918378,
+            "guarantee": 97985.48853263701
+        },
+        {
+            "key": 54,
+            "timestamp": 1737403080,
+            "action": "open long",
+            "amount": 100,
+            "price": 42.396538870376055,
+            "guarantee": 93745.8346455994
+        },
+        {
+            "key": 54,
+            "timestamp": 1737403680,
+            "action": "close long",
+            "amount": 100,
+            "price": 41.783026883000375,
+            "guarantee": 97924.13733389945
+        },
+        {
+            "key": 55,
+            "timestamp": 1737403980,
+            "action": "open long",
+            "amount": 100,
+            "price": 41.99252534505741,
+            "guarantee": 93724.88479939371
+        },
+        {
+            "key": 55,
+            "timestamp": 1737404340,
+            "action": "close long",
+            "amount": 100,
+            "price": 40.75584026719964,
+            "guarantee": 97800.46882611368
+        },
+        {
+            "key": 56,
+            "timestamp": 1737404460,
+            "action": "open long",
+            "amount": 100,
+            "price": 40.33866875772201,
+            "guarantee": 93766.60195034147
+        },
+        {
+            "key": 56,
+            "timestamp": 1737404640,
+            "action": "close long",
+            "amount": 100,
+            "price": 40.91490638357951,
+            "guarantee": 97858.09258869942
+        },
+        {
+            "key": 57,
+            "timestamp": 1737405120,
+            "action": "open long",
+            "amount": 100,
+            "price": 40.969519748519886,
+            "guarantee": 93761.14061384744
+        },
+        {
+            "key": 57,
+            "timestamp": 1737405420,
+            "action": "close long",
+            "amount": 100,
+            "price": 41.49206987221357,
+            "guarantee": 97910.3476010688
+        },
+        {
+            "key": 58,
+            "timestamp": 1737405600,
+            "action": "open long",
+            "amount": 100,
+            "price": 41.610200140917975,
+            "guarantee": 93749.327586977
+        },
+        {
+            "key": 58,
+            "timestamp": 1737405720,
+            "action": "close long",
+            "amount": 100,
+            "price": 41.434961013454696,
+            "guarantee": 97892.82368832247
+        },
+        {
+            "key": 59,
+            "timestamp": 1737405840,
+            "action": "open long",
+            "amount": 100,
+            "price": 41.07869039302536,
+            "guarantee": 93784.95464901994
+        },
+        {
+            "key": 59,
+            "timestamp": 1737405960,
+            "action": "close long",
+            "amount": 100,
+            "price": 40.892880625561645,
+            "guarantee": 97874.24271157611
+        },
+        {
+            "key": 60,
+            "timestamp": 1737406020,
+            "action": "open long",
+            "amount": 100,
+            "price": 40.69543340559177,
+            "guarantee": 93804.69937101693
+        },
+        {
+            "key": 60,
+            "timestamp": 1737406320,
+            "action": "close long",
+            "amount": 100,
+            "price": 40.529769814969214,
+            "guarantee": 97857.67635251385
+        },
+        {
+            "key": 61,
+            "timestamp": 1737406740,
+            "action": "open long",
+            "amount": 100,
+            "price": 39.93654765528704,
+            "guarantee": 93864.02158698515
+        },
+        {
+            "key": 61,
+            "timestamp": 1737408000,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.825402632801634,
+            "guarantee": 97746.56185026531
+        },
+        {
+            "key": 62,
+            "timestamp": 1737409260,
+            "action": "open long",
+            "amount": 100,
+            "price": 35.98341016639933,
+            "guarantee": 94148.22083362538
+        },
+        {
+            "key": 62,
+            "timestamp": 1737409800,
+            "action": "close long",
+            "amount": 100,
+            "price": 36.66759045842437,
+            "guarantee": 97814.97987946782
+        },
+        {
+            "key": 63,
+            "timestamp": 1737410100,
+            "action": "open long",
+            "amount": 100,
+            "price": 36.68040316082813,
+            "guarantee": 94146.939563385
+        },
+        {
+            "key": 63,
+            "timestamp": 1737410640,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.874919778082656,
+            "guarantee": 97734.43154119328
+        },
+        {
+            "key": 64,
+            "timestamp": 1737410880,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.68596245588841,
+            "guarantee": 93965.83529560444
+        },
+        {
+            "key": 64,
+            "timestamp": 1737411480,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.80851749553341,
+            "guarantee": 97846.68704515779
+        },
+        {
+            "key": 65,
+            "timestamp": 1737412320,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.80397042519058,
+            "guarantee": 93966.29000263872
+        },
+        {
+            "key": 65,
+            "timestamp": 1737412800,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.537758751817314,
+            "guarantee": 97820.06587782045
+        },
+        {
+            "key": 66,
+            "timestamp": 1737412980,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.86439827110856,
+            "guarantee": 93933.6260507096
+        },
+        {
+            "key": 66,
+            "timestamp": 1737413400,
+            "action": "close long",
+            "amount": 100,
+            "price": 39.09831832560006,
+            "guarantee": 97843.45788326961
+        },
+        {
+            "key": 67,
+            "timestamp": 1737413520,
+            "action": "open long",
+            "amount": 100,
+            "price": 39.17682009421,
+            "guarantee": 93925.77587384862
+        },
+        {
+            "key": 67,
+            "timestamp": 1737413760,
+            "action": "close long",
+            "amount": 100,
+            "price": 40.47130601489744,
+            "guarantee": 97972.90647533836
+        },
+        {
+            "key": 68,
+            "timestamp": 1737415320,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.86254334485401,
+            "guarantee": 94086.65214085295
+        },
+        {
+            "key": 68,
+            "timestamp": 1737415380,
+            "action": "close long",
+            "amount": 100,
+            "price": 39.0882599628885,
+            "guarantee": 97995.4781371418
+        },
+        {
+            "key": 69,
+            "timestamp": 1737415440,
+            "action": "open long",
+            "amount": 100,
+            "price": 39.25064332292746,
+            "guarantee": 94070.41380484906
+        },
+        {
+            "key": 69,
+            "timestamp": 1737415500,
+            "action": "close long",
+            "amount": 100,
+            "price": 39.27221007325357,
+            "guarantee": 97997.63481217441
+        },
+        {
+            "key": 70,
+            "timestamp": 1737416040,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.95478456288739,
+            "guarantee": 94102.15635588567
+        },
+        {
+            "key": 70,
+            "timestamp": 1737416460,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.914275193055225,
+            "guarantee": 97993.5838751912
+        },
+        {
+            "key": 71,
+            "timestamp": 1737416520,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.98013320448536,
+            "guarantee": 94095.57055474266
+        },
+        {
+            "key": 71,
+            "timestamp": 1737416640,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.80690541778704,
+            "guarantee": 97976.26109652137
+        },
+        {
+            "key": 72,
+            "timestamp": 1737417180,
+            "action": "open long",
+            "amount": 100,
+            "price": 36.81974788588364,
+            "guarantee": 94294.286307933
+        },
+        {
+            "key": 72,
+            "timestamp": 1737417960,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.959619436571266,
+            "guarantee": 97890.24825159012
+        },
+        {
+            "key": 73,
+            "timestamp": 1737418380,
+            "action": "open long",
+            "amount": 100,
+            "price": 36.18882255924411,
+            "guarantee": 94271.3659956657
+        },
+        {
+            "key": 73,
+            "timestamp": 1737418860,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.95126734614578,
+            "guarantee": 97866.49273028028
+        },
+        {
+            "key": 74,
+            "timestamp": 1737419280,
+            "action": "open long",
+            "amount": 100,
+            "price": 34.42833962687665,
+            "guarantee": 94423.65876759261
+        },
+        {
+            "key": 74,
+            "timestamp": 1737419700,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.52438058642009,
+            "guarantee": 97976.09682623463
+        },
+        {
+            "key": 75,
+            "timestamp": 1737420480,
+            "action": "open long",
+            "amount": 100,
+            "price": 33.016572837300025,
+            "guarantee": 94674.43954250462
+        },
+        {
+            "key": 75,
+            "timestamp": 1737420840,
+            "action": "close long",
+            "amount": 100,
+            "price": 32.147144940817775,
+            "guarantee": 97889.1540365864
+        },
+        {
+            "key": 76,
+            "timestamp": 1737421380,
+            "action": "open long",
+            "amount": 100,
+            "price": 32.73854401759924,
+            "guarantee": 94615.29963482649
+        },
+        {
+            "key": 76,
+            "timestamp": 1737422040,
+            "action": "takeprofit long",
+            "amount": 100,
+            "price": 34.375471218479206,
+            "guarantee": 98052.84675667441
+        },
+        {
+            "key": 77,
+            "timestamp": 1737422280,
+            "action": "open long",
+            "amount": 100,
+            "price": 34.30841967635372,
+            "guarantee": 94622.00478903904
+        },
+        {
+            "key": 77,
+            "timestamp": 1737422700,
+            "action": "close long",
+            "amount": 100,
+            "price": 34.021491598264014,
+            "guarantee": 98024.15394886544
+        },
+        {
+            "key": 78,
+            "timestamp": 1737423720,
+            "action": "open long",
+            "amount": 100,
+            "price": 31.48813459558746,
+            "guarantee": 94875.34048930669
+        },
+        {
+            "key": 78,
+            "timestamp": 1737423780,
+            "action": "close long",
+            "amount": 100,
+            "price": 31.308260625070144,
+            "guarantee": 98006.1665518137
+        },
+        {
+            "key": 79,
+            "timestamp": 1737424980,
+            "action": "open long",
+            "amount": 100,
+            "price": 32.0815484111394,
+            "guarantee": 94798.01171069976
+        },
+        {
+            "key": 79,
+            "timestamp": 1737425160,
+            "action": "close long",
+            "amount": 100,
+            "price": 32.75639100440303,
+            "guarantee": 98073.65081114006
+        },
+        {
+            "key": 80,
+            "timestamp": 1737425460,
+            "action": "open long",
+            "amount": 100,
+            "price": 33.87828755346808,
+            "guarantee": 94685.82205579325
+        },
+        {
+            "key": 80,
+            "timestamp": 1737425940,
+            "action": "close long",
+            "amount": 100,
+            "price": 33.881802260973835,
+            "guarantee": 98074.00228189063
+        },
+        {
+            "key": 81,
+            "timestamp": 1737426720,
+            "action": "open long",
+            "amount": 100,
+            "price": 34.10007704647948,
+            "guarantee": 94663.99457724269
+        },
+        {
+            "key": 81,
+            "timestamp": 1737427020,
+            "action": "close long",
+            "amount": 100,
+            "price": 34.67923665356129,
+            "guarantee": 98131.91824259881
+        },
+        {
+            "key": 82,
+            "timestamp": 1737427320,
+            "action": "open long",
+            "amount": 100,
+            "price": 33.95207391930825,
+            "guarantee": 94736.71085066798
+        },
+        {
+            "key": 82,
+            "timestamp": 1737427440,
+            "action": "close long",
+            "amount": 100,
+            "price": 33.53566433564076,
+            "guarantee": 98090.27728423206
+        },
+        {
+            "key": 83,
+            "timestamp": 1737427860,
+            "action": "open long",
+            "amount": 100,
+            "price": 34.500929785205976,
+            "guarantee": 94640.18430571146
+        },
+        {
+            "key": 83,
+            "timestamp": 1737427920,
+            "action": "close long",
+            "amount": 100,
+            "price": 34.70849524485211,
+            "guarantee": 98111.03383019667
+        },
+        {
+            "key": 84,
+            "timestamp": 1737428760,
+            "action": "open long",
+            "amount": 100,
+            "price": 35.956455329103385,
+            "guarantee": 94515.38829728634
+        },
+        {
+            "key": 84,
+            "timestamp": 1737429240,
+            "action": "close long",
+            "amount": 100,
+            "price": 36.85493283890667,
+            "guarantee": 98200.881581177
+        },
+        {
+            "key": 85,
+            "timestamp": 1737430080,
+            "action": "open long",
+            "amount": 100,
+            "price": 35.9524886245136,
+            "guarantee": 94605.63271872564
+        },
+        {
+            "key": 85,
+            "timestamp": 1737430260,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.90463865237419,
+            "guarantee": 98196.09658396305
+        },
+        {
+            "key": 86,
+            "timestamp": 1737430860,
+            "action": "open long",
+            "amount": 100,
+            "price": 36.2124430651342,
+            "guarantee": 94574.85227744964
+        },
+        {
+            "key": 86,
+            "timestamp": 1737431040,
+            "action": "close long",
+            "amount": 100,
+            "price": 36.17652754742032,
+            "guarantee": 98192.50503219166
+        },
+        {
+            "key": 87,
+            "timestamp": 1737431340,
+            "action": "open long",
+            "amount": 100,
+            "price": 35.189653286013424,
+            "guarantee": 94673.53970359032
+        },
+        {
+            "key": 87,
+            "timestamp": 1737431760,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.444392866087256,
+            "guarantee": 98217.97899019904
+        },
+        {
+            "key": 88,
+            "timestamp": 1737432600,
+            "action": "open long",
+            "amount": 100,
+            "price": 33.488872735978546,
+            "guarantee": 94869.0917166012
+        },
+        {
+            "key": 88,
+            "timestamp": 1737432780,
+            "action": "close long",
+            "amount": 100,
+            "price": 33.77293214343451,
+            "guarantee": 98246.38493094464
+        },
+        {
+            "key": 89,
+            "timestamp": 1737433260,
+            "action": "open long",
+            "amount": 100,
+            "price": 33.234090831898875,
+            "guarantee": 94922.97584775474
+        },
+        {
+            "key": 89,
+            "timestamp": 1737434040,
+            "action": "close long",
+            "amount": 100,
+            "price": 32.410373981977074,
+            "guarantee": 98164.01324595245
+        },
+        {
+            "key": 90,
+            "timestamp": 1737434400,
+            "action": "open long",
+            "amount": 100,
+            "price": 32.03298791661042,
+            "guarantee": 94960.7144542914
+        },
+        {
+            "key": 90,
+            "timestamp": 1737434460,
+            "action": "close long",
+            "amount": 100,
+            "price": 32.4018262075492,
+            "guarantee": 98200.89707504632
+        },
+        {
+            "key": 91,
+            "timestamp": 1737434760,
+            "action": "open long",
+            "amount": 100,
+            "price": 32.581855229201295,
+            "guarantee": 94942.71155212619
+        },
+        {
+            "key": 91,
+            "timestamp": 1737435960,
+            "action": "close long",
+            "amount": 100,
+            "price": 32.78406536936856,
+            "guarantee": 98221.11808906305
+        },
+        {
+            "key": 92,
+            "timestamp": 1737436020,
+            "action": "open long",
+            "amount": 100,
+            "price": 32.70725279787076,
+            "guarantee": 94950.39280927597
+        },
+        {
+            "key": 92,
+            "timestamp": 1737437100,
+            "action": "close long",
+            "amount": 100,
+            "price": 33.74584422885,
+            "guarantee": 98324.97723216098
+        },
+        {
+            "key": 93,
+            "timestamp": 1737437280,
+            "action": "open long",
+            "amount": 100,
+            "price": 34.12781853239535,
+            "guarantee": 94912.19537892145
+        },
+        {
+            "key": 93,
+            "timestamp": 1737437520,
+            "action": "close long",
+            "amount": 100,
+            "price": 33.62398298183149,
+            "guarantee": 98274.5936771046
+        },
+        {
+            "key": 94,
+            "timestamp": 1737437820,
+            "action": "open long",
+            "amount": 100,
+            "price": 33.38605186439634,
+            "guarantee": 94935.98849066497
+        },
+        {
+            "key": 94,
+            "timestamp": 1737438540,
+            "action": "close long",
+            "amount": 100,
+            "price": 33.73456194847,
+            "guarantee": 98309.44468551197
+        },
+        {
+            "key": 95,
+            "timestamp": 1737438600,
+            "action": "open long",
+            "amount": 100,
+            "price": 33.60240105114063,
+            "guarantee": 94949.20458039791
+        },
+        {
+            "key": 95,
+            "timestamp": 1737439380,
+            "action": "close long",
+            "amount": 100,
+            "price": 34.13944085456667,
+            "guarantee": 98363.14866585458
+        },
+        {
+            "key": 96,
+            "timestamp": 1737439620,
+            "action": "open long",
+            "amount": 100,
+            "price": 34.547081484179245,
+            "guarantee": 94908.44051743665
+        },
+        {
+            "key": 96,
+            "timestamp": 1737440280,
+            "action": "close long",
+            "amount": 100,
+            "price": 34.71618297509265,
+            "guarantee": 98380.05881494592
+        },
+        {
+            "key": 97,
+            "timestamp": 1737440340,
+            "action": "open long",
+            "amount": 100,
+            "price": 34.70583426197658,
+            "guarantee": 94909.47538874827
+        },
+        {
+            "key": 97,
+            "timestamp": 1737440640,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.380780477613165,
+            "guarantee": 98447.55343650958
+        },
+        {
+            "key": 98,
+            "timestamp": 1737440760,
+            "action": "open long",
+            "amount": 100,
+            "price": 35.97314123392592,
+            "guarantee": 94850.239313117
+        },
+        {
+            "key": 98,
+            "timestamp": 1737441420,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.354760916700634,
+            "guarantee": 98385.71540478706
+        },
+        {
+            "key": 99,
+            "timestamp": 1737441840,
+            "action": "open long",
+            "amount": 100,
+            "price": 34.76780191707007,
+            "guarantee": 94908.93521308005
+        },
+        {
+            "key": 99,
+            "timestamp": 1737442260,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.80440311422807,
+            "guarantee": 98489.37552450286
+        },
+        {
+            "key": 100,
+            "timestamp": 1737442680,
+            "action": "open long",
+            "amount": 100,
+            "price": 35.89486678811261,
+            "guarantee": 94899.8888456916
+        },
+        {
+            "key": 100,
+            "timestamp": 1737444000,
+            "action": "close long",
+            "amount": 100,
+            "price": 34.95165516347515,
+            "guarantee": 98395.05436203911
+        },
+        {
+            "key": 101,
+            "timestamp": 1737444120,
+            "action": "open long",
+            "amount": 100,
+            "price": 35.1296547424068,
+            "guarantee": 94882.08888779843
+        },
+        {
+            "key": 101,
+            "timestamp": 1737444480,
+            "action": "close long",
+            "amount": 100,
+            "price": 35.872125494767005,
+            "guarantee": 98469.30143727512
+        },
+        {
+            "key": 102,
+            "timestamp": 1737445500,
+            "action": "open long",
+            "amount": 100,
+            "price": 35.87681862347777,
+            "guarantee": 94881.61957492735
+        },
+        {
+            "key": 102,
+            "timestamp": 1737446040,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.015774130031794,
+            "guarantee": 98583.19698793053
+        },
+        {
+            "key": 103,
+            "timestamp": 1737446220,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.449378697360224,
+            "guarantee": 94738.2591181945
+        },
+        {
+            "key": 103,
+            "timestamp": 1737446400,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.42738947254767,
+            "guarantee": 98580.99806544927
+        },
+        {
+            "key": 104,
+            "timestamp": 1737446520,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.79631850739797,
+            "guarantee": 94801.36621470947
+        },
+        {
+            "key": 104,
+            "timestamp": 1737446580,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.9032695118546,
+            "guarantee": 98591.69316589493
+        },
+        {
+            "key": 105,
+            "timestamp": 1737446640,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.145914155999726,
+            "guarantee": 94777.10175029495
+        },
+        {
+            "key": 105,
+            "timestamp": 1737447300,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.502351777816976,
+            "guarantee": 98627.33692807665
+        },
+        {
+            "key": 106,
+            "timestamp": 1737447480,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.91380645549511,
+            "guarantee": 94835.95628252714
+        },
+        {
+            "key": 106,
+            "timestamp": 1737447660,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.03509323949278,
+            "guarantee": 98639.46560647641
+        },
+        {
+            "key": 107,
+            "timestamp": 1737448140,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.31395524456861,
+            "guarantee": 94908.07008201955
+        },
+        {
+            "key": 107,
+            "timestamp": 1737448440,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.79690469425613,
+            "guarantee": 98687.76055144516
+        },
+        {
+            "key": 108,
+            "timestamp": 1737448620,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.85582101099456,
+            "guarantee": 94802.1784503457
+        },
+        {
+            "key": 108,
+            "timestamp": 1737448800,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.95035663153945,
+            "guarantee": 98697.21411349965
+        },
+        {
+            "key": 109,
+            "timestamp": 1737449520,
+            "action": "open long",
+            "amount": 100,
+            "price": 40.257814452110296,
+            "guarantee": 94671.43266828862
+        },
+        {
+            "key": 109,
+            "timestamp": 1737450060,
+            "action": "close long",
+            "amount": 100,
+            "price": 39.65679322767602,
+            "guarantee": 98637.11199105621
+        },
+        {
+            "key": 110,
+            "timestamp": 1737450120,
+            "action": "open long",
+            "amount": 100,
+            "price": 39.58315460631915,
+            "guarantee": 94678.7965304243
+        },
+        {
+            "key": 110,
+            "timestamp": 1737450240,
+            "action": "close long",
+            "amount": 100,
+            "price": 39.451366861008125,
+            "guarantee": 98623.93321652511
+        },
+        {
+            "key": 111,
+            "timestamp": 1737450720,
+            "action": "open long",
+            "amount": 100,
+            "price": 41.31388531018216,
+            "guarantee": 94492.5446855069
+        },
+        {
+            "key": 111,
+            "timestamp": 1737450960,
+            "action": "close long",
+            "amount": 100,
+            "price": 41.00158913277044,
+            "guarantee": 98592.70359878395
+        },
+        {
+            "key": 112,
+            "timestamp": 1737451380,
+            "action": "open long",
+            "amount": 100,
+            "price": 39.72823582566042,
+            "guarantee": 94619.88001621791
+        },
+        {
+            "key": 112,
+            "timestamp": 1737451800,
+            "action": "close long",
+            "amount": 100,
+            "price": 40.225662934939386,
+            "guarantee": 98642.44630971184
+        },
+        {
+            "key": 113,
+            "timestamp": 1737453240,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.07579112714915,
+            "guarantee": 94834.86719699693
+        },
+        {
+            "key": 113,
+            "timestamp": 1737453360,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.28121781797047,
+            "guarantee": 98662.98897879398
+        },
+        {
+            "key": 114,
+            "timestamp": 1737453780,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.56212671448935,
+            "guarantee": 94906.77630734505
+        },
+        {
+            "key": 114,
+            "timestamp": 1737454320,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.91117871553031,
+            "guarantee": 98697.89417889807
+        },
+        {
+            "key": 115,
+            "timestamp": 1737455580,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.81000082596299,
+            "guarantee": 94816.89409630178
+        },
+        {
+            "key": 115,
+            "timestamp": 1737456540,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.979261575913696,
+            "guarantee": 98714.82025389315
+        },
+        {
+            "key": 116,
+            "timestamp": 1737457080,
+            "action": "open long",
+            "amount": 100,
+            "price": 38.83119911916469,
+            "guarantee": 94831.70034197668
+        },
+        {
+            "key": 116,
+            "timestamp": 1737457440,
+            "action": "close long",
+            "amount": 100,
+            "price": 39.3874941039,
+            "guarantee": 98770.44975236668
+        },
+        {
+            "key": 117,
+            "timestamp": 1737458340,
+            "action": "open long",
+            "amount": 100,
+            "price": 39.71018665112821,
+            "guarantee": 94799.43108725386
+        },
+        {
+            "key": 117,
+            "timestamp": 1737459000,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.78052919277467,
+            "guarantee": 98677.48400653133
+        },
+        {
+            "key": 118,
+            "timestamp": 1737460200,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.17023474072596,
+            "guarantee": 94960.46053245873
+        },
+        {
+            "key": 118,
+            "timestamp": 1737460680,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.85438945644687,
+            "guarantee": 98745.89947810341
+        },
+        {
+            "key": 119,
+            "timestamp": 1737460800,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.543672662707,
+            "guarantee": 94991.53221183272
+        },
+        {
+            "key": 119,
+            "timestamp": 1737461040,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.83599055790668,
+            "guarantee": 98775.13126762338
+        },
+        {
+            "key": 120,
+            "timestamp": 1737461100,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.51854806109441,
+            "guarantee": 95023.27646151395
+        },
+        {
+            "key": 120,
+            "timestamp": 1737461340,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.38160160481911,
+            "guarantee": 98761.43662199586
+        },
+        {
+            "key": 121,
+            "timestamp": 1737462120,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.77566959392331,
+            "guarantee": 94983.86966260352
+        },
+        {
+            "key": 121,
+            "timestamp": 1737463080,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.91244492839608,
+            "guarantee": 98775.11415544314
+        },
+        {
+            "key": 122,
+            "timestamp": 1737463680,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.171902664513134,
+            "guarantee": 95057.92388899182
+        },
+        {
+            "key": 122,
+            "timestamp": 1737463980,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.34527549453603,
+            "guarantee": 98892.45143844542
+        },
+        {
+            "key": 123,
+            "timestamp": 1737464280,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.95690621380891,
+            "guarantee": 95096.76081706453
+        },
+        {
+            "key": 123,
+            "timestamp": 1737464640,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.55418340757294,
+            "guarantee": 98852.17915782183
+        },
+        {
+            "key": 124,
+            "timestamp": 1737465000,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.15415539657298,
+            "guarantee": 95136.76361816452
+        },
+        {
+            "key": 124,
+            "timestamp": 1737465060,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.19622382249132,
+            "guarantee": 98856.38600041365
+        },
+        {
+            "key": 125,
+            "timestamp": 1737465420,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.31313792781988,
+            "guarantee": 95125.07220763166
+        },
+        {
+            "key": 125,
+            "timestamp": 1737465720,
+            "action": "close long",
+            "amount": 100,
+            "price": 38.06580060251114,
+            "guarantee": 98931.65226788278
+        },
+        {
+            "key": 126,
+            "timestamp": 1737467040,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.98724088416654,
+            "guarantee": 95132.92817946612
+        },
+        {
+            "key": 126,
+            "timestamp": 1737467520,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.932558275528216,
+            "guarantee": 98926.18400701895
+        },
+        {
+            "key": 127,
+            "timestamp": 1737468420,
+            "action": "open long",
+            "amount": 100,
+            "price": 37.5304352051301,
+            "guarantee": 95173.14048650594
+        },
+        {
+            "key": 127,
+            "timestamp": 1737468960,
+            "action": "close long",
+            "amount": 100,
+            "price": 37.34555546810901,
+            "guarantee": 98907.69603331684
+        },
+        {
+            "key": 128,
+            "timestamp": 1737471240,
+            "action": "open long",
+            "amount": 100,
+            "price": 39.03048501295792,
+            "guarantee": 95004.64753202104
+        }
+    ]
+}
